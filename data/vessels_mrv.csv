@@ -1,0 +1,1571 @@
+imo,name,ship_type,dwt,dwt_size_class,efficiency_grade,flag_registry,technical_efficiency,co2_total_t,co2_per_distance_kg_nm,in_mrv
+9884978,NORDIC QINNGUA,Bulk carrier,95709.0,Panamax (60-100k),D,Majuro,EEXI (3.24 gCO₂/t·nm),10977.0,309.8,True
+9478030,STAR DIAMOND,Bulk carrier,93407.0,Panamax (60-100k),E,Nassau,EEXI (3.27 gCO₂/t·nm),1861.4,380.7,True
+9587477,AM POINT LISAS,Bulk carrier,93238.0,Panamax (60-100k),E,Panama,EIV (4.36 gCO₂/t·nm),3868.1,345.1,True
+9548237,CLIA,Bulk carrier,92968.0,Panamax (60-100k),E,Monrovia,EEXI (3.28 gCO₂/t·nm),1897.9,396.2,True
+9476666,W-SKY,Bulk carrier,92929.0,Panamax (60-100k),E,Monrovia,EEXI (3.28 gCO₂/t·nm),5935.6,352.5,True
+9332016,KOUTALIANOS,Bulk carrier,92710.0,Panamax (60-100k),E,Monrovia,EIV (4 gCO₂/t·nm),6245.0,405.8,True
+9343845,KYZIKOS,Bulk carrier,92598.0,Panamax (60-100k),E,Monrovia,EIV (4.18 gCO₂/t·nm),2960.2,414.6,True
+9343895,ARIS T,Bulk carrier,92524.0,Panamax (60-100k),E,Valletta,EIV (4 gCO₂/t·nm),2785.7,434.4,True
+9919917,AFFINITY DIVA,Bulk carrier,88993.0,Panamax (60-100k),A,Monrovia,EEDI (2.98 gCO₂/t·nm),807.8,216.8,True
+9423293,YANNIS GORGIAS,Bulk carrier,87375.0,Panamax (60-100k),E,Valletta,EEXI (3.38 gCO₂/t·nm),3901.7,587.1,True
+9425136,IOLCOS LEGACY,Bulk carrier,87375.0,Panamax (60-100k),E,Valletta,EIV (3.86 gCO₂/t·nm),3228.8,358.6,True
+9317834,XENIA,Bulk carrier,87144.0,Panamax (60-100k),E,Limassol,EIV (5.11 gCO₂/t·nm),4876.2,331.8,True
+9936252,EMERALD DINGHAI,Bulk carrier,85527.0,Panamax (60-100k),D,Monrovia,EEDI (3.14 gCO₂/t·nm),3721.4,300.8,True
+9875135,TROODOS OAK,Bulk carrier,85439.0,Panamax (60-100k),E,Limassol,EEXI (3.37 gCO₂/t·nm),2368.8,433.3,True
+9911587,CL GENEVA,Bulk carrier,85229.0,Panamax (60-100k),D,Hong Kong,EEXI (3.25 gCO₂/t·nm),12791.9,290.8,True
+9949297,XING YANG HAI,Bulk carrier,85016.0,Panamax (60-100k),C,Singapore,EEXI (3.23 gCO₂/t·nm),3405.7,275.8,True
+9950715,GOLDEN SOUL,Bulk carrier,84986.0,Panamax (60-100k),C,Majuro,EEXI (3.18 gCO₂/t·nm),2294.5,277.1,True
+9712486,S SAMBA,Bulk carrier,84867.0,Panamax (60-100k),D,Madeira,EEXI (3.35 gCO₂/t·nm),8541.2,286.0,True
+9712498,S RUMBA,Bulk carrier,84867.0,Panamax (60-100k),E,Majuro,EEXI (3.35 gCO₂/t·nm),3166.9,343.4,True
+9748033,CRIMSON KINGDOM,Bulk carrier,84860.0,Panamax (60-100k),D,Singapore,EEDI (3.4 gCO₂/t·nm),8358.0,288.0,True
+9757785,NAVIOS ALEGRIA,Bulk carrier,84852.0,Panamax (60-100k),C,Panama City,EEDI (3.36 gCO₂/t·nm),806.7,265.9,True
+9698238,TROODOS SUN,Bulk carrier,84849.0,Panamax (60-100k),D,Limassol,EEDI (3.38 gCO₂/t·nm),7932.6,309.6,True
+9796195,IONIC KALLIRHOE,Bulk carrier,84769.0,Panamax (60-100k),C,Majuro,EEDI (3.33 gCO₂/t·nm),4767.1,274.8,True
+9525613,MAHA YAYA,Bulk carrier,84108.0,Panamax (60-100k),E,Mumbai,EIV (3.79 gCO₂/t·nm),4613.3,386.2,True
+9591143,AKAKI,Bulk carrier,84075.0,Panamax (60-100k),D,Limassol,EIV (3.86 gCO₂/t·nm),2702.6,306.9,True
+9503782,IOLCOS GENESIS,Bulk carrier,84062.0,Panamax (60-100k),E,Majuro,EIV (3.94 gCO₂/t·nm),2058.5,334.3,True
+9591179,SENECA,Bulk carrier,83975.0,Panamax (60-100k),E,Limassol,EEXI (3.44 gCO₂/t·nm),8017.0,333.2,True
+9381524,PEDHOULAS COMMANDER,Bulk carrier,83684.0,Panamax (60-100k),C,Limassol,EIV (5.55 gCO₂/t·nm),4547.3,256.7,True
+9652507,FJELD SAGA,Bulk carrier,82908.0,Panamax (60-100k),E,Majuro,EIV (4.16 gCO₂/t·nm),1743.0,323.1,True
+9301055,NAVIOS HARMONY,Bulk carrier,82790.0,Panamax (60-100k),E,Panama,EEXI (3.47 gCO₂/t·nm),7016.2,315.2,True
+9625827,PAN TOPAZ,Bulk carrier,82787.0,Panamax (60-100k),D,Panama,EEXI (3.47 gCO₂/t·nm),3568.8,296.5,True
+9959400,YM THERESA,Bulk carrier,82778.0,Panamax (60-100k),B,Majuro,EEDI (2.89 gCO₂/t·nm),5825.0,245.8,True
+9949651,GRAND OCEAN,Bulk carrier,82689.0,Panamax (60-100k),C,Majuro,EEDI (2.91 gCO₂/t·nm),1445.9,274.3,True
+9398668,ELLINA,Bulk carrier,82612.0,Panamax (60-100k),D,Valletta,EEXI (3.46 gCO₂/t·nm),3857.7,305.1,True
+9937218,YM RESPECT,Bulk carrier,82599.0,Panamax (60-100k),B,Majuro,EEDI (3.15 gCO₂/t·nm),2861.5,222.0,True
+9401489,STAR MARIA,Bulk carrier,82598.0,Panamax (60-100k),C,Majuro,EEXI (3.47 gCO₂/t·nm),1400.6,277.7,True
+9922287,PRESTIGE DIVA,Bulk carrier,82597.0,Panamax (60-100k),B,Panama,EEDI (3.19 gCO₂/t·nm),4708.4,227.8,True
+9909223,ARISTO OCEAN,Bulk carrier,82577.0,Panamax (60-100k),B,Majuro,EEXI (3.16 gCO₂/t·nm),970.1,230.4,True
+9909194,ACRUX AMELIA,Bulk carrier,82577.0,Panamax (60-100k),D,Monrovia,EEXI (3.23 gCO₂/t·nm),3253.9,286.2,True
+9442756,LONDON 2012,Bulk carrier,82562.0,Panamax (60-100k),D,Monrovia,EEXI (3.47 gCO₂/t·nm),1818.9,306.7,True
+9900095,URSULA MANX,Bulk carrier,82561.0,Panamax (60-100k),C,Douglas,EEXI (3.1 gCO₂/t·nm),2392.9,260.5,True
+9897901,THUNDER ISLAND,Bulk carrier,82558.0,Panamax (60-100k),C,Panama,EEDI (3.13 gCO₂/t·nm),13024.4,251.1,True
+9902275,VITA UNITY,Bulk carrier,82545.0,Panamax (60-100k),B,Monrovia,EEDI (3.12 gCO₂/t·nm),5695.0,227.8,True
+9892676,SAKIZAYA UNICORN,Bulk carrier,82527.0,Panamax (60-100k),A,Monrovia,EEDI (3.28 gCO₂/t·nm),2900.2,217.0,True
+9913030,SAKIZAYA ZEST,Bulk carrier,82501.0,Panamax (60-100k),B,Panama,EEDI (3.18 gCO₂/t·nm),7382.4,248.0,True
+9861328,SAKIZAYA TREASURE,Bulk carrier,82500.0,Panamax (60-100k),A,Monrovia,EEXI (3.27 gCO₂/t·nm),3083.4,214.3,True
+9326275,ZOI XL,Bulk carrier,82489.0,Panamax (60-100k),E,Majuro,EEXI (3.48 gCO₂/t·nm),4291.6,325.1,True
+9392444,BRAVEHEART I,Bulk carrier,82471.0,Panamax (60-100k),E,Monrovia,EEXI (3.46 gCO₂/t·nm),3739.4,341.4,True
+9313307,GLORIA,Bulk carrier,82464.0,Panamax (60-100k),E,Monrovia,EIV (4.18 gCO₂/t·nm),4428.0,334.8,True
+9968360,DUCHESS EMERALD,Bulk carrier,82464.0,Panamax (60-100k),B,Singapore,EEDI (3.14 gCO₂/t·nm),1579.5,220.7,True
+9836787,BASIC VICTORY,Bulk carrier,82457.0,Panamax (60-100k),C,Majuro,EEDI (3.22 gCO₂/t·nm),4951.4,253.3,True
+9947249,JEN LR,Bulk carrier,82411.0,Panamax (60-100k),C,Panama,EEDI (3.16 gCO₂/t·nm),4560.5,250.7,True
+9929338,VOLUTINA,Bulk carrier,82408.0,Panamax (60-100k),C,Panama,EEDI (3.25 gCO₂/t·nm),10556.9,275.7,True
+9942615,PROTECTOR,Bulk carrier,82357.0,Panamax (60-100k),D,Monrovia,EEDI (3.12 gCO₂/t·nm),1627.9,289.7,True
+9336880,ELENA,Bulk carrier,82356.0,Panamax (60-100k),D,Nassau,EEXI (3.48 gCO₂/t·nm),6005.1,290.4,True
+9552991,NORD KARAS,Bulk carrier,82354.0,Panamax (60-100k),B,Majuro,EEXI (3.39 gCO₂/t·nm),5525.8,228.0,True
+9336907,GLORY NAVIGATOR,Bulk carrier,82331.0,Panamax (60-100k),E,Panama,EIV (4 gCO₂/t·nm),6084.8,330.7,True
+9938779,CL XIANGXI,Bulk carrier,82328.0,Panamax (60-100k),B,Majuro,EEXI (3.16 gCO₂/t·nm),480.0,245.4,True
+9911410,AOM MARIA LAURA,Bulk carrier,82312.0,Panamax (60-100k),D,Panama,EEDI (3.2 gCO₂/t·nm),5300.4,296.0,True
+9906465,SERENDIPITY,Bulk carrier,82298.0,Panamax (60-100k),C,Madeira,EEDI (3.2 gCO₂/t·nm),4254.8,261.3,True
+9933250,FIRST MARGAUX,Bulk carrier,82276.0,Panamax (60-100k),D,Panama,EEDI (3.24 gCO₂/t·nm),889.4,289.2,True
+9933248,AQUAPRIMA,Bulk carrier,82270.0,Panamax (60-100k),C,Panama,EEDI (3.2 gCO₂/t·nm),3063.4,260.9,True
+9929390,NORD ANDROMEDA,Bulk carrier,82251.0,Panamax (60-100k),D,Singapore,EEDI (3.19 gCO₂/t·nm),2389.4,303.8,True
+9485021,CRIMSON EMPRESS,Bulk carrier,82250.0,Panamax (60-100k),C,Singapore,EIV (3.4 gCO₂/t·nm),2800.1,266.0,True
+9470492,VITAOCEAN,Bulk carrier,82250.0,Panamax (60-100k),D,Monrovia,EIV (4.7 gCO₂/t·nm),7402.2,300.1,True
+9926130,POMONE,Bulk carrier,82247.0,Panamax (60-100k),D,Singapore,EEDI (3.19 gCO₂/t·nm),3009.9,278.0,True
+9937555,TRUSTN TRADER,Bulk carrier,82245.0,Panamax (60-100k),C,Panama,EEDI (3.2 gCO₂/t·nm),1922.7,255.8,True
+9609627,SCARLET ROSELLA,Bulk carrier,82235.0,Panamax (60-100k),C,Panama,EIV (4.24 gCO₂/t·nm),6506.7,265.6,True
+9936769,PROGRESS TRADER,Bulk carrier,82231.0,Panamax (60-100k),D,Panama,EEDI (3.17 gCO₂/t·nm),3754.3,293.8,True
+9846122,GENEVAN TRADER,Bulk carrier,82226.0,Panamax (60-100k),C,Panama,EEDI (3.31 gCO₂/t·nm),5174.5,264.1,True
+9518165,CAPELLA,Bulk carrier,82224.0,Panamax (60-100k),E,Madeira,EEXI (3.48 gCO₂/t·nm),6114.5,342.8,True
+9279800,PEDHOULAS MERCHANT,Bulk carrier,82214.0,Panamax (60-100k),E,Limassol,EEXI (3.46 gCO₂/t·nm),7060.3,360.6,True
+9952402,MELTEMI,Bulk carrier,82206.0,Panamax (60-100k),D,Madeira,EEDI (3.18 gCO₂/t·nm),5084.6,283.0,True
+9622423,BISON,Bulk carrier,82197.0,Panamax (60-100k),D,Monrovia,EEXI (3.47 gCO₂/t·nm),1825.2,295.8,True
+9946764,ORIENT PEONY,Bulk carrier,82195.0,Panamax (60-100k),C,Singapore,EEXI (3.28 gCO₂/t·nm),1543.3,264.6,True
+9422938,MAIA,Bulk carrier,82193.0,Panamax (60-100k),C,Majuro,EEXI (3.48 gCO₂/t·nm),3103.1,274.0,True
+9846093,LEMAN TRADER,Bulk carrier,82192.0,Panamax (60-100k),C,Panama,EEDI (3.32 gCO₂/t·nm),4315.0,260.8,True
+9461453,LOCARNO,Bulk carrier,82188.0,Panamax (60-100k),E,Majuro,EEXI (3.48 gCO₂/t·nm),1533.6,317.3,True
+9952414,MOUDROS,Bulk carrier,82177.0,Panamax (60-100k),C,Panama,EEDI (3.23 gCO₂/t·nm),11326.8,260.6,True
+9583184,AM CONTRECOEUR,Bulk carrier,82177.0,Panamax (60-100k),D,Panama,EIV (4.34 gCO₂/t·nm),2375.9,294.9,True
+9583213,ATHINOULA,Bulk carrier,82177.0,Panamax (60-100k),C,Majuro,EEXI (3.45 gCO₂/t·nm),10633.0,271.4,True
+9520766,KEY ACTION,Bulk carrier,82168.0,Panamax (60-100k),C,Monrovia,EIV (3.71 gCO₂/t·nm),1470.2,270.8,True
+9505352,ANDROS,Bulk carrier,82158.0,Panamax (60-100k),E,Majuro,EEXI (3.44 gCO₂/t·nm),6462.8,340.0,True
+9582465,PAN CERES,Bulk carrier,82158.0,Panamax (60-100k),D,Singapore,EEXI (3.48 gCO₂/t·nm),3169.1,294.1,True
+9582453,STAR ASTRID,Bulk carrier,82158.0,Panamax (60-100k),E,Majuro,EEXI (3.48 gCO₂/t·nm),4223.8,319.9,True
+9622540,CHAILEASE BLOSSOM,Bulk carrier,82146.0,Panamax (60-100k),C,Monrovia,EEXI (3.48 gCO₂/t·nm),3857.7,251.5,True
+9582506,KARPATY,Bulk carrier,82138.0,Panamax (60-100k),C,Monrovia,EEXI (3.48 gCO₂/t·nm),5798.0,258.2,True
+9582518,SUDETY,Bulk carrier,82138.0,Panamax (60-100k),C,Monrovia,EEXI (3.48 gCO₂/t·nm),13240.4,262.0,True
+9582960,TATRY,Bulk carrier,82138.0,Panamax (60-100k),C,Monrovia,EEXI (3.48 gCO₂/t·nm),6564.0,264.1,True
+9582958,BESKIDY,Bulk carrier,82138.0,Panamax (60-100k),D,Monrovia,EEXI (3.48 gCO₂/t·nm),11232.9,285.0,True
+9582972,BRIGHT WIND,Bulk carrier,82119.0,Panamax (60-100k),C,Panama,EIV (3.92 gCO₂/t·nm),2731.1,268.6,True
+9422940,MYRSINI,Bulk carrier,82117.0,Panamax (60-100k),C,Majuro,EEXI (3.48 gCO₂/t·nm),3303.4,271.3,True
+9975478,RIZOKARPASO,Bulk carrier,82114.0,Panamax (60-100k),A,Limassol,EEDI (2.9 gCO₂/t·nm),3510.8,184.2,True
+9512331,NBA MAGRITTE,Bulk carrier,82099.0,Panamax (60-100k),C,Valletta,EIV (3.89 gCO₂/t·nm),4762.3,272.0,True
+9461192,AEOLIAN FORTUNE,Bulk carrier,82099.0,Panamax (60-100k),C,Madeira,EEXI (3.48 gCO₂/t·nm),2283.7,269.4,True
+9461312,KEY HUNTER,Bulk carrier,82099.0,Panamax (60-100k),D,Tokyo,EIV (3.89 gCO₂/t·nm),6297.1,286.4,True
+9512329,KEY FUTURE,Bulk carrier,82099.0,Panamax (60-100k),D,Panama,EIV (4.03 gCO₂/t·nm),2647.6,280.7,True
+9718985,AGRI PRINCESS,Bulk carrier,82084.0,Panamax (60-100k),B,Panama,EEXI (3.48 gCO₂/t·nm),446.5,232.1,True
+9611890,DORIC LIBERTY,Bulk carrier,82084.0,Panamax (60-100k),E,Monrovia,EIV (4.29 gCO₂/t·nm),3061.0,325.2,True
+9736286,QUEENA,Bulk carrier,82082.0,Panamax (60-100k),E,Hong Kong,EEDI (3.13 gCO₂/t·nm),3813.1,339.4,True
+9686273,CEPHEUS OCEAN,Bulk carrier,82072.0,Panamax (60-100k),E,Panama,EEDI (3.99 gCO₂/t·nm),5895.2,325.6,True
+9837286,CASSIOPEIA OCEAN,Bulk carrier,82069.0,Panamax (60-100k),C,Singapore,EEDI (3.36 gCO₂/t·nm),3037.2,266.2,True
+9611905,NIREAS,Bulk carrier,82067.0,Panamax (60-100k),E,Monrovia,EEXI (3.48 gCO₂/t·nm),9513.6,338.8,True
+9847853,DAISY GLORY,Bulk carrier,82058.0,Panamax (60-100k),D,Panama,EEDI (3.44 gCO₂/t·nm),8946.8,287.1,True
+9592719,ATHINA CARRAS,Bulk carrier,82057.0,Panamax (60-100k),E,Piraeus,EEXI (3.48 gCO₂/t·nm),3367.5,359.5,True
+9724180,NAVIOS SKY,Bulk carrier,82056.0,Panamax (60-100k),D,"Panama, Ciudad De",EEXI (3.38 gCO₂/t·nm),6295.3,307.1,True
+9671814,AEOLIAN ARROW,Bulk carrier,82053.0,Panamax (60-100k),E,Madeira,EEXI (3.37 gCO₂/t·nm),2519.8,343.7,True
+9738026,EVMAR,Bulk carrier,82039.0,Panamax (60-100k),D,Majuro,EEXI (3.24 gCO₂/t·nm),5917.7,308.1,True
+9718686,VULCANIA,Bulk carrier,82036.0,Panamax (60-100k),A,Valletta,EEDI (3.6 gCO₂/t·nm),7579.2,116.1,True
+9906300,KN BLOSSOM,Bulk carrier,82032.0,Panamax (60-100k),D,Singapore,EEDI (3.39 gCO₂/t·nm),9537.7,297.9,True
+9828857,DIAMOND GLOBE,Bulk carrier,82027.0,Panamax (60-100k),E,Majuro,EEDI (3.49 gCO₂/t·nm),3472.1,310.2,True
+9881378,AQUABEAUTY,Bulk carrier,82023.0,Panamax (60-100k),A,Singapore,EEDI (3.4 gCO₂/t·nm),755.7,216.4,True
+9706566,JAG AALOK,Bulk carrier,82023.0,Panamax (60-100k),C,Mumbai,EEXI (3.47 gCO₂/t·nm),4128.8,261.7,True
+9724192,ATHINA II,Bulk carrier,82014.0,Panamax (60-100k),C,Piraeus,EEDI (3.36 gCO₂/t·nm),7823.0,274.1,True
+9909053,NAVIOS AMITIE,Bulk carrier,82002.0,Panamax (60-100k),B,Panama,EEDI (3.36 gCO₂/t·nm),2400.6,245.6,True
+9941350,ORANGE FRIENDSHIP,Bulk carrier,82001.0,Panamax (60-100k),B,Singapore,EEXI (3.41 gCO₂/t·nm),7291.8,242.2,True
+9929015,BBG HONG KONG,Bulk carrier,81996.0,Panamax (60-100k),E,Monrovia,EEXI (3.42 gCO₂/t·nm),93.5,2670.1,True
+9855654,BETTY K,Bulk carrier,81992.0,Panamax (60-100k),D,Monrovia,EEDI (3.48 gCO₂/t·nm),376.9,305.4,True
+9911733,NEW WAVELET,Bulk carrier,81984.0,Panamax (60-100k),E,Panama,EEDI (3.37 gCO₂/t·nm),6119.0,316.9,True
+9928372,HSL VEGAS,Bulk carrier,81981.0,Panamax (60-100k),C,Monrovia,EEDI (3.41 gCO₂/t·nm),8442.3,251.9,True
+9600619,DONA BIBI,Bulk carrier,81966.0,Panamax (60-100k),D,Panama,EIV (4.08 gCO₂/t·nm),14219.1,307.7,True
+9628946,UNION VOYAGER,Bulk carrier,81964.0,Panamax (60-100k),D,Piraeus,EIV (4.47 gCO₂/t·nm),7440.7,290.4,True
+9594925,ARTEMIS,Bulk carrier,81963.0,Panamax (60-100k),E,Panama,EEXI (3.48 gCO₂/t·nm),3869.5,388.0,True
+9864679,NAVIOS FELICITY I,Bulk carrier,81962.0,Panamax (60-100k),D,Panama,EEXI (3.42 gCO₂/t·nm),7017.1,288.2,True
+9873163,ROYAL LAUREL,Bulk carrier,81962.0,Panamax (60-100k),D,Panama,EEDI (3.32 gCO₂/t·nm),1533.0,299.6,True
+9706542,AXIOS,Bulk carrier,81960.0,Panamax (60-100k),D,Majuro,EEDI (3.49 gCO₂/t·nm),2613.9,280.1,True
+9518191,YM NAVIGATOR,Bulk carrier,81955.0,Panamax (60-100k),C,Panama,EIV (3.95 gCO₂/t·nm),2008.7,262.1,True
+9706530,ALMA,Bulk carrier,81947.0,Panamax (60-100k),D,Majuro,EEDI (3.48 gCO₂/t·nm),3851.5,295.4,True
+9928396,EDELWEISS,Bulk carrier,81946.0,Panamax (60-100k),D,Monrovia,EEDI (3.38 gCO₂/t·nm),11448.2,289.3,True
+9713806,SAKIZAYA ELEGANCE,Bulk carrier,81938.0,Panamax (60-100k),D,Panama,EEXI (3.45 gCO₂/t·nm),8205.6,285.1,True
+9697868,SAKIZAYA DIAMOND,Bulk carrier,81938.0,Panamax (60-100k),D,Panama,EEXI (3.47 gCO₂/t·nm),12082.1,279.6,True
+9899806,EVER EXCELLENT,Bulk carrier,81935.0,Panamax (60-100k),D,Monrovia,EEDI (3.27 gCO₂/t·nm),3190.5,302.9,True
+9668879,ATROTOS HERACLES,Bulk carrier,81922.0,Panamax (60-100k),C,Panama,EEXI (3.43 gCO₂/t·nm),3006.3,273.8,True
+9634842,STAR CALYPSO,Bulk carrier,81918.0,Panamax (60-100k),E,Majuro,EEXI (3.49 gCO₂/t·nm),5479.0,327.8,True
+9643556,GEOPRIDE,Bulk carrier,81902.0,Panamax (60-100k),E,Madeira,EEXI (3.49 gCO₂/t·nm),2579.0,312.7,True
+9871191,ULTRA OCELOT,Bulk carrier,81901.0,Panamax (60-100k),C,Singapore,EEDI (3.5 gCO₂/t·nm),6999.7,276.9,True
+9582556,IONIC KIBOU,Bulk carrier,81889.0,Panamax (60-100k),C,Singapore,EEDI (3.45 gCO₂/t·nm),3754.4,274.0,True
+9785603,FARAH LOUISE,Bulk carrier,81886.0,Panamax (60-100k),E,Panama,EEDI (3.54 gCO₂/t·nm),2023.7,320.0,True
+9715452,PRESINGE,Bulk carrier,81886.0,Panamax (60-100k),D,Majuro,EEDI (3.55 gCO₂/t·nm),5254.0,302.8,True
+9611931,COAL PEARL,Bulk carrier,81874.0,Panamax (60-100k),E,Hong Kong,EEXI (3.49 gCO₂/t·nm),5005.7,326.5,True
+9802205,MEDI PALMAROLA,Bulk carrier,81874.0,Panamax (60-100k),C,Monrovia,EEDI (3.52 gCO₂/t·nm),2969.0,257.0,True
+9518206,YM OPUS,Bulk carrier,81863.0,Panamax (60-100k),D,Panama,EIV (4.65 gCO₂/t·nm),6396.9,290.7,True
+9783148,SAKIZAYA QUEEN,Bulk carrier,81858.0,Panamax (60-100k),C,Panama,EEDI (3.54 gCO₂/t·nm),8029.1,256.5,True
+9758399,ULTRA PUMA,Bulk carrier,81855.0,Panamax (60-100k),D,Majuro,EEDI (3.47 gCO₂/t·nm),5417.6,285.5,True
+9728124,VELOS STAR,Bulk carrier,81846.0,Panamax (60-100k),B,Piraeus,EEXI (3.49 gCO₂/t·nm),2714.6,235.4,True
+9705366,ASTREA,Bulk carrier,81838.0,Panamax (60-100k),E,Majuro,EEXI (3.49 gCO₂/t·nm),909.7,342.1,True
+9586344,GOLDEN IOANARI,Bulk carrier,81827.0,Panamax (60-100k),D,Majuro,EEXI (3.49 gCO₂/t·nm),3138.7,286.7,True
+9758492,XING CHANG HAI,Bulk carrier,81824.0,Panamax (60-100k),B,Singapore,EEXI (3.49 gCO₂/t·nm),2031.4,232.8,True
+9593816,ZHENG RUN,Bulk carrier,81822.0,Panamax (60-100k),E,Panama,EEXI (3.47 gCO₂/t·nm),10844.8,339.8,True
+9709001,LEO IRIS,Bulk carrier,81820.0,Panamax (60-100k),C,Panama,EEDI (3.55 gCO₂/t·nm),8814.3,251.6,True
+9781035,HSL TAMPA,Bulk carrier,81818.0,Panamax (60-100k),C,Panama,EEDI (3.53 gCO₂/t·nm),4537.2,256.1,True
+9881366,AOM SOPHIE II,Bulk carrier,81816.0,Panamax (60-100k),E,Panama,EEDI (3.29 gCO₂/t·nm),2865.5,316.7,True
+9836488,BW MATSUYAMA,Bulk carrier,81810.0,Panamax (60-100k),C,Singapore,EEXI (3.44 gCO₂/t·nm),7293.5,251.8,True
+9596105,ZHENG HUI,Bulk carrier,81797.0,Panamax (60-100k),D,Panama,EEXI (3.47 gCO₂/t·nm),5145.1,293.9,True
+9836567,BW OSAKA,Bulk carrier,81796.0,Panamax (60-100k),E,Singapore,EEXI (3.46 gCO₂/t·nm),2625.0,335.8,True
+9865556,NORD AURIGA,Bulk carrier,81795.0,Panamax (60-100k),D,Singapore,EEDI (3.55 gCO₂/t·nm),1482.6,286.4,True
+9866196,CRYSTAL ADMIRER,Bulk carrier,81794.0,Panamax (60-100k),C,Panama,EEDI (3.45 gCO₂/t·nm),3412.8,267.0,True
+9728198,NORD POLARIS,Bulk carrier,81791.0,Panamax (60-100k),C,Panama,EEDI (3.53 gCO₂/t·nm),1206.2,273.3,True
+9770567,HIROSHIMA STAR,Bulk carrier,81789.0,Panamax (60-100k),E,Monrovia,EEDI (3.44 gCO₂/t·nm),3226.8,364.9,True
+9758387,INDIGO ACE,Bulk carrier,81786.0,Panamax (60-100k),C,Panama,EEDI (3.56 gCO₂/t·nm),3985.0,268.8,True
+9748801,SHANDONG FU YI,Bulk carrier,81784.0,Panamax (60-100k),A,Hong Kong,EEDI (3.51 gCO₂/t·nm),3340.9,171.5,True
+9734769,SHANDONG FU YUAN,Bulk carrier,81781.0,Panamax (60-100k),E,Hong Kong,EEDI (3.55 gCO₂/t·nm),5147.6,314.0,True
+9727479,ARIETTA LILY,Bulk carrier,81773.0,Panamax (60-100k),D,Monrovia,EEDI (3.52 gCO₂/t·nm),4890.1,282.0,True
+9858292,BABITONGA,Bulk carrier,81770.0,Panamax (60-100k),C,Panama,EEDI (3.49 gCO₂/t·nm),908.4,259.6,True
+9836373,BW NARA,Bulk carrier,81759.0,Panamax (60-100k),C,Singapore,EEXI (3.46 gCO₂/t·nm),12621.9,259.2,True
+9840506,CHASSELAS,Bulk carrier,81758.0,Panamax (60-100k),C,Panama,EEDI (3.45 gCO₂/t·nm),1073.3,273.4,True
+9596703,CHRISTIANNA,Bulk carrier,81755.0,Panamax (60-100k),E,Monrovia,EEXI (3.49 gCO₂/t·nm),2108.2,422.2,True
+9837004,AM SHRADDHA,Bulk carrier,81754.0,Panamax (60-100k),C,Panama,EEDI (3.47 gCO₂/t·nm),4658.6,271.4,True
+9836490,ELATI,Bulk carrier,81746.0,Panamax (60-100k),D,Bridgetown,EEDI (3.49 gCO₂/t·nm),7557.9,277.9,True
+9764099,ORANGE HARMONY,Bulk carrier,81739.0,Panamax (60-100k),D,Panama,EEXI (3.49 gCO₂/t·nm),14114.6,292.7,True
+9705354,JAG ARNAV,Bulk carrier,81732.0,Panamax (60-100k),B,Mumbai,EEXI (3.47 gCO₂/t·nm),4283.8,243.7,True
+9865348,ATLANTIC SAKURA,Bulk carrier,81727.0,Panamax (60-100k),B,Nassau,EEXI (3.49 gCO₂/t·nm),652.2,223.1,True
+9783980,ATLANTIC SAMURAI,Bulk carrier,81725.0,Panamax (60-100k),C,Majuro,EEDI (3.5 gCO₂/t·nm),3910.2,264.7,True
+9835068,MSXT ATHENA,Bulk carrier,81723.0,Panamax (60-100k),D,Majuro,EEXI (3.49 gCO₂/t·nm),7086.7,297.8,True
+9649249,TUO FU 8,Bulk carrier,81721.0,Panamax (60-100k),D,Hong Kong,EEXI (3.49 gCO₂/t·nm),4648.3,291.9,True
+9607837,EVER BEST,Bulk carrier,81717.0,Panamax (60-100k),E,Panama,EIV (4.56 gCO₂/t·nm),7930.0,326.1,True
+9758375,SEAGEM,Bulk carrier,81714.0,Panamax (60-100k),C,Valletta,EEXI (3.47 gCO₂/t·nm),2588.8,253.9,True
+9528562,ALAN,Bulk carrier,81712.0,Panamax (60-100k),E,Majuro,EEXI (3.49 gCO₂/t·nm),2999.4,319.0,True
+9615418,STAR CHARIS,Bulk carrier,81710.0,Panamax (60-100k),D,Monrovia,EEXI (2.49 gCO₂/t·nm),1876.6,302.6,True
+9603154,SSI IRRESISTIBLE,Bulk carrier,81708.0,Panamax (60-100k),E,Monrovia,EEXI (3.49 gCO₂/t·nm),6835.9,330.0,True
+9782118,JIMMY T,Bulk carrier,81704.0,Panamax (60-100k),D,Panama,EEDI (3.57 gCO₂/t·nm),3183.3,278.6,True
+9595278,KONSTANTINOS II,Bulk carrier,81698.0,Panamax (60-100k),E,Monrovia,EEXI (3.49 gCO₂/t·nm),4671.9,362.1,True
+9749908,SAKIZAYA KALON,Bulk carrier,81691.0,Panamax (60-100k),D,Panama,EEXI (3.49 gCO₂/t·nm),12076.0,297.3,True
+9866184,LADY ANNE,Bulk carrier,81688.0,Panamax (60-100k),E,Monrovia,EEXI (3.47 gCO₂/t·nm),6143.4,322.9,True
+9607112,BORA,Bulk carrier,81682.0,Panamax (60-100k),E,Panama,EEXI (3.49 gCO₂/t·nm),715.7,339.8,True
+9591844,XIN HAI TONG 801,Bulk carrier,81680.0,Panamax (60-100k),E,Hong Kong,EEXI (3.49 gCO₂/t·nm),206.9,440.0,True
+9593751,EGRET STAR,Bulk carrier,81678.0,Panamax (60-100k),E,Panama,EEXI (3.49 gCO₂/t·nm),3615.1,315.6,True
+9749829,CORATO,Bulk carrier,81677.0,Panamax (60-100k),D,Valletta,EEXI (3.49 gCO₂/t·nm),7359.9,303.9,True
+9593842,CORINNA,Bulk carrier,81675.0,Panamax (60-100k),E,Piraeus,EIV (4.77 gCO₂/t·nm),1742.8,467.4,True
+9764087,AQUAGRACE,Bulk carrier,81672.0,Panamax (60-100k),D,Panama,EEXI (3.17 gCO₂/t·nm),1621.0,281.3,True
+9836579,BASIC GLORY,Bulk carrier,81668.0,Panamax (60-100k),E,Majuro,EEDI (3.52 gCO₂/t·nm),2132.1,320.3,True
+9605633,W-EMERALD,Bulk carrier,81652.0,Panamax (60-100k),E,Monrovia,EEXI (3.49 gCO₂/t·nm),3060.0,329.6,True
+9593763,PU AN TONG,Bulk carrier,81649.0,Panamax (60-100k),E,Yangpu China,EEXI (3.49 gCO₂/t·nm),3532.2,349.9,True
+9600621,FALKONERA,Bulk carrier,81641.0,Panamax (60-100k),E,Monrovia,EEXI (3.49 gCO₂/t·nm),5242.1,328.0,True
+9600657,ANTIPAROS,Bulk carrier,81640.0,Panamax (60-100k),E,Monrovia,EEXI (3.49 gCO₂/t·nm),3657.1,331.0,True
+9576272,ZHONG YUAN,Bulk carrier,81629.0,Panamax (60-100k),E,Panama,EEXI (3.49 gCO₂/t·nm),2417.8,362.8,True
+9782170,NAVIOS CITRINE,Bulk carrier,81626.0,Panamax (60-100k),D,Panama,EEDI (3.58 gCO₂/t·nm),1530.1,282.2,True
+9830056,CSSC YUAN JING,Bulk carrier,81618.0,Panamax (60-100k),D,Hong Kong,EEXI (3.49 gCO₂/t·nm),2806.2,308.7,True
+9860506,PRAIRIE,Bulk carrier,81614.0,Panamax (60-100k),C,Majuro,EEDI (3.5 gCO₂/t·nm),11503.4,254.3,True
+9811048,ULTRA LYNX,Bulk carrier,81607.0,Panamax (60-100k),B,Singapore,EEDI (3.56 gCO₂/t·nm),1913.5,233.8,True
+9875032,BULK ITALY,Bulk carrier,81603.0,Panamax (60-100k),D,Panama,EEDI (3.55 gCO₂/t·nm),8628.7,287.1,True
+9866586,SENTOSA CHALLENGER,Bulk carrier,81601.0,Panamax (60-100k),C,Panama,EEDI (3.46 gCO₂/t·nm),3043.1,262.5,True
+9624653,PEGASOS,Bulk carrier,81598.0,Panamax (60-100k),D,Monrovia,EIV (4 gCO₂/t·nm),3396.5,292.6,True
+9811036,SAKIZAYA ORCHID,Bulk carrier,81588.0,Panamax (60-100k),E,Panama,EEDI (3.59 gCO₂/t·nm),1116.5,367.0,True
+9640671,TUO FU 6,Bulk carrier,81588.0,Panamax (60-100k),E,Hong Kong,EEXI (3.49 gCO₂/t·nm),5250.8,338.0,True
+9609160,PHOENIX,Bulk carrier,81569.0,Panamax (60-100k),D,Majuro,EEXI (3.49 gCO₂/t·nm),7749.4,290.3,True
+9651553,MERCURIAL VIRGO,Bulk carrier,81545.0,Panamax (60-100k),D,Majuro,EEXI (3.49 gCO₂/t·nm),400.8,309.0,True
+9855563,ARETHUSA,Bulk carrier,81541.0,Panamax (60-100k),E,Madeira,EEXI (3.49 gCO₂/t·nm),6232.8,311.6,True
+9589255,BUILDER,Bulk carrier,81541.0,Panamax (60-100k),E,Monrovia,EEXI (3.49 gCO₂/t·nm),3125.9,330.9,True
+9623544,MINOAN SEA,Bulk carrier,81517.0,Panamax (60-100k),E,Monrovia,EEXI (3.5 gCO₂/t·nm),1713.2,350.7,True
+9626687,FJELD SVEA,Bulk carrier,81510.0,Panamax (60-100k),E,Majuro,EIV (4.41 gCO₂/t·nm),7182.8,331.4,True
+9868895,LIGHT VENTURE,Bulk carrier,81492.0,Panamax (60-100k),D,Hong Kong,EEXI (3.48 gCO₂/t·nm),2599.4,304.2,True
+9611515,NISSAKI,Bulk carrier,81466.0,Panamax (60-100k),E,Nassau,EIV (5.89 gCO₂/t·nm),3412.3,314.1,True
+9597795,TINOS,Bulk carrier,81391.0,Panamax (60-100k),E,Monrovia,EEXI (3.5 gCO₂/t·nm),4717.7,325.0,True
+9588005,DRAGON,Bulk carrier,81389.0,Panamax (60-100k),E,Nassau,EEXI (3.5 gCO₂/t·nm),3849.8,319.4,True
+9633410,MYKONOS,Bulk carrier,81386.0,Panamax (60-100k),E,Valletta,EIV (4.09 gCO₂/t·nm),3767.5,341.3,True
+9487615,APHRODITE L,Bulk carrier,81365.0,Panamax (60-100k),D,Monrovia,EEXI (3.5 gCO₂/t·nm),2621.4,303.6,True
+9487627,ATHINA L,Bulk carrier,81358.0,Panamax (60-100k),E,Monrovia,EEXI (3.5 gCO₂/t·nm),16254.5,368.2,True
+9590084,NAVIOS AVIOR,Bulk carrier,81355.0,Panamax (60-100k),E,Panama,EEXI (3.5 gCO₂/t·nm),1707.3,319.5,True
+9743980,RB ARIANA,Bulk carrier,81346.0,Panamax (60-100k),D,Majuro,EEDI (3.25 gCO₂/t·nm),5281.9,295.7,True
+9687124,BELMONTE,Bulk carrier,81344.0,Panamax (60-100k),D,Monrovia,EIV (3.85 gCO₂/t·nm),1116.9,294.2,True
+9589152,PUMA MAX,Bulk carrier,81339.0,Panamax (60-100k),D,Nassau,EEXI (3.5 gCO₂/t·nm),7974.8,291.0,True
+9593402,PANTHER MAX,Bulk carrier,81283.0,Panamax (60-100k),D,Nassau,EEXI (3.5 gCO₂/t·nm),6353.8,286.1,True
+9586629,LYRIC SUN,Bulk carrier,81276.0,Panamax (60-100k),E,Nassau,EIV (4.67 gCO₂/t·nm),4808.1,322.6,True
+9597381,ODYSSEAS L,Bulk carrier,81259.0,Panamax (60-100k),D,Monrovia,EEXI (3.5 gCO₂/t·nm),5195.9,286.2,True
+9719575,STEFANOS,Bulk carrier,81237.0,Panamax (60-100k),D,Majuro,EEXI (3.5 gCO₂/t·nm),5915.7,297.7,True
+9618666,QUEEN SARAH,Bulk carrier,81221.0,Panamax (60-100k),E,Monrovia,EEXI (3.49 gCO₂/t·nm),7084.7,337.0,True
+9727974,FLAG METTE,Bulk carrier,81200.0,Panamax (60-100k),E,Valetta,EEDI (3.73 gCO₂/t·nm),13377.9,325.8,True
+9729908,ASTERION,Bulk carrier,81193.0,Panamax (60-100k),D,Monrovia,EEDI (3.59 gCO₂/t·nm),5955.3,285.3,True
+9728629,EOLOS ANGEL,Bulk carrier,81183.0,Panamax (60-100k),D,Majuro,EEXI (3.5 gCO₂/t·nm),5531.3,303.6,True
+9621405,PAN ENERGEN,Bulk carrier,81170.0,Panamax (60-100k),D,Majuro,EEXI (3.5 gCO₂/t·nm),2733.2,303.3,True
+9723629,GALAXY GLOBE,Bulk carrier,81167.0,Panamax (60-100k),C,Majuro,EEDI (3.58 gCO₂/t·nm),1997.1,261.5,True
+9729893,PATROKLOS,Bulk carrier,81149.0,Panamax (60-100k),E,Monrovia,EEDI (3.61 gCO₂/t·nm),4553.7,332.6,True
+9595876,CK BLUEBELL,Bulk carrier,81147.0,Panamax (60-100k),E,Jeju,EIV (5.88 gCO₂/t·nm),2858.7,381.7,True
+9729881,DIONE,Bulk carrier,81145.0,Panamax (60-100k),E,Panama,EEDI (3.6 gCO₂/t·nm),4803.3,349.0,True
+9849904,GOLDEN FREEZE,Bulk carrier,81135.0,Panamax (60-100k),E,Majuro,EEXI (3.51 gCO₂/t·nm),14257.1,329.3,True
+9728801,CL ZHENJIANG,Bulk carrier,81121.0,Panamax (60-100k),E,Monrovia,EEXI (3.5 gCO₂/t·nm),2025.1,341.3,True
+9673783,STAR NICOLE,Bulk carrier,81120.0,Panamax (60-100k),C,Monrovia,EEXI (3.26 gCO₂/t·nm),1639.5,260.6,True
+9867176,JY LONDON,Bulk carrier,81118.0,Panamax (60-100k),D,Majuro,EEDI (3.64 gCO₂/t·nm),9660.8,310.0,True
+9729879,AIANTAS,Bulk carrier,81111.0,Panamax (60-100k),D,Panama,EEDI (3.58 gCO₂/t·nm),3019.7,278.5,True
+9768605,DARYA AUM,Bulk carrier,81109.0,Panamax (60-100k),D,Hong Kong,EEDI (3.73 gCO₂/t·nm),2276.4,279.0,True
+9758583,HUA XING HAI,Bulk carrier,81108.0,Panamax (60-100k),D,Hong Kong,EEXI (3.5 gCO₂/t·nm),5740.4,301.9,True
+9842736,TOMINI ROYALTY,Bulk carrier,81094.0,Panamax (60-100k),C,Majuro,Not Applicable,421.6,263.3,True
+9718038,ETRON,Bulk carrier,81080.0,Panamax (60-100k),D,Monrovia,EEXI (3.5 gCO₂/t·nm),7088.9,309.5,True
+9673836,ECHO.GR,Bulk carrier,81070.0,Panamax (60-100k),B,Valletta,EEXI (3.26 gCO₂/t·nm),4735.2,243.7,True
+9731822,PEAK MATTERHORN,Bulk carrier,81060.0,Panamax (60-100k),C,Nassau,EEXI (3.19 gCO₂/t·nm),4819.1,274.1,True
+9718026,TALIMEN,Bulk carrier,81056.0,Panamax (60-100k),E,Monrovia,EEXI (3.51 gCO₂/t·nm),51.0,1668.7,True
+9855599,MAGIC ARIEL,Bulk carrier,81054.0,Panamax (60-100k),D,Majuro,EEXI (3.5 gCO₂/t·nm),3055.4,308.3,True
+9796573,MEGA BENEFIT,Bulk carrier,81018.0,Panamax (60-100k),B,Panama,EEDI (3.3 gCO₂/t·nm),2012.0,220.2,True
+9828297,ARIANA,Bulk carrier,81011.0,Panamax (60-100k),C,Nassau,EEXI (3.51 gCO₂/t·nm),3144.5,271.2,True
+9726762,ROYAL HOPE,Bulk carrier,81011.0,Panamax (60-100k),C,Panama,EIV (3.62 gCO₂/t·nm),9052.0,276.0,True
+9843405,KASTOR,Bulk carrier,80996.0,Panamax (60-100k),D,Monrovia,EEDI (3.85 gCO₂/t·nm),2654.1,292.2,True
+9843417,POLYDEFKIS,Bulk carrier,80996.0,Panamax (60-100k),D,Monrovia,EEDI (3.7 gCO₂/t·nm),10597.8,303.3,True
+9798844,HAMPTON OCEAN,Bulk carrier,80979.0,Panamax (60-100k),C,Panama,EEDI (3.28 gCO₂/t·nm),4362.5,270.4,True
+9780134,SAKIZAYA HERO,Bulk carrier,80962.0,Panamax (60-100k),B,Panama,EEXI (3.22 gCO₂/t·nm),712.6,225.0,True
+9474709,AGIOS MAKARIOS,Bulk carrier,80929.0,Panamax (60-100k),D,Valletta,EEXI (3.48 gCO₂/t·nm),2288.3,296.1,True
+9880283,CL DAYANG HE,Bulk carrier,80860.0,Panamax (60-100k),E,Monrovia,EEXI (3.4 gCO₂/t·nm),9241.6,317.0,True
+9880295,CL QINGSHUI HE,Bulk carrier,80860.0,Panamax (60-100k),D,Monrovia,EEXI (3.41 gCO₂/t·nm),8989.3,284.6,True
+9842516,SM SANTOS,Bulk carrier,80857.0,Panamax (60-100k),E,Majuro,EEDI (3.7 gCO₂/t·nm),8563.0,312.6,True
+9847889,SEACON SHANGHAI,Bulk carrier,80811.0,Panamax (60-100k),C,Monrovia,EEDI (3.68 gCO₂/t·nm),2894.0,269.6,True
+9837145,HESSAH,Bulk carrier,80729.0,Panamax (60-100k),B,Dammam,EEDI (3.53 gCO₂/t·nm),4679.4,242.2,True
+9457464,STAR GENESIS,Bulk carrier,80705.0,Panamax (60-100k),E,Majuro,EEXI (3.51 gCO₂/t·nm),8897.1,370.6,True
+9837121,ALANOOD,Bulk carrier,80681.0,Panamax (60-100k),E,Dammam,EEDI (3.44 gCO₂/t·nm),5797.3,339.6,True
+9858527,SOUTHERN HAWK,Bulk carrier,80681.0,Panamax (60-100k),C,Singapore,EEXI (3.26 gCO₂/t·nm),2967.5,263.8,True
+9454280,CHAILEASE VIRTUE,Bulk carrier,80647.0,Panamax (60-100k),D,Monrovia,EEXI (3.51 gCO₂/t·nm),12011.7,302.5,True
+9860128,GOLDEN FURIOUS,Bulk carrier,80595.0,Panamax (60-100k),E,Majuro,EEXI (3.51 gCO₂/t·nm),9455.8,317.1,True
+9860116,GOLDEN FAST,Bulk carrier,80573.0,Panamax (60-100k),D,Majuro,EEXI (3.51 gCO₂/t·nm),10073.7,295.8,True
+9579638,NEW ENDEAVOR,Bulk carrier,80536.0,Panamax (60-100k),E,Panama,EEXI (3.52 gCO₂/t·nm),1502.7,337.2,True
+9460772,WADI ALYARMOUK,Bulk carrier,80384.0,Panamax (60-100k),E,Alexandria,EIV (6.63 gCO₂/t·nm),2021.2,376.6,True
+9543885,SPETSES SPIRIT,Bulk carrier,80328.0,Panamax (60-100k),E,Majuro,EEXI (3.38 gCO₂/t·nm),2805.2,382.8,True
+9582116,EPIPHANIA,Bulk carrier,80276.0,Panamax (60-100k),E,Nassau,EEXI (3.52 gCO₂/t·nm),6921.7,339.4,True
+9527441,CHRYSANTHI S,Bulk carrier,80268.0,Panamax (60-100k),E,Monrovia,EEXI (3.52 gCO₂/t·nm),1616.6,403.8,True
+9452610,ORNAK,Bulk carrier,79677.0,Panamax (60-100k),E,Nassau,EEXI (3.53 gCO₂/t·nm),10112.0,377.0,True
+9452608,JAWOR,Bulk carrier,79649.0,Panamax (60-100k),E,Nassau,EEXI (3.53 gCO₂/t·nm),12608.8,338.0,True
+9452593,GIEWONT,Bulk carrier,79649.0,Panamax (60-100k),E,Nassau,EEXI (3.53 gCO₂/t·nm),8479.6,383.9,True
+9490466,UNITY N,Bulk carrier,79642.0,Panamax (60-100k),E,Majuro,EEXI (3.53 gCO₂/t·nm),4679.0,364.4,True
+9452622,RYSY,Bulk carrier,79602.0,Panamax (60-100k),E,Nassau,EEXI (3.53 gCO₂/t·nm),13135.1,315.0,True
+9579743,BLACK PEARL,Bulk carrier,79600.0,Panamax (60-100k),E,Majuro,EEXI (3.53 gCO₂/t·nm),4451.9,374.1,True
+9617430,CAPTAIN J. NEOFOTISTOS,Bulk carrier,79501.0,Panamax (60-100k),E,Monrovia,EEXI (3.54 gCO₂/t·nm),2353.3,326.3,True
+9481477,CAPE GRECO,Bulk carrier,79471.0,Panamax (60-100k),E,Monrovia,EEDI (4.39 gCO₂/t·nm),5138.8,362.8,True
+9566813,DART TRADER,Bulk carrier,79467.0,Panamax (60-100k),E,Monrovia,EEXI (3.54 gCO₂/t·nm),23.7,550.2,True
+9481489,NEW EXPLORER,Bulk carrier,79448.0,Panamax (60-100k),E,Monrovia,EEXI (3.54 gCO₂/t·nm),3749.3,423.3,True
+9491173,KIRAN AFRICA,Bulk carrier,79105.0,Panamax (60-100k),E,Valletta,EIV (1.43 gCO₂/t·nm),3410.1,379.7,True
+9474670,MAIRINI,Bulk carrier,79023.0,Panamax (60-100k),D,Majuro,EIV (6.5 gCO₂/t·nm),2191.8,306.6,True
+9370197,CASTOR,Bulk carrier,78888.0,Panamax (60-100k),C,Monrovia,EEXI (3.55 gCO₂/t·nm),3855.5,257.6,True
+9425679,SUPER NOVA,Bulk carrier,78833.0,Panamax (60-100k),E,Majuro,EEXI (3.55 gCO₂/t·nm),9701.1,316.4,True
+9840673,OCEAN LEGEND,Bulk carrier,78208.0,Panamax (60-100k),B,Hong Kong,EEXI (3.54 gCO₂/t·nm),4237.1,228.7,True
+9639684,KOULITSA 2,Bulk carrier,78129.0,Panamax (60-100k),C,Limassol,EIV (3.86 gCO₂/t·nm),7066.5,269.1,True
+9717424,KYPROS LOYALTY,Bulk carrier,77998.0,Panamax (60-100k),D,Limassol,EIV (3.7 gCO₂/t·nm),1399.5,281.7,True
+9694490,KYPROS BRAVERY,Bulk carrier,77997.0,Panamax (60-100k),B,Limassol,EEDI (3.74 gCO₂/t·nm),1841.6,242.6,True
+9675468,SASEBO GREEN,Bulk carrier,77880.0,Panamax (60-100k),B,Mjuro,EEXI (3.57 gCO₂/t·nm),4570.9,241.4,True
+9733600,GREAT TRIUMPH,Bulk carrier,77835.0,Panamax (60-100k),D,Hong Kong,EEXI (3.38 gCO₂/t·nm),4575.5,284.8,True
+9317470,TIANA,Bulk carrier,77283.0,Panamax (60-100k),C,Majuro,EEXI (3.58 gCO₂/t·nm),3756.9,264.3,True
+9355484,MAHA AARTI,Bulk carrier,77250.0,Panamax (60-100k),D,Mumbai,EIV (4.13 gCO₂/t·nm),2421.9,284.8,True
+9609512,KING MILO,Bulk carrier,77198.0,Panamax (60-100k),D,Panama,EIV (4.43 gCO₂/t·nm),7174.4,299.1,True
+9317468,NEFELI,Bulk carrier,77171.0,Panamax (60-100k),C,Limassol,EEDI (3.59 gCO₂/t·nm),1538.4,257.5,True
+9710799,VELOS LIBRA,Bulk carrier,77134.0,Panamax (60-100k),C,Majuro,EEXI (3.59 gCO₂/t·nm),5484.1,272.4,True
+9691589,BULK SWEDEN,Bulk carrier,77126.0,Panamax (60-100k),C,Madeira,EEXI (3.42 gCO₂/t·nm),6145.6,267.8,True
+9738791,ANDERMATT,Bulk carrier,77113.0,Panamax (60-100k),C,Monrovia,EEXI (3.36 gCO₂/t·nm),3688.3,249.5,True
+9304083,CLARA B,Bulk carrier,77073.0,Panamax (60-100k),D,Monrovia,EIV (3.9 gCO₂/t·nm),6811.0,289.4,True
+9314624,G. B. CORRADO,Bulk carrier,77061.0,Panamax (60-100k),C,Nassau,EEXI (3.59 gCO₂/t·nm),13746.1,277.5,True
+9667368,KYPROS LAND,Bulk carrier,77060.0,Panamax (60-100k),C,Limassol,EEXI (3.42 gCO₂/t·nm),5504.0,250.7,True
+9330329,OMICRON SKY,Bulk carrier,77031.0,Panamax (60-100k),E,Monrovia,EEXI (3.59 gCO₂/t·nm),4258.7,321.0,True
+9335989,LUCKY GLORY 2,Bulk carrier,76942.0,Panamax (60-100k),D,Panama,EEXI (3.59 gCO₂/t·nm),2908.6,280.1,True
+9691400,MAGIC MARS,Bulk carrier,76822.0,Panamax (60-100k),E,Majuro,EEXI (3.59 gCO₂/t·nm),5572.6,314.1,True
+9304277,OMICRON TITINA,Bulk carrier,76806.0,Panamax (60-100k),E,Monrovia,EEXI (3.6 gCO₂/t·nm),1588.3,315.6,True
+9294484,MINOAN DIGNITY,Bulk carrier,76801.0,Panamax (60-100k),E,Monrovia,EEXI (3.6 gCO₂/t·nm),1759.7,349.5,True
+9304241,GOOD HOPE MAX,Bulk carrier,76739.0,Panamax (60-100k),E,Douglas,EEXI (3.6 gCO₂/t·nm),5612.5,325.3,True
+9443009,TORO,Bulk carrier,76636.0,Panamax (60-100k),C,Majuro,EEXI (3.6 gCO₂/t·nm),3151.9,255.3,True
+9325051,PANAMAX NOSTOS,Bulk carrier,76620.0,Panamax (60-100k),E,Monrovia,EEXI (3.6 gCO₂/t·nm),1949.2,380.9,True
+9342865,NAVIOS SUN,Bulk carrier,76619.0,Panamax (60-100k),D,"Panama, Ciudad De",EEXI (3.6 gCO₂/t·nm),3128.0,307.2,True
+9544401,GU IMABARI,Bulk carrier,76619.0,Panamax (60-100k),D,Panama,EEXI (3.58 gCO₂/t·nm),3457.4,304.9,True
+9464508,ROSE,Bulk carrier,76619.0,Panamax (60-100k),D,Monrovia,EEXI (3.6 gCO₂/t·nm),5084.6,289.6,True
+9488475,WEN ZHU HAI,Bulk carrier,76611.0,Panamax (60-100k),D,Tianjin,EEXI (3.61 gCO₂/t·nm),5092.1,292.6,True
+9254563,PICTOR,Bulk carrier,76598.0,Panamax (60-100k),D,Monrovia,EEXI (3.6 gCO₂/t·nm),4724.9,308.1,True
+9381213,CALYPSO V,Bulk carrier,76596.0,Panamax (60-100k),C,Panama,EEXI (3.6 gCO₂/t·nm),2393.4,260.4,True
+9342827,FANTASEA,Bulk carrier,76596.0,Panamax (60-100k),C,Monrovia,EEXI (3.58 gCO₂/t·nm),2340.6,272.9,True
+9302762,NAVIOS TAURUS,Bulk carrier,76596.0,Panamax (60-100k),E,Panama,EEXI (3.6 gCO₂/t·nm),1702.6,337.7,True
+9342918,BROAD RISE,Bulk carrier,76585.0,Panamax (60-100k),D,Panama,EIV (5.35 gCO₂/t·nm),1473.4,307.9,True
+9519157,STORMHARBOUR,Bulk carrier,76583.0,Panamax (60-100k),D,Majuro,EEXI (3.6 gCO₂/t·nm),3657.4,289.0,True
+9500883,HONG YUAN,Bulk carrier,76574.0,Panamax (60-100k),E,Panama,EEXI (3.6 gCO₂/t·nm),4780.2,336.4,True
+9464417,RIPLEY PROSPERITY,Bulk carrier,76565.0,Panamax (60-100k),C,Monrovia,EIV (5.83 gCO₂/t·nm),4774.5,258.9,True
+9464510,OMICRON ATLAS,Bulk carrier,76554.0,Panamax (60-100k),D,Monrovia,EEXI (3.6 gCO₂/t·nm),2313.7,304.5,True
+9476941,MODEST SW,Bulk carrier,76483.0,Panamax (60-100k),D,Panama,EIV (4.01 gCO₂/t·nm),3160.9,307.1,True
+9494395,YIN ZHU HAI,Bulk carrier,76463.0,Panamax (60-100k),D,Tianjin,EEXI (3.6 gCO₂/t·nm),3280.6,294.8,True
+9221334,ARCTURUS,Bulk carrier,76397.0,Panamax (60-100k),E,Monrovia,EEXI (3.55 gCO₂/t·nm),3425.7,314.6,True
+9286621,TRAMP LADY,Bulk carrier,76294.0,Panamax (60-100k),E,Valletta,EEXI (3.61 gCO₂/t·nm),1909.2,359.8,True
+9727118,NORDIC OLYMPIC,Bulk carrier,76180.0,Panamax (60-100k),E,Majuro,EEXI (3.56 gCO₂/t·nm),9373.1,315.5,True
+9661106,PRODIGY,Bulk carrier,76117.0,Panamax (60-100k),D,Majuro,EEXI (3.61 gCO₂/t·nm),6318.3,294.5,True
+9580481,YUAN HANG CAI FU,Bulk carrier,76037.0,Panamax (60-100k),E,Xia Men,EEXI (3.61 gCO₂/t·nm),1617.3,330.4,True
+9579054,HORIZON JADE,Bulk carrier,76032.0,Panamax (60-100k),E,Hong Kong,EEXI (3.61 gCO₂/t·nm),2248.5,404.0,True
+9244788,SHUN FU WANG,Bulk carrier,75966.0,Panamax (60-100k),E,Panama,EEXI (3.62 gCO₂/t·nm),2891.8,359.0,True
+9287132,FAME,Bulk carrier,75912.0,Panamax (60-100k),E,Majuro,EIV (4.04 gCO₂/t·nm),5239.7,310.3,True
+9252199,XIN SHUN,Bulk carrier,75846.0,Panamax (60-100k),E,Panama,EEXI (3.62 gCO₂/t·nm),3525.8,315.0,True
+9389813,SANTA MARIA,Bulk carrier,75825.0,Panamax (60-100k),E,Monrovia,EIV (4.91 gCO₂/t·nm),3233.7,433.4,True
+9383857,EVANGELISTRIA,Bulk carrier,75750.0,Panamax (60-100k),E,Monrovia,EIV (5 gCO₂/t·nm),11317.9,347.0,True
+9453066,ELENA VE,Bulk carrier,75750.0,Panamax (60-100k),E,Monrovia,EEXI (3.62 gCO₂/t·nm),18105.7,319.9,True
+9296236,GLYKOFILOUSSA,Bulk carrier,75734.0,Panamax (60-100k),E,Valletta,EEXI (3.62 gCO₂/t·nm),1838.7,401.8,True
+9646675,ORPHEUS,Bulk carrier,75631.0,Panamax (60-100k),D,Monrovia,EEDI (3.87 gCO₂/t·nm),5207.4,277.9,True
+9646663,APOLLON,Bulk carrier,75614.0,Panamax (60-100k),D,Monrovia,EEDI (3.9 gCO₂/t·nm),8515.2,291.4,True
+9529451,NORDIC ODYSSEY,Bulk carrier,75603.0,Panamax (60-100k),D,Majuro,EEXI (3.6 gCO₂/t·nm),12672.5,291.8,True
+9595682,RUI NING 20,Bulk carrier,75564.0,Panamax (60-100k),D,Cao Fei Dian,EEXI (3.62 gCO₂/t·nm),2338.9,308.3,True
+9595711,GREAT RICH,Bulk carrier,75524.0,Panamax (60-100k),D,Hong Kong,EEXI (3.63 gCO₂/t·nm),2166.5,280.2,True
+9473157,SAMOA,Bulk carrier,75505.0,Panamax (60-100k),E,Valletta,EEXI (3.61 gCO₂/t·nm),4848.3,315.8,True
+9629627,GREAT MIND,Bulk carrier,75474.0,Panamax (60-100k),D,Hong Kong,EEXI (3.63 gCO₂/t·nm),3012.3,297.5,True
+9290153,SPITHA,Bulk carrier,75411.0,Panamax (60-100k),E,Monrovia,EEXI (3.62 gCO₂/t·nm),1802.6,320.4,True
+9523213,JI XIAN FENG,Bulk carrier,75409.0,Panamax (60-100k),C,Shanghai,EEXI (3.63 gCO₂/t·nm),4433.4,275.6,True
+9291121,KAVO ALKYON,Bulk carrier,75409.0,Panamax (60-100k),E,Majuro,EEXI (3.63 gCO₂/t·nm),3132.5,313.8,True
+9670808,ZHONG CHANG ZHOU SHAN,Bulk carrier,75409.0,Panamax (60-100k),C,Hong Kong,EEXI (3.63 gCO₂/t·nm),4659.7,261.9,True
+9626663,INDIAN SOLIDARITY,Bulk carrier,75398.0,Panamax (60-100k),E,Monrovia,EIV (4.54 gCO₂/t·nm),1683.5,314.4,True
+9606431,YU XIAO FENG,Bulk carrier,75398.0,Panamax (60-100k),C,Guangzhou,EEXI (3.63 gCO₂/t·nm),5016.2,250.1,True
+9328558,NAVIOS HOPE,Bulk carrier,75397.0,Panamax (60-100k),D,"Panama, Ciudad De",EEXI (3.63 gCO₂/t·nm),4635.3,282.5,True
+9629653,GNG CONCORD 1,Bulk carrier,75397.0,Panamax (60-100k),E,Hong Kong,EEXI (3.63 gCO₂/t·nm),9358.1,318.5,True
+9576806,FENG HUANG FENG,Bulk carrier,75396.0,Panamax (60-100k),C,Guangzhou,EEXI (3.63 gCO₂/t·nm),7533.9,266.5,True
+9328560,EPICURUS,Bulk carrier,75395.0,Panamax (60-100k),D,"Monrovia, Liberia",EIV (4.38 gCO₂/t·nm),5216.3,282.0,True
+9336608,THE RULER,Bulk carrier,75356.0,Panamax (60-100k),E,Panama,EIV (4.26 gCO₂/t·nm),525.8,381.9,True
+9453054,PATRICIA V,Bulk carrier,75354.0,Panamax (60-100k),E,Monrovia,EEXI (3.63 gCO₂/t·nm),15561.1,341.1,True
+9646625,HUAN HANG 19,Bulk carrier,75351.0,Panamax (60-100k),D,Xiamen,EEDI (3.84 gCO₂/t·nm),6464.2,283.7,True
+9715311,GNG CONCORD 2,Bulk carrier,75337.0,Panamax (60-100k),D,Hong Kong,EEXI (3.61 gCO₂/t·nm),3400.4,285.6,True
+9642382,HERCULES,Bulk carrier,75200.0,Panamax (60-100k),E,Monrovia,EEXI (3.64 gCO₂/t·nm),5795.7,313.6,True
+9473341,NESTOR S,Bulk carrier,75200.0,Panamax (60-100k),E,Piraeus,EEXI (3.64 gCO₂/t·nm),1518.5,310.1,True
+9473274,SPRING SNOW,Bulk carrier,75200.0,Panamax (60-100k),E,Majuro,EEXI (3.62 gCO₂/t·nm),11804.2,321.8,True
+9638678,ICARUS,Bulk carrier,75200.0,Panamax (60-100k),E,Port Vila,EEXI (3.63 gCO₂/t·nm),4345.6,339.8,True
+9502635,HECTOR,Bulk carrier,75200.0,Panamax (60-100k),E,Monrovia,EEXI (3.63 gCO₂/t·nm),4374.1,329.9,True
+9366108,MARY GORGIAS,Bulk carrier,75194.0,Panamax (60-100k),D,Valletta,EIV (3.78 gCO₂/t·nm),5605.1,297.2,True
+9227649,LING BAI,Bulk carrier,75121.0,Panamax (60-100k),D,Monrovia,EEXI (3.62 gCO₂/t·nm),5425.5,299.3,True
+9613056,HERMES,Bulk carrier,75073.0,Panamax (60-100k),E,Monrovia,EEXI (3.63 gCO₂/t·nm),7353.9,334.7,True
+9493896,THISSEAS,Bulk carrier,75049.0,Panamax (60-100k),E,Monrovia,EEXI (3.63 gCO₂/t·nm),2675.5,365.2,True
+9493925,CHARILAOS S,Bulk carrier,75039.0,Panamax (60-100k),E,Monrovia,EEXI (3.64 gCO₂/t·nm),2684.7,491.6,True
+9473315,NIKOLAOS S,Bulk carrier,75020.0,Panamax (60-100k),E,Monrovia,EEXI (3.64 gCO₂/t·nm),2063.5,326.5,True
+9502623,GOOD WISH,Bulk carrier,75019.0,Panamax (60-100k),D,Monrovia,EEXI (3.64 gCO₂/t·nm),1713.9,290.0,True
+9642356,TRITON,Bulk carrier,75009.0,Panamax (60-100k),E,Monrovia,EEXI (3.63 gCO₂/t·nm),9616.2,335.5,True
+9673757,VSC POSEIDON,Bulk carrier,74957.0,Panamax (60-100k),D,Monrovia,EIV (3.63 gCO₂/t·nm),6510.4,289.4,True
+9651280,MAGIC PLUTO,Bulk carrier,74940.0,Panamax (60-100k),E,Majuro,EEXI (3.59 gCO₂/t·nm),1293.6,329.5,True
+9254111,LUCKY GLORY,Bulk carrier,74269.0,Panamax (60-100k),D,Panama,EEXI (3.65 gCO₂/t·nm),6322.1,283.3,True
+9262936,CPT GEORGIOS S,Bulk carrier,74181.0,Panamax (60-100k),D,Monrovia,EEXI (3.66 gCO₂/t·nm),5969.4,290.2,True
+9281437,MARIETTA C,Bulk carrier,73641.0,Panamax (60-100k),D,Valletta,EEXI (3.67 gCO₂/t·nm),8830.5,289.2,True
+9318606,THE WISE,Bulk carrier,73593.0,Panamax (60-100k),E,Panama,EIV (5.46 gCO₂/t·nm),3062.8,356.5,True
+9247285,ATHINA III,Bulk carrier,73305.0,Panamax (60-100k),D,Valletta,EEXI (3.66 gCO₂/t·nm),2592.0,291.1,True
+9223485,ASPASIA LUCK,Bulk carrier,72270.0,Panamax (60-100k),D,Monrovia,EEXI (3.7 gCO₂/t·nm),3887.7,303.2,True
+9139256,EDFU,Bulk carrier,71572.0,Panamax (60-100k),E,Alexandria,EIV (4.71 gCO₂/t·nm),1622.9,421.0,True
+9736664,DRAFTVADER,Bulk carrier,66585.0,Panamax (60-100k),C,Piraeus,EEDI (3.86 gCO₂/t·nm),1379.0,260.6,True
+9875331,DRAFTZILLA,Bulk carrier,66509.0,Panamax (60-100k),C,Majuro,EEDI (3.9 gCO₂/t·nm),666.3,266.8,True
+9928827,MEGHNA VICTORY,Bulk carrier,66262.0,Panamax (60-100k),C,Chattogram,EEDI (3.63 gCO₂/t·nm),528.1,274.0,True
+9815965,MAROUDIO,Bulk carrier,64723.0,Panamax (60-100k),B,Majuro,EEDI (3.37 gCO₂/t·nm),1455.1,220.1,True
+9845790,LEM GERANIUM,Bulk carrier,64712.0,Panamax (60-100k),C,Limassol,EEXI (3.37 gCO₂/t·nm),4506.9,257.2,True
+9845817,LEM GLADIOLUS,Bulk carrier,64651.0,Panamax (60-100k),B,Majuro,EEXI (3.33 gCO₂/t·nm),2989.0,239.3,True
+9932804,PORT OSHIMA,Bulk carrier,64624.0,Panamax (60-100k),A,Majuro,EEDI (3.22 gCO₂/t·nm),4016.9,215.9,True
+9826457,UTOPIA,Bulk carrier,64499.0,Panamax (60-100k),C,Monrovia,EEDI (3.41 gCO₂/t·nm),2003.8,263.6,True
+9894466,MEGHNA PIONEER,Bulk carrier,64276.0,Panamax (60-100k),B,Chattogram,EEDI (3.65 gCO₂/t·nm),3503.5,218.9,True
+9894478,ARIES KARIN,Bulk carrier,64229.0,Panamax (60-100k),B,Panama,EEXI (3.65 gCO₂/t·nm),1793.5,218.5,True
+9952907,ETG UBUNTU,Bulk carrier,64195.0,Panamax (60-100k),B,Panama,EEDI (3.21 gCO₂/t·nm),2466.3,230.4,True
+9781085,ULTRALAZ,Bulk carrier,64043.0,Panamax (60-100k),C,Singapore,EEDI (3.59 gCO₂/t·nm),3806.9,259.2,True
+9792462,SOTKA,Bulk carrier,64043.0,Panamax (60-100k),C,Singapore,EEDI (3.61 gCO₂/t·nm),4700.9,259.2,True
+9802267,CASDA,Bulk carrier,64012.0,Panamax (60-100k),C,Majuro,EEXI (3.57 gCO₂/t·nm),3583.2,277.1,True
+9707699,GENCO ENTERPRISE,Bulk carrier,63997.0,Panamax (60-100k),C,Majuro,EEDI (3.87 gCO₂/t·nm),2526.6,272.6,True
+9919008,SSI INTERCEPTOR,Bulk carrier,63896.0,Panamax (60-100k),A,Majuro,EEDI (3.31 gCO₂/t·nm),2749.0,196.1,True
+9969027,GLOBAL FANFARE,Bulk carrier,63734.0,Panamax (60-100k),A,Panama,EEDI (3.22 gCO₂/t·nm),2663.6,206.2,True
+9942093,PORT KYOTO,Bulk carrier,63733.0,Panamax (60-100k),B,Monrovia,EEDI (3.26 gCO₂/t·nm),3820.6,220.4,True
+9960203,BULK MONACO,Bulk carrier,63733.0,Panamax (60-100k),A,Monrovia,EEDI (3.28 gCO₂/t·nm),1668.6,216.1,True
+9933066,FEDERAL INTEGRITY,Bulk carrier,63729.0,Panamax (60-100k),B,Majuro,EEDI (3.74 gCO₂/t·nm),4941.9,229.9,True
+9908451,BERGE DOI INTHANON,Bulk carrier,63685.0,Panamax (60-100k),B,Panama,EEDI (3.7 gCO₂/t·nm),2300.9,236.1,True
+9721982,BBG MASTER,Bulk carrier,63650.0,Panamax (60-100k),D,Monrovia,EEXI (3.84 gCO₂/t·nm),4109.1,280.6,True
+9916305,SANTANDER,Bulk carrier,63650.0,Panamax (60-100k),C,Panama,EEDI (3.41 gCO₂/t·nm),4564.7,257.8,True
+9968956,NORVIC COPENHAGEN,Bulk carrier,63640.0,Panamax (60-100k),A,Monrovia,EEDI (3.23 gCO₂/t·nm),1692.0,210.9,True
+9702510,EY HAYDN,Bulk carrier,63608.0,Panamax (60-100k),C,Majuro,EEXI (3.81 gCO₂/t·nm),4347.7,258.0,True
+9721061,CLIPPER KATE,Bulk carrier,63607.0,Panamax (60-100k),C,Majuro,EEXI (3.83 gCO₂/t·nm),5877.1,273.9,True
+9731901,PACIFIC ACTIVITY,Bulk carrier,63601.0,Panamax (60-100k),B,Hong Kong,EEXI (3.86 gCO₂/t·nm),2744.9,245.0,True
+9856268,WESTERN FUJI,Bulk carrier,63597.0,Panamax (60-100k),A,Panama,EEDI (3.47 gCO₂/t·nm),3388.7,207.4,True
+9874650,GW MATHILDE,Bulk carrier,63592.0,Panamax (60-100k),D,Monrovia,EEXI (3.9 gCO₂/t·nm),5136.4,278.2,True
+9718167,TOMINI UNITY,Bulk carrier,63590.0,Panamax (60-100k),C,Majuro,EEDI (3.98 gCO₂/t·nm),5076.4,277.7,True
+9721932,BALTIC HORNET,Bulk carrier,63574.0,Panamax (60-100k),D,Majuro,EEDI (3.78 gCO₂/t·nm),2274.3,299.6,True
+9699361,PAN IMPERIAL,Bulk carrier,63567.0,Panamax (60-100k),E,Panama,EEXI (3.92 gCO₂/t·nm),1208.5,352.4,True
+9848077,ASTRO SIRIUS,Bulk carrier,63562.0,Panamax (60-100k),A,Nassau,EEXI (3.83 gCO₂/t·nm),6970.8,211.4,True
+9750440,DAWN,Bulk carrier,63561.0,Panamax (60-100k),B,Monrovia,EEDI (3.89 gCO₂/t·nm),4229.1,228.0,True
+9759680,PORT VERA CRUZ,Bulk carrier,63558.0,Panamax (60-100k),C,Monrovia,EEDI (3.67 gCO₂/t·nm),4571.8,250.2,True
+9820934,SANTA ALEXANDRA,Bulk carrier,63551.0,Panamax (60-100k),C,Panama,EEDI (3.73 gCO₂/t·nm),1378.7,266.1,True
+9942110,SPRING LOTUS,Bulk carrier,63539.0,Panamax (60-100k),B,Panama,EEDI (3.6 gCO₂/t·nm),2780.0,221.8,True
+9699347,SANTOS EAGLE,Bulk carrier,63537.0,Panamax (60-100k),D,Majuro,EEXI (3.88 gCO₂/t·nm),4253.3,290.0,True
+9752424,DARYA SATI,Bulk carrier,63523.0,Panamax (60-100k),E,Hong Kong,EEDI (3.95 gCO₂/t·nm),1389.3,416.1,True
+9696448,GLAFKOS,Bulk carrier,63519.0,Panamax (60-100k),D,Monrovia,EEDI (3.91 gCO₂/t·nm),6499.9,288.0,True
+9732187,ISSARA NAREE,Bulk carrier,63516.0,Panamax (60-100k),C,Bangkok,EEDI (3.69 gCO₂/t·nm),8362.4,259.7,True
+9866706,BERGE TATEYAMA,Bulk carrier,63511.0,Panamax (60-100k),B,Douglas,EEXI (3.7 gCO₂/t·nm),3349.5,220.1,True
+9860685,YM ADVANCE,Bulk carrier,63509.0,Panamax (60-100k),C,Majuro,EEDI (3.6 gCO₂/t·nm),2820.1,272.0,True
+9762364,ARTEMISSIO,Bulk carrier,63505.0,Panamax (60-100k),D,Bridgetown,EEDI (3.62 gCO₂/t·nm),4504.7,288.3,True
+9801316,BRIGHT IMABARI,Bulk carrier,63504.0,Panamax (60-100k),B,Majuro,EEDI (3.6 gCO₂/t·nm),1525.0,237.6,True
+9742663,GENCO VIGILANT,Bulk carrier,63497.0,Panamax (60-100k),E,Majuro,EEDI (3.91 gCO₂/t·nm),6675.5,334.5,True
+9696424,LETO,Bulk carrier,63485.0,Panamax (60-100k),E,Panama,EEDI (3.93 gCO₂/t·nm),2941.1,314.2,True
+9712204,TIGER HEBEI,Bulk carrier,63483.0,Panamax (60-100k),A,Hong Kong,EEDI (3.83 gCO₂/t·nm),10.5,76.5,True
+9888015,ETG SOUTHERN CROSS,Bulk carrier,63482.0,Panamax (60-100k),C,Singapore,EEDI (3.6 gCO₂/t·nm),6315.8,265.7,True
+9751341,NING TAI HAI,Bulk carrier,63475.0,Panamax (60-100k),D,Hong Kong,EEXI (3.86 gCO₂/t·nm),3464.4,292.4,True
+9853515,SELENA,Bulk carrier,63464.0,Panamax (60-100k),C,Bridgetown,EEDI (3.68 gCO₂/t·nm),7334.1,275.9,True
+9696436,MENELAOS,Bulk carrier,63458.0,Panamax (60-100k),E,Panama,EEDI (3.9 gCO₂/t·nm),1910.0,327.4,True
+9732199,INTHIRA NAREE,Bulk carrier,63456.0,Panamax (60-100k),C,Bangkok,EEDI (3.96 gCO₂/t·nm),5700.3,261.1,True
+9782247,FIRST SKY,Bulk carrier,63452.0,Panamax (60-100k),D,Panama,EIV (4.55 gCO₂/t·nm),2434.4,286.1,True
+9846275,MEGHNA LEGACY,Bulk carrier,63449.0,Panamax (60-100k),A,Chattogram,EEDI (3.6 gCO₂/t·nm),2085.9,218.0,True
+9743588,SHANGHAI EAGLE,Bulk carrier,63438.0,Panamax (60-100k),E,Majuro,EEXI (3.84 gCO₂/t·nm),1914.1,335.2,True
+9670901,AEOLOS,Bulk carrier,63434.0,Panamax (60-100k),D,Monrovia,EEXI (3.85 gCO₂/t·nm),2936.0,293.5,True
+9747508,FENG XIU HAI,Bulk carrier,63409.0,Panamax (60-100k),D,Hong Kong,EEXI (3.88 gCO₂/t·nm),2243.3,286.9,True
+9811957,KM LONDON,Bulk carrier,63386.0,Panamax (60-100k),B,Monrovia,EEXI (3.66 gCO₂/t·nm),3200.6,221.8,True
+9670925,OCEANUS,Bulk carrier,63385.0,Panamax (60-100k),C,Monrovia,EEXI (3.94 gCO₂/t·nm),6351.4,270.5,True
+9700665,LAURA,Bulk carrier,63377.0,Panamax (60-100k),C,Majuro,EEXI (3.94 gCO₂/t·nm),3231.7,272.5,True
+9700861,ZOITSA SIGALA,Bulk carrier,63350.0,Panamax (60-100k),E,Madeira,EEDI (3.87 gCO₂/t·nm),4148.9,311.9,True
+9698587,HAMBURG EAGLE,Bulk carrier,63334.0,Panamax (60-100k),E,Majuro,EEXI (3.86 gCO₂/t·nm),5427.5,324.1,True
+9684225,STAR MISTRAL,Bulk carrier,63306.0,Panamax (60-100k),C,Monrovia,EEXI (3.94 gCO₂/t·nm),5817.3,268.8,True
+9736169,MAGIC SEAS,Bulk carrier,63301.0,Panamax (60-100k),B,Monrovia,EEDI (3.91 gCO₂/t·nm),2652.4,245.3,True
+9666027,SPRING COSMOS,Bulk carrier,63273.0,Panamax (60-100k),D,Hong Kong,EEXI (3.8 gCO₂/t·nm),3629.8,280.4,True
+9703576,KENNADI,Bulk carrier,63262.0,Panamax (60-100k),D,Majuro,EEXI (3.89 gCO₂/t·nm),4966.4,279.7,True
+9700689,KALEY,Bulk carrier,63261.0,Panamax (60-100k),A,Majuro,EEXI (3.93 gCO₂/t·nm),3776.2,218.5,True
+9726504,AZUL,Bulk carrier,63253.0,Panamax (60-100k),E,Majuro,EIV (4.9 gCO₂/t·nm),6916.7,344.2,True
+9701920,SPAR ARIES,Bulk carrier,63247.0,Panamax (60-100k),B,Bergen,EEXI (3.89 gCO₂/t·nm),4771.0,221.9,True
+9747522,FENG HE HAI,Bulk carrier,63244.0,Panamax (60-100k),D,Hong Kong,EEXI (3.86 gCO₂/t·nm),4059.4,284.1,True
+9665542,GLOBAL UNITY,Bulk carrier,63238.0,Panamax (60-100k),D,Majuro,EEXI (3.95 gCO₂/t·nm),2015.5,309.6,True
+9700328,ULTRA ALPHA,Bulk carrier,63203.0,Panamax (60-100k),D,Majuro,EEXI (3.95 gCO₂/t·nm),3893.4,299.0,True
+9672040,AL MAQAM,Bulk carrier,63155.0,Panamax (60-100k),D,Majuro,EEXI (3.93 gCO₂/t·nm),5383.7,280.8,True
+9672052,BEI LUN 17,Bulk carrier,63151.0,Panamax (60-100k),C,Yang Pu,EIV (4.46 gCO₂/t·nm),2224.6,270.2,True
+9890666,CL YINGNA HE,Bulk carrier,63126.0,Panamax (60-100k),C,Monrovia,EEXI (3.3 gCO₂/t·nm),7514.4,255.9,True
+9890630,CL FUZHOU HE,Bulk carrier,63125.0,Panamax (60-100k),C,Monrovia,EEXI (3.79 gCO₂/t·nm),5661.7,251.9,True
+9700330,STEEL C,Bulk carrier,63118.0,Panamax (60-100k),B,Monrovia,EEDI (3.94 gCO₂/t·nm),1821.4,226.7,True
+9726516,KMARIN OSLO,Bulk carrier,63099.0,Panamax (60-100k),E,Panama,EIV (6.5 gCO₂/t·nm),2446.2,319.1,True
+9890616,CL ANZI HE,Bulk carrier,63077.0,Panamax (60-100k),E,Hong Kong,EEDI (3.91 gCO₂/t·nm),100.4,355.9,True
+9724752,SKYFALL,Bulk carrier,63057.0,Panamax (60-100k),D,Monrovia,EEXI (3.94 gCO₂/t·nm),6718.7,305.8,True
+9724740,SKYWALKER,Bulk carrier,63056.0,Panamax (60-100k),E,Monrovia,EEXI (3.95 gCO₂/t·nm),8.2,2046.7,True
+9720299,ASTRO VEGA,Bulk carrier,63008.0,Panamax (60-100k),A,Majuro,EEDI (3.93 gCO₂/t·nm),3196.4,212.3,True
+9838541,PORT OSAKA,Bulk carrier,62716.0,Panamax (60-100k),A,Monrovia,EEDI (3.35 gCO₂/t·nm),4214.6,216.3,True
+9698953,SEARIDER,Bulk carrier,62690.0,Panamax (60-100k),B,Valletta,EEXI (3.95 gCO₂/t·nm),3108.6,230.1,True
+9688647,SEABONI,Bulk carrier,62657.0,Panamax (60-100k),C,Valletta,EEXI (3.95 gCO₂/t·nm),2946.8,261.3,True
+9698941,SEABEE,Bulk carrier,62653.0,Panamax (60-100k),B,Valletta,EEXI (3.96 gCO₂/t·nm),4482.1,238.6,True
+9838498,WESTERN TOKYO,Bulk carrier,62647.0,Panamax (60-100k),C,Manila,EEDI (3.44 gCO₂/t·nm),787.0,265.2,True
+9838486,MEGHNA CROWN,Bulk carrier,62647.0,Panamax (60-100k),B,Chattogram,EEDI (3.45 gCO₂/t·nm),1571.0,219.3,True
+9853022,CL EPIC,Bulk carrier,62623.0,Panamax (60-100k),B,Antwerp,EEDI (3.49 gCO₂/t·nm),4560.9,248.4,True
+9805776,MEGHNA PRINCESS,Bulk carrier,62534.0,Panamax (60-100k),B,Chattogram,EEDI (3.53 gCO₂/t·nm),6330.6,226.7,True
+9805764,MEGHNA  ADVENTURE,Bulk carrier,62472.0,Panamax (60-100k),A,Chattogram,EEDI (3.57 gCO₂/t·nm),5139.1,215.2,True
+9725005,ASIAN SUMMIT,Bulk carrier,62466.0,Panamax (60-100k),B,Singapore,EEXI (3.41 gCO₂/t·nm),2883.5,238.2,True
+9514822,AGAPI S,Bulk carrier,62145.0,Panamax (60-100k),D,Monrovia,EEXI (3.98 gCO₂/t·nm),5136.8,290.2,True
+9533438,HONEVER,Bulk carrier,61664.0,Panamax (60-100k),C,Monrovia,EIV (4.77 gCO₂/t·nm),1802.5,261.9,True
+9757890,RED ORCHID,Bulk carrier,61645.0,Panamax (60-100k),B,Panama,EEDI (3.83 gCO₂/t·nm),807.4,237.7,True
+9711432,ANANI,Bulk carrier,61631.0,Panamax (60-100k),D,Singapore,EEDI (3.86 gCO₂/t·nm),3120.9,281.4,True
+9796951,VENUS SKY,Bulk carrier,61588.0,Panamax (60-100k),A,Singapore,EEDI (3.88 gCO₂/t·nm),258.0,142.8,True
+9689172,GENCO WEATHERLY,Bulk carrier,61556.0,Panamax (60-100k),A,Monrovia,EEDI (3.93 gCO₂/t·nm),3722.3,213.7,True
+9448229,ASL IXORA,Bulk carrier,61470.0,Panamax (60-100k),D,Singapore,EIV (4.88 gCO₂/t·nm),3932.9,289.4,True
+9604964,EVITA,Bulk carrier,61464.0,Panamax (60-100k),B,Majuro,EIV (4.86 gCO₂/t·nm),4563.1,236.5,True
+9642136,DIAMOND QUEEN,Bulk carrier,61414.0,Panamax (60-100k),C,Panama,EIV (4.53 gCO₂/t·nm),2367.1,262.7,True
+9713478,BULK PRUDENCE,Bulk carrier,61330.0,Panamax (60-100k),B,Monrovia,EEXI (3.97 gCO₂/t·nm),4484.6,232.9,True
+9738935,ORION OCEAN,Bulk carrier,61321.0,Panamax (60-100k),B,Panama,EEDI (4.21 gCO₂/t·nm),1060.3,230.1,True
+9683128,BULK BEQUIA,Bulk carrier,61309.0,Panamax (60-100k),A,Monrovia,EEXI (4 gCO₂/t·nm),2546.7,217.7,True
+9870886,IVS PRESTWICK,Bulk carrier,61305.0,Panamax (60-100k),B,Singapore,EEDI (3.99 gCO₂/t·nm),3079.9,245.6,True
+9748423,ALBERTITO,Bulk carrier,61301.0,Panamax (60-100k),A,Majuro,EEDI (4.13 gCO₂/t·nm),1536.8,203.7,True
+9812494,ULTRA ANGEL,Bulk carrier,61298.0,Panamax (60-100k),C,Monrovia,EEDI (4.08 gCO₂/t·nm),793.4,265.6,True
+9914498,NORD ALLEGRO,Bulk carrier,61263.0,Panamax (60-100k),B,Panama,EEDI (3.82 gCO₂/t·nm),2449.9,239.8,True
+9748124,LORENZO,Bulk carrier,61250.0,Panamax (60-100k),B,Majuro,EEDI (4.15 gCO₂/t·nm),1737.8,226.4,True
+9748368,LA STELLA,Bulk carrier,61250.0,Panamax (60-100k),B,Antwerp,EEXI (4.01 gCO₂/t·nm),7142.3,243.5,True
+9748370,SHARP ISLAND,Bulk carrier,61244.0,Panamax (60-100k),C,"Hong Kong, China",EEXI (4.01 gCO₂/t·nm),3828.1,263.8,True
+9758868,ARMONIA.GR,Bulk carrier,61242.0,Panamax (60-100k),B,Majuro,EEXI (4 gCO₂/t·nm),3220.7,245.8,True
+9806770,MEDI CABOTO,Bulk carrier,61228.0,Panamax (60-100k),D,Monrovia,EEDI (4.08 gCO₂/t·nm),7093.5,308.1,True
+9714692,GUARDIAN,Bulk carrier,61202.0,Panamax (60-100k),B,Majuro,EEXI (4.01 gCO₂/t·nm),1679.7,239.0,True
+9800398,SANTA CAROLINA,Bulk carrier,61195.0,Panamax (60-100k),C,Monrovia,EEDI (4.1 gCO₂/t·nm),1825.0,271.9,True
+9714707,RUBY,Bulk carrier,61192.0,Panamax (60-100k),B,Majuro,EEXI (4.01 gCO₂/t·nm),5080.2,249.1,True
+9885427,SEA TREASURE,Bulk carrier,61192.0,Panamax (60-100k),C,Panama,EEDI (3.82 gCO₂/t·nm),4468.6,263.2,True
+9738820,NORD BERING,Bulk carrier,61186.0,Panamax (60-100k),B,Panama,EEDI (4.13 gCO₂/t·nm),394.1,241.3,True
+9935818,MONTEVIDEO I,Bulk carrier,61130.0,Panamax (60-100k),B,Panama,EEDI (3.85 gCO₂/t·nm),3616.9,246.2,True
+9878694,ULTRA VISION,Bulk carrier,61119.0,Panamax (60-100k),C,Panama,EEXI (3.86 gCO₂/t·nm),2889.6,256.3,True
+9692698,ALWINE OLDENDORFF,Bulk carrier,61090.0,Panamax (60-100k),B,Monrovia,EEDI (4 gCO₂/t·nm),1027.1,237.2,True
+9923205,GENCO MARY,Bulk carrier,61085.0,Panamax (60-100k),A,Majuro,EEDI (3.9 gCO₂/t·nm),3020.0,214.5,True
+9757826,ULTRA CRIMSON,Bulk carrier,61084.0,Panamax (60-100k),B,Panama,EEDI (4.17 gCO₂/t·nm),3460.6,234.4,True
+9848132,YASA JUPITER,Bulk carrier,61078.0,Panamax (60-100k),E,Majuro,EEDI (3.87 gCO₂/t·nm),42.4,2774.3,True
+9899193,DESERT PIONEER,Bulk carrier,60980.0,Panamax (60-100k),C,Piraeus,EEDI (4.37 gCO₂/t·nm),2509.7,252.8,True
+9703643,NM SAKURA,Bulk carrier,60948.0,Panamax (60-100k),C,Majuro,EEDI (4.05 gCO₂/t·nm),2724.8,251.2,True
+9636371,AMIS DOLPHIN,Bulk carrier,60830.0,Panamax (60-100k),D,Panama,EIV (4.44 gCO₂/t·nm),1758.7,308.7,True
+9727132,TAI SPLENDOR,Bulk carrier,60618.0,Panamax (60-100k),B,Panama,EIV (3.94 gCO₂/t·nm),872.4,242.6,True
+9774446,MEDI ATLANTICO,Bulk carrier,60550.0,Panamax (60-100k),B,Monrovia,EEDI (3.69 gCO₂/t·nm),3308.0,245.7,True
+9789910,MEDI ZUOZ,Bulk carrier,60501.0,Panamax (60-100k),A,Luxembourg,EEDI (3.54 gCO₂/t·nm),2898.5,217.9,True
+9767065,XING XI HAI,Bulk carrier,60498.0,Panamax (60-100k),B,Hong Kong,EEXI (3.93 gCO₂/t·nm),3350.6,234.8,True
+9712979,ASTRO REGULUS,Bulk carrier,60417.0,Panamax (60-100k),A,Majuro,EEXI (3.93 gCO₂/t·nm),955.4,182.8,True
+9805673,MH COLUMBIA,Bulk carrier,60396.0,Panamax (60-100k),B,Singapore,EEDI (3.6 gCO₂/t·nm),3285.0,241.7,True
+9760122,MEDI BRISBANE,Bulk carrier,60386.0,Panamax (60-100k),A,Panama,EEDI (3.95 gCO₂/t·nm),211.4,218.2,True
+9805661,ASTRO SANISTRA,Bulk carrier,60365.0,Panamax (60-100k),C,Majuro,EEXI (3.59 gCO₂/t·nm),2295.7,268.7,True
+9715816,CL CENTURY,Bulk carrier,60319.0,Panamax (60-100k),C,Antwerp,EEXI (4.04 gCO₂/t·nm),7479.5,271.4,True
+9729362,DSI AQUILA,Bulk carrier,60309.0,Panamax (60-100k),B,Majuro,EEXI (4.04 gCO₂/t·nm),3566.3,222.6,True
+9757008,ELLIREA,Bulk carrier,60263.0,Panamax (60-100k),A,Valletta,EEXI (4.02 gCO₂/t·nm),1969.0,217.2,True
+9799771,LOWLANDS FUTURE,Bulk carrier,60063.0,Panamax (60-100k),B,Singapore,EEXI (3.7 gCO₂/t·nm),2249.4,242.9,True
+9727182,LOWLANDS HOPE,Bulk carrier,60063.0,Panamax (60-100k),D,Singapore,EEXI (3.74 gCO₂/t·nm),658.7,286.2,True
+9403114,CYCAS,Bulk carrier,58785.0,Handymax/Supramax (35-60k),C,Panama,EEXI (4.07 gCO₂/t·nm),2079.5,250.0,True
+9403190,DENSA DOLPHIN,Bulk carrier,58772.0,Handymax/Supramax (35-60k),D,Valletta,EEXI (4.09 gCO₂/t·nm),8837.5,284.0,True
+9617741,COMMON LUCK,Bulk carrier,58756.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (4.09 gCO₂/t·nm),1467.9,269.1,True
+9386407,SEA BRAVERY,Bulk carrier,58722.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (4.09 gCO₂/t·nm),2242.4,281.1,True
+9423580,BERNINA,Bulk carrier,58682.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (4.09 gCO₂/t·nm),574.5,295.4,True
+9730270,BRIGITTE,Bulk carrier,58624.0,Handymax/Supramax (35-60k),C,Limassol,EEXI (4.03 gCO₂/t·nm),4439.3,260.2,True
+9452517,BAYRAKTAR UNITY,Bulk carrier,58609.0,Handymax/Supramax (35-60k),D,Majuro,EIV (6.65 gCO₂/t·nm),6271.8,307.1,True
+9638496,ARMONIA,Bulk carrier,58609.0,Handymax/Supramax (35-60k),E,Majuro,EEXI (4.09 gCO₂/t·nm),5177.0,331.1,True
+9452490,STELIOS B,Bulk carrier,58608.0,Handymax/Supramax (35-60k),D,Valletta,EEXI (4.09 gCO₂/t·nm),4920.9,294.6,True
+9638501,THOR CHAICHANA,Bulk carrier,58605.0,Handymax/Supramax (35-60k),D,Singapore,EEXI (4.09 gCO₂/t·nm),1457.6,299.8,True
+9730256,MENOMONEE,Bulk carrier,58595.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (4.06 gCO₂/t·nm),4578.4,267.8,True
+9611802,ASTRA CENTAURUS,Bulk carrier,58518.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (4.06 gCO₂/t·nm),3212.6,306.7,True
+9452555,PLATON,Bulk carrier,58502.0,Handymax/Supramax (35-60k),D,Majuro,EIV (6.01 gCO₂/t·nm),7673.7,303.6,True
+9452543,THEMIS,Bulk carrier,58487.0,Handymax/Supramax (35-60k),E,Majuro,EIV (6.01 gCO₂/t·nm),7267.3,332.9,True
+9531662,BC MIRABEL,Bulk carrier,58186.0,Handymax/Supramax (35-60k),D,Bridgetown,EEXI (4.11 gCO₂/t·nm),1568.2,292.6,True
+9493987,MOONBEAM,Bulk carrier,58138.0,Handymax/Supramax (35-60k),A,Monrovia,EIV (4.78 gCO₂/t·nm),752.9,209.0,True
+9737125,DISCOVERY BAY,Bulk carrier,58112.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (4.11 gCO₂/t·nm),1213.2,234.4,True
+9520950,VINDONISSA,Bulk carrier,58110.0,Handymax/Supramax (35-60k),E,Basel,EEXI (4.11 gCO₂/t·nm),1426.6,375.8,True
+9426257,DORIC VALOUR,Bulk carrier,58109.0,Handymax/Supramax (35-60k),C,Piraeus,EIV (5.31 gCO₂/t·nm),4472.6,252.2,True
+9494060,OMORFI,Bulk carrier,58105.0,Handymax/Supramax (35-60k),E,Majuro,EEXI (4.11 gCO₂/t·nm),3657.7,340.1,True
+9425851,ETERNITY SW,Bulk carrier,58098.0,Handymax/Supramax (35-60k),B,Panama,EIV (5.11 gCO₂/t·nm),5447.3,245.9,True
+9425887,DORIC VICTORY,Bulk carrier,58091.0,Handymax/Supramax (35-60k),B,Piraeus,EIV (5.31 gCO₂/t·nm),4232.0,236.4,True
+9578294,BADGER ISLAND,Bulk carrier,58086.0,Handymax/Supramax (35-60k),A,"Hong Kong, China",EEXI (4.11 gCO₂/t·nm),2453.7,203.8,True
+9490686,GENCO LANGUEDOC,Bulk carrier,58020.0,Handymax/Supramax (35-60k),E,Majuro,EEXI (4.09 gCO₂/t·nm),3978.6,321.3,True
+9586693,MILEENA,Bulk carrier,58018.0,Handymax/Supramax (35-60k),D,Monrovia,EEXI (4.11 gCO₂/t·nm),1397.8,306.4,True
+9490868,FILIA,Bulk carrier,58018.0,Handymax/Supramax (35-60k),E,Valletta,EEXI (4.09 gCO₂/t·nm),5960.4,331.2,True
+9497830,SPAR CORONA,Bulk carrier,58018.0,Handymax/Supramax (35-60k),B,Bergen,EEXI (4.11 gCO₂/t·nm),4852.1,247.0,True
+9490739,NORMA,Bulk carrier,58018.0,Handymax/Supramax (35-60k),E,Monrovia,EEXI (4.11 gCO₂/t·nm),1453.1,317.5,True
+9499462,ENDLESS HORIZON,Bulk carrier,58018.0,Handymax/Supramax (35-60k),D,Madeira,EEXI (4.11 gCO₂/t·nm),3493.2,307.5,True
+9490674,EAGLE,Bulk carrier,58018.0,Handymax/Supramax (35-60k),E,Majuro,EEXI (4.11 gCO₂/t·nm),1567.3,358.6,True
+9490806,SPAR HYDRA,Bulk carrier,58018.0,Handymax/Supramax (35-60k),C,Bergen,EEXI (4.11 gCO₂/t·nm),2735.7,275.8,True
+9448578,JOKER,Bulk carrier,57982.0,Handymax/Supramax (35-60k),C,Valletta,EEXI (4.11 gCO₂/t·nm),3387.6,264.4,True
+9425863,ST PAUL,Bulk carrier,57982.0,Handymax/Supramax (35-60k),E,Majuro,EEXI (4.11 gCO₂/t·nm),2347.5,330.3,True
+9732151,CRIMSON GLORY,Bulk carrier,57981.0,Handymax/Supramax (35-60k),B,Singapore,EEDI (4.27 gCO₂/t·nm),1309.3,249.5,True
+9623881,MELINDA,Bulk carrier,57981.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (4.11 gCO₂/t·nm),4593.7,285.8,True
+9496147,GHARAPURI ISLAND,Bulk carrier,57978.0,Handymax/Supramax (35-60k),C,"Hong Kong, China",EEXI (4.07 gCO₂/t·nm),4550.8,269.2,True
+9426245,BULK COLOMBIA,Bulk carrier,57937.0,Handymax/Supramax (35-60k),D,Monrovia,EEXI (4.11 gCO₂/t·nm),1632.7,279.6,True
+9630743,MEDROSE,Bulk carrier,57919.0,Handymax/Supramax (35-60k),E,Majuro,EEXI (4.11 gCO₂/t·nm),611.8,372.5,True
+9707637,TRIDENT STAR,Bulk carrier,57836.0,Handymax/Supramax (35-60k),E,Hong Kong,EEXI (4.11 gCO₂/t·nm),3056.5,346.4,True
+9441348,KINGFISHER,Bulk carrier,57809.0,Handymax/Supramax (35-60k),E,Majuro,EEXI (4.12 gCO₂/t·nm),2039.6,315.5,True
+9445617,GLOBAL GENESIS,Bulk carrier,57696.0,Handymax/Supramax (35-60k),C,Panama,EIV (5.27 gCO₂/t·nm),4942.7,273.9,True
+9583017,BARRACUDA ISLAND,Bulk carrier,57631.0,Handymax/Supramax (35-60k),B,"Hong Kong, China",EEXI (4.09 gCO₂/t·nm),3644.6,239.7,True
+9710036,MAGIA,Bulk carrier,57586.0,Handymax/Supramax (35-60k),B,Basel,EEXI (4.04 gCO₂/t·nm),800.3,244.8,True
+9763980,JPS AFRODITI,Bulk carrier,57523.0,Handymax/Supramax (35-60k),C,Panama,EEDI (7.31 gCO₂/t·nm),4553.3,271.8,True
+9543770,DESERT MOON,Bulk carrier,57467.0,Handymax/Supramax (35-60k),E,Majuro,EEXI (4.13 gCO₂/t·nm),7563.0,330.1,True
+9543691,DESERT GLORY,Bulk carrier,57412.0,Handymax/Supramax (35-60k),E,Piraeus,EEXI (4.13 gCO₂/t·nm),3279.4,334.6,True
+9616541,OLYMPUS,Bulk carrier,57374.0,Handymax/Supramax (35-60k),C,Nassau,EEXI (4.13 gCO₂/t·nm),6610.3,271.6,True
+9551703,TITANAS,Bulk carrier,57360.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (4.13 gCO₂/t·nm),5145.6,298.1,True
+9566552,LIMNOS,Bulk carrier,57190.0,Handymax/Supramax (35-60k),E,Valletta,EEXI (4.15 gCO₂/t·nm),4588.6,333.8,True
+9476680,GEORGIOS P,Bulk carrier,57051.0,Handymax/Supramax (35-60k),E,Piraeus,EEXI (4.14 gCO₂/t·nm),8247.6,331.2,True
+9594705,COMMON CALYPSO,Bulk carrier,57002.0,Handymax/Supramax (35-60k),E,Piraeus,EEXI (4.14 gCO₂/t·nm),1903.0,322.4,True
+9610080,COMMON VENTURE,Bulk carrier,57002.0,Handymax/Supramax (35-60k),D,Piraeus,EEXI (4.14 gCO₂/t·nm),1193.9,303.3,True
+9454668,QU SHAN HAI,Bulk carrier,56965.0,Handymax/Supramax (35-60k),E,Panama,EEXI (4.15 gCO₂/t·nm),3210.0,317.5,True
+9533050,SHENG JI HAI,Bulk carrier,56915.0,Handymax/Supramax (35-60k),C,Hai Kou,EEXI (4.15 gCO₂/t·nm),4833.8,251.2,True
+9592745,AVIONA,Bulk carrier,56898.0,Handymax/Supramax (35-60k),E,Monrovia,EIV (5.6 gCO₂/t·nm),3963.6,319.2,True
+9452854,TELERIG,Bulk carrier,56868.0,Handymax/Supramax (35-60k),D,Monrovia,EEXI (4.15 gCO₂/t·nm),2537.9,294.3,True
+9491240,MYKONOS SEAS,Bulk carrier,56840.0,Handymax/Supramax (35-60k),E,Monrovia,EIV (5.29 gCO₂/t·nm),6499.4,338.6,True
+9434747,SSI INVINCIBLE II,Bulk carrier,56815.0,Handymax/Supramax (35-60k),E,Majuro,EEXI (4.15 gCO₂/t·nm),3013.8,310.6,True
+9453248,OCEAN KNIGHT,Bulk carrier,56808.0,Handymax/Supramax (35-60k),D,Monrovia,EIV (5.9 gCO₂/t·nm),5486.0,294.2,True
+9641338,OCEANBEAUTY,Bulk carrier,56804.0,Handymax/Supramax (35-60k),E,Monrovia,EEXI (4.15 gCO₂/t·nm),3151.0,315.6,True
+9493664,MAGIC STRIKER,Bulk carrier,56802.0,Handymax/Supramax (35-60k),D,Douglas,EEXI (4.15 gCO₂/t·nm),6292.8,306.6,True
+9615676,SFL KATE,Bulk carrier,56798.0,Handymax/Supramax (35-60k),D,Hong Kong,EEXI (4.15 gCO₂/t·nm),4629.9,304.9,True
+9607277,BLUE FIN,Bulk carrier,56780.0,Handymax/Supramax (35-60k),E,Valletta,EIV (5.69 gCO₂/t·nm),4849.1,310.9,True
+9551698,EPIC TRADER,Bulk carrier,56778.0,Handymax/Supramax (35-60k),C,Monrovia,EEXI (4.13 gCO₂/t·nm),1452.8,261.2,True
+9594406,RINIA,Bulk carrier,56746.0,Handymax/Supramax (35-60k),D,Valletta,EEXI (4.15 gCO₂/t·nm),2448.0,285.1,True
+9621132,SAPPHIRE X,Bulk carrier,56734.0,Handymax/Supramax (35-60k),C,Panama,EEXI (4.16 gCO₂/t·nm),1807.5,255.3,True
+9494242,LIBRA,Bulk carrier,56726.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (4.15 gCO₂/t·nm),1344.3,264.2,True
+9569968,MANDARIN SINGAPORE,Bulk carrier,56724.0,Handymax/Supramax (35-60k),D,Singapore,EEXI (4.16 gCO₂/t·nm),2717.8,304.0,True
+9545716,TRINITY,Bulk carrier,56720.0,Handymax/Supramax (35-60k),D,Monrovia,EEXI (4.16 gCO₂/t·nm),6929.3,303.2,True
+9611008,FIVOS,Bulk carrier,56708.0,Handymax/Supramax (35-60k),D,Majuro,EIV (5.97 gCO₂/t·nm),3694.3,300.5,True
+9427342,KARPATHOS DAWN,Bulk carrier,56700.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (4.15 gCO₂/t·nm),2090.1,237.8,True
+9505481,SHENG CHENG HAI,Bulk carrier,56633.0,Handymax/Supramax (35-60k),E,Haikou,EEXI (4.16 gCO₂/t·nm),1263.8,363.8,True
+9632313,WU GUI SHAN,Bulk carrier,56625.0,Handymax/Supramax (35-60k),C,Hong Kong,EEXI (4.16 gCO₂/t·nm),1739.0,262.1,True
+9632296,SHOU CHEN SHAN,Bulk carrier,56621.0,Handymax/Supramax (35-60k),C,Hong Kong,EEXI (4.16 gCO₂/t·nm),1465.8,276.9,True
+9621778,SUPER TOMIYASU,Bulk carrier,56604.0,Handymax/Supramax (35-60k),E,Panama,EEXI (4.16 gCO₂/t·nm),4245.4,314.1,True
+9624500,ERRIKOS,Bulk carrier,56591.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (4.15 gCO₂/t·nm),6198.7,298.8,True
+9594638,STAR CLEO,Bulk carrier,56581.0,Handymax/Supramax (35-60k),D,Monrovia,EEXI (4.16 gCO₂/t·nm),4176.5,296.4,True
+9389124,CLARA,Bulk carrier,56557.0,Handymax/Supramax (35-60k),C,Monrovia,EEXI (4.16 gCO₂/t·nm),3248.5,250.6,True
+9621780,STAR PEGASUS,Bulk carrier,56540.0,Handymax/Supramax (35-60k),D,Monrovia,EEXI (4.16 gCO₂/t·nm),3577.3,306.8,True
+9474668,KARDAM,Bulk carrier,56536.0,Handymax/Supramax (35-60k),C,Monrovia,EEXI (4.16 gCO₂/t·nm),1897.1,276.0,True
+9632818,LMZ  ARIEL,Bulk carrier,56418.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (4.15 gCO₂/t·nm),4238.2,301.8,True
+9611826,FEHU,Bulk carrier,56416.0,Handymax/Supramax (35-60k),D,Monrovia,EEXI (4.17 gCO₂/t·nm),3327.0,281.8,True
+9590797,NSM ARKADIA,Bulk carrier,56348.0,Handymax/Supramax (35-60k),E,Monrovia,EEXI (4.16 gCO₂/t·nm),4629.3,314.3,True
+9514377,NORDIC STAVANGER,Bulk carrier,56172.0,Handymax/Supramax (35-60k),D,Monrovia,EEXI (4.17 gCO₂/t·nm),687.1,281.9,True
+9514341,YASA KAPTAN ERBIL,Bulk carrier,56169.0,Handymax/Supramax (35-60k),C,Istanbul,EIV (5.32 gCO₂/t·nm),973.9,273.2,True
+9546992,VISAYAS,Bulk carrier,56136.0,Handymax/Supramax (35-60k),E,Monrovia,EIV (5.89 gCO₂/t·nm),1608.8,327.8,True
+9514262,ND ARMONIA,Bulk carrier,56121.0,Handymax/Supramax (35-60k),C,Valletta,EEXI (4.18 gCO₂/t·nm),3802.8,276.5,True
+9514389,SINTRA,Bulk carrier,56118.0,Handymax/Supramax (35-60k),D,Monrovia,EEXI (4.18 gCO₂/t·nm),4307.0,299.9,True
+9565053,BOLD VOYAGER,Bulk carrier,56118.0,Handymax/Supramax (35-60k),D,Panama,EIV (5.38 gCO₂/t·nm),1626.1,293.8,True
+9331880,ORION,Bulk carrier,56071.0,Handymax/Supramax (35-60k),E,Monrovia,EIV (5.2 gCO₂/t·nm),4907.1,322.0,True
+9331919,TAXIDIARA,Bulk carrier,56049.0,Handymax/Supramax (35-60k),C,Valletta,EEXI (4.18 gCO₂/t·nm),2467.4,256.8,True
+9638070,IONIC SMYRNI,Bulk carrier,56025.0,Handymax/Supramax (35-60k),C,Majuro,EIV (5.33 gCO₂/t·nm),896.9,269.8,True
+9331907,COLUMBIA RIVER,Bulk carrier,55922.0,Handymax/Supramax (35-60k),D,"Hong Kong, China",EEXI (4.18 gCO₂/t·nm),3550.4,277.8,True
+9690509,LUMINA,Bulk carrier,55865.0,Handymax/Supramax (35-60k),C,Monrovia,EEXI (4.02 gCO₂/t·nm),8275.3,256.2,True
+9300221,THOR MERCURY,Bulk carrier,55862.0,Handymax/Supramax (35-60k),B,Singapore,EEXI (4.19 gCO₂/t·nm),2144.3,242.7,True
+9485045,OCEAN DESTINY,Bulk carrier,55848.0,Handymax/Supramax (35-60k),C,Monrovia,EEXI (4.19 gCO₂/t·nm),5082.9,263.7,True
+9624031,SUPRA PASHA,Bulk carrier,55848.0,Handymax/Supramax (35-60k),E,Monrovia,EEXI (4.19 gCO₂/t·nm),2335.4,337.9,True
+9652557,OAK BAY,Bulk carrier,55845.0,Handymax/Supramax (35-60k),C,"Hong Kong, China",EEXI (4.17 gCO₂/t·nm),1195.5,277.0,True
+9624055,ALKYONI,Bulk carrier,55830.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (4.19 gCO₂/t·nm),2362.7,290.8,True
+9514066,SAN ANTONIO,Bulk carrier,55768.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (4.19 gCO₂/t·nm),189.5,251.8,True
+9303871,LEON,Bulk carrier,55730.0,Handymax/Supramax (35-60k),D,"Limassol, Cyprus",EEXI (4.19 gCO₂/t·nm),4899.7,286.8,True
+9284506,CHRIS GR,Bulk carrier,55715.0,Handymax/Supramax (35-60k),B,Valetta,EEXI (4.19 gCO₂/t·nm),1331.7,228.6,True
+9291391,THOR MAXIMUS,Bulk carrier,55695.0,Handymax/Supramax (35-60k),D,Singapore,EEXI (4.19 gCO₂/t·nm),3530.4,285.1,True
+9291389,THOR MADOC,Bulk carrier,55695.0,Handymax/Supramax (35-60k),C,Singapore,EEXI (4.19 gCO₂/t·nm),5119.0,265.0,True
+9514042,K.RUBY,Bulk carrier,55688.0,Handymax/Supramax (35-60k),C,Panama,EEXI (3.89 gCO₂/t·nm),1023.9,257.5,True
+9482213,ANNA-DOROTHEA,Bulk carrier,55646.0,Handymax/Supramax (35-60k),A,Monrovia,EEXI (4.19 gCO₂/t·nm),1174.8,187.6,True
+9483229,BORDEAUX,Bulk carrier,55621.0,Handymax/Supramax (35-60k),B,Monrovia,EEXI (4.19 gCO₂/t·nm),2489.4,241.7,True
+9635391,ARUNA HULYA,Bulk carrier,55582.0,Handymax/Supramax (35-60k),A,Majuro,EEXI (4.2 gCO₂/t·nm),2134.8,204.5,True
+9479034,MALTEZA,Bulk carrier,55580.0,Handymax/Supramax (35-60k),D,Valetta,EEXI (4.2 gCO₂/t·nm),831.4,295.7,True
+9725445,FEDERAL TOKORO,Bulk carrier,55543.0,Handymax/Supramax (35-60k),B,Panama,EEXI (4.02 gCO₂/t·nm),3530.1,221.2,True
+9635406,ARUNA ECE,Bulk carrier,55506.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (4.2 gCO₂/t·nm),4653.2,235.4,True
+9637296,ARUNA ISMAIL,Bulk carrier,55484.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (4.2 gCO₂/t·nm),4868.3,221.8,True
+9724178,AMIS FORTUNE,Bulk carrier,55468.0,Handymax/Supramax (35-60k),D,Panama,EEXI (4.2 gCO₂/t·nm),1112.3,284.6,True
+9524700,YASA CANARY,Bulk carrier,55446.0,Handymax/Supramax (35-60k),D,Majuro,EIV (5.24 gCO₂/t·nm),3513.2,286.3,True
+9524683,ILENAO,Bulk carrier,55442.0,Handymax/Supramax (35-60k),E,Monrovia,EEXI (4.2 gCO₂/t·nm),1120.7,345.8,True
+9705421,AMIS ELEGANCE,Bulk carrier,55404.0,Handymax/Supramax (35-60k),C,Panama,EEDI (4.29 gCO₂/t·nm),1940.2,270.6,True
+9317559,LOWLANDS OPAL,Bulk carrier,55381.0,Handymax/Supramax (35-60k),D,Singapore,EEXI (4.2 gCO₂/t·nm),5016.0,287.4,True
+9658903,FEDERAL TYNE,Bulk carrier,55160.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (4.05 gCO₂/t·nm),2604.6,223.8,True
+9385491,DESTINY,Bulk carrier,54204.0,Handymax/Supramax (35-60k),B,Panama,Not Applicable,1646.5,247.0,True
+9412634,KAMARI,Bulk carrier,53822.0,Handymax/Supramax (35-60k),E,Majuro,EEXI (4.26 gCO₂/t·nm),8198.3,317.4,True
+9412646,NIKOS N,Bulk carrier,53815.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (4.25 gCO₂/t·nm),8818.7,304.3,True
+9307578,SPAR SCORPIO,Bulk carrier,53565.0,Handymax/Supramax (35-60k),C,Bergen,EEXI (4.27 gCO₂/t·nm),3460.9,274.0,True
+9328522,SPAR SPICA,Bulk carrier,53565.0,Handymax/Supramax (35-60k),C,Bergen,EEXI (4.27 gCO₂/t·nm),4625.6,273.6,True
+9405435,EVRIALI,Bulk carrier,53554.0,Handymax/Supramax (35-60k),E,Monrovia,EEXI (4.27 gCO₂/t·nm),4789.8,360.3,True
+9480930,PANORIA,Bulk carrier,53514.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (4.27 gCO₂/t·nm),2491.0,260.0,True
+9313022,STAR OMICRON,Bulk carrier,53489.0,Handymax/Supramax (35-60k),E,Majuro,EEXI (4.27 gCO₂/t·nm),3381.2,339.6,True
+9488217,WU YI HAI,Bulk carrier,53393.0,Handymax/Supramax (35-60k),E,Haikou,EEXI (4.28 gCO₂/t·nm),2203.6,353.2,True
+9347932,ECOATLANTIC,Bulk carrier,53360.0,Handymax/Supramax (35-60k),E,Majuro,EEXI (4.28 gCO₂/t·nm),1516.7,363.0,True
+9291365,BESIKTAS-M,Bulk carrier,53020.0,Handymax/Supramax (35-60k),A,Panama,EEXI (4.29 gCO₂/t·nm),3581.5,209.5,True
+9278868,WEST BAY,Bulk carrier,52532.0,Handymax/Supramax (35-60k),B,"Hong Kong, China",EEXI (4.28 gCO₂/t·nm),2059.2,245.0,True
+9298533,THOR INSUVI,Bulk carrier,52489.0,Handymax/Supramax (35-60k),B,Singapore,EEXI (4.31 gCO₂/t·nm),1336.2,233.4,True
+9278870,APAGEON,Bulk carrier,52483.0,Handymax/Supramax (35-60k),B,Valletta,EEXI (4.31 gCO₂/t·nm),2339.4,236.4,True
+9230763,SEASHIN,Bulk carrier,52428.0,Handymax/Supramax (35-60k),C,Panama,EEXI (4.29 gCO₂/t·nm),2237.7,264.5,True
+9290232,KAVO AETOS,Bulk carrier,52384.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (4.32 gCO₂/t·nm),6104.5,227.5,True
+9222493,THOR INTEGRITY,Bulk carrier,52375.0,Handymax/Supramax (35-60k),A,Singapore,EEXI (4.31 gCO₂/t·nm),946.4,216.6,True
+9324629,INTREPID,Bulk carrier,52346.0,Handymax/Supramax (35-60k),B,Valletta,EIV (4.41 gCO₂/t·nm),2541.4,233.4,True
+9251315,VIVA GLOBUS,Bulk carrier,52300.0,Handymax/Supramax (35-60k),E,Panama,EEXI (4.27 gCO₂/t·nm),243.7,341.5,True
+9298519,TAI HONOR,Bulk carrier,52292.0,Handymax/Supramax (35-60k),A,Panama,EEXI (4.32 gCO₂/t·nm),1927.0,200.8,True
+9667758,ANADOLU S,Bulk carrier,52199.0,Handymax/Supramax (35-60k),A,Panama,EEXI (4.32 gCO₂/t·nm),703.6,189.3,True
+9229697,EQUINOX SEAS,Bulk carrier,52009.0,Handymax/Supramax (35-60k),B,George Town,EEXI (4.33 gCO₂/t·nm),4097.5,243.6,True
+9606118,PUNTA,Bulk carrier,52000.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (4.34 gCO₂/t·nm),5339.8,253.9,True
+9495935,ORION,Bulk carrier,51679.0,Handymax/Supramax (35-60k),D,Bergen,EEDI (5.04 gCO₂/t·nm),353.1,283.4,True
+9550668,TRUE FRIEND,Bulk carrier,51241.0,Handymax/Supramax (35-60k),D,Bridgetown,EEXI (4.36 gCO₂/t·nm),520.7,284.2,True
+9401922,SOZON,Bulk carrier,50779.0,Handymax/Supramax (35-60k),C,Monrovia,EEXI (6.04 gCO₂/t·nm),2721.0,273.2,True
+9279367,SILVER LADY,Bulk carrier,50329.0,Handymax/Supramax (35-60k),A,Valletta,EEXI (4.4 gCO₂/t·nm),1801.9,211.0,True
+9236092,KARTERIA,Bulk carrier,50320.0,Handymax/Supramax (35-60k),B,Valletta,EEXI (4.4 gCO₂/t·nm),6687.7,240.8,True
+9223174,PRETTY LADY,Bulk carrier,50169.0,Handymax/Supramax (35-60k),D,Monrovia,EEXI (4.38 gCO₂/t·nm),2329.8,289.9,True
+9275323,S-BRILLIANT,Bulk carrier,48821.0,Handymax/Supramax (35-60k),C,Monrovia,EEXI (4.46 gCO₂/t·nm),2104.8,261.1,True
+9250579,SSI PRIDE,Bulk carrier,48635.0,Handymax/Supramax (35-60k),B,Panama,EEXI (4.47 gCO₂/t·nm),3026.1,228.1,True
+9393618,ETNA,Bulk carrier,48549.0,Handymax/Supramax (35-60k),E,Izmir,EEXI (4.48 gCO₂/t·nm),7092.2,314.3,True
+9835769,PLANA,Bulk carrier,47096.0,Handymax/Supramax (35-60k),A,Valletta,EEXI (4.46 gCO₂/t·nm),3612.7,212.0,True
+9835771,MIDJUR,Bulk carrier,47070.0,Handymax/Supramax (35-60k),A,Valletta,EEXI (4.46 gCO₂/t·nm),6327.2,200.9,True
+9146962,GULMAR,Bulk carrier,45719.0,Handymax/Supramax (35-60k),B,İzmir,EEXI (4.6 gCO₂/t·nm),5036.2,228.1,True
+9228071,MASTRO MITROS,Bulk carrier,45601.0,Handymax/Supramax (35-60k),E,Monrovia,EEXI (4.61 gCO₂/t·nm),812.8,375.6,True
+9841641,MILIN KAMAK,Bulk carrier,45493.0,Handymax/Supramax (35-60k),C,Valletta,EEXI (4.37 gCO₂/t·nm),1283.4,253.0,True
+9968504,TZAREVETZ,Bulk carrier,45210.0,Handymax/Supramax (35-60k),A,Valletta,EEXI (4.24 gCO₂/t·nm),3269.4,210.8,True
+9222572,TROGIR,Bulk carrier,44314.0,Handymax/Supramax (35-60k),C,Split,EEXI (4.67 gCO₂/t·nm),1955.8,258.2,True
+9670743,CETUS BELUGA,Bulk carrier,43413.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (4.62 gCO₂/t·nm),2361.7,271.0,True
+9977971,SANTA VENERA,Bulk carrier,42823.0,Handymax/Supramax (35-60k),A,Valletta,EEDI (3.87 gCO₂/t·nm),5219.1,174.2,True
+9158159,ALANYA-M,Bulk carrier,41327.0,Handymax/Supramax (35-60k),A,Panama,EEXI (4.83 gCO₂/t·nm),1066.1,211.2,True
+9691046,AFRICAN TEAL,Bulk carrier,40652.0,Handymax/Supramax (35-60k),B,Nassau,EEXI (4.37 gCO₂/t·nm),1787.8,232.5,True
+9798337,JINLING CONFIDENCE,Bulk carrier,40320.0,Handymax/Supramax (35-60k),A,Madeira,EEDI (4.47 gCO₂/t·nm),6068.6,211.1,True
+9786061,YASA MIMOSA,Bulk carrier,40262.0,Handymax/Supramax (35-60k),B,Majuro,EEDI (4.75 gCO₂/t·nm),653.0,246.6,True
+9968982,CAPE SPENCER,Bulk carrier,40177.0,Handymax/Supramax (35-60k),A,Panama,EEDI (3.99 gCO₂/t·nm),3091.9,199.0,True
+9711767,URSA MINOR,Bulk carrier,40098.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (4.28 gCO₂/t·nm),1357.5,263.8,True
+9714757,PHILLIP BAY,Bulk carrier,40030.0,Handymax/Supramax (35-60k),C,Majuro,EIV (4.5 gCO₂/t·nm),4429.2,256.0,True
+9909675,NORSE HOUSTON,Bulk carrier,40020.0,Handymax/Supramax (35-60k),A,Panama,EEDI (4.74 gCO₂/t·nm),2763.2,177.6,True
+9910363,ROSTRUM AFRICA,Bulk carrier,40010.0,Handymax/Supramax (35-60k),A,Monrovia,EEXI (4 gCO₂/t·nm),6584.8,202.5,True
+9725524,RABEA,Bulk carrier,39998.0,Handymax/Supramax (35-60k),A,Madeira,EEXI (4.6 gCO₂/t·nm),3977.8,197.3,True
+9913999,FUJI HARMONY,Bulk carrier,39989.0,Handymax/Supramax (35-60k),A,Panama,EEDI (4.68 gCO₂/t·nm),2544.8,192.2,True
+9741877,NORDMOSEL,Bulk carrier,39968.0,Handymax/Supramax (35-60k),A,Madeira,EEDI (4.6 gCO₂/t·nm),2694.3,189.4,True
+9648087,STRATEGIC SYNERGY,Bulk carrier,39894.0,Handymax/Supramax (35-60k),C,Singapore,EEDI (4.53 gCO₂/t·nm),1734.4,263.3,True
+9861160,FRANZ SCHULTE,Bulk carrier,39887.0,Handymax/Supramax (35-60k),B,Singapore,EEXI (4.29 gCO₂/t·nm),3916.9,220.9,True
+9723710,STRATEGIC ENTITY,Bulk carrier,39880.0,Handymax/Supramax (35-60k),B,Singapore,EEDI (4.53 gCO₂/t·nm),2416.6,227.3,True
+9841938,FLORA SCHULTE,Bulk carrier,39874.0,Handymax/Supramax (35-60k),B,Singapore,EEXI (4.42 gCO₂/t·nm),6067.1,240.2,True
+9841940,FRIEDRICH SCHULTE,Bulk carrier,39851.0,Handymax/Supramax (35-60k),A,Singapore,EEXI (4.44 gCO₂/t·nm),1683.7,205.8,True
+9681900,SEASTAR VULCAN,Bulk carrier,39810.0,Handymax/Supramax (35-60k),D,Gibraltar,EEDI (4.78 gCO₂/t·nm),3172.9,282.7,True
+9721580,POYANG,Bulk carrier,39790.0,Handymax/Supramax (35-60k),A,Hong Kong,EEXI (4.58 gCO₂/t·nm),2918.7,201.2,True
+9648104,STRATEGIC VENTURE,Bulk carrier,39784.0,Handymax/Supramax (35-60k),B,Singapore,EEDI (4.61 gCO₂/t·nm),1772.5,234.5,True
+9714264,HUPEH,Bulk carrier,39773.0,Handymax/Supramax (35-60k),A,Singapore,EEXI (4.71 gCO₂/t·nm),4764.2,209.1,True
+9681895,AFRICAN OXPECKER,Bulk carrier,39763.0,Handymax/Supramax (35-60k),C,Nassau,EEXI (4.67 gCO₂/t·nm),1665.6,256.4,True
+9738088,ZHEN ZHU HAI,Bulk carrier,39746.0,Handymax/Supramax (35-60k),C,Hong Kong,EEXI (4.76 gCO₂/t·nm),3734.4,255.2,True
+9715218,AFRICAN SHRIKE,Bulk carrier,39728.0,Handymax/Supramax (35-60k),B,Monrovia,EEXI (4.65 gCO₂/t·nm),3138.0,246.0,True
+9855458,PAULA TRADER,Bulk carrier,39498.0,Handymax/Supramax (35-60k),B,Panama,EEDI (4.51 gCO₂/t·nm),5957.2,244.7,True
+9855410,BAI IZMIR,Bulk carrier,39492.0,Handymax/Supramax (35-60k),B,Manila,EEDI (4.5 gCO₂/t·nm),6430.1,224.3,True
+9743227,HAMBURG WAY,Bulk carrier,39376.0,Handymax/Supramax (35-60k),A,Manila,EEDI (4.64 gCO₂/t·nm),3806.6,216.1,True
+9747247,HAMBURG PEARL,Bulk carrier,39359.0,Handymax/Supramax (35-60k),B,Manila,EEDI (4.63 gCO₂/t·nm),7199.5,234.2,True
+9747235,IONIAN SPIRIT,Bulk carrier,39359.0,Handymax/Supramax (35-60k),A,Majuro,EEXI (4.63 gCO₂/t·nm),2396.6,215.7,True
+9707754,CIELO DI TAMPA,Bulk carrier,39202.0,Handymax/Supramax (35-60k),A,Monrovia,EEDI (4.73 gCO₂/t·nm),6053.4,204.8,True
+9754094,TOMINI MISTRAL,Bulk carrier,39100.0,Handymax/Supramax (35-60k),A,Majuro,Not Applicable,4770.6,204.8,True
+9727508,DRAWNO,Bulk carrier,39092.0,Handymax/Supramax (35-60k),A,Monrovia,EEXI (4.76 gCO₂/t·nm),5382.5,214.0,True
+9708057,SZARE SZEREGI,Bulk carrier,39072.0,Handymax/Supramax (35-60k),A,Monrovia,EEXI (4.61 gCO₂/t·nm),7335.9,203.8,True
+9708045,LEGIONY POLSKIE,Bulk carrier,39072.0,Handymax/Supramax (35-60k),B,Monrovia,EEXI (4.61 gCO₂/t·nm),5962.2,221.8,True
+9708069,SOLIDARNOSC,Bulk carrier,39072.0,Handymax/Supramax (35-60k),A,Monrovia,EEXI (4.73 gCO₂/t·nm),5837.5,204.7,True
+9727510,KARLINO,Bulk carrier,39035.0,Handymax/Supramax (35-60k),B,Monrovia,EEXI (4.76 gCO₂/t·nm),6061.1,226.1,True
+9700017,HATTHAYA NAREE,Bulk carrier,39000.0,Handymax/Supramax (35-60k),B,Singapore,EEDI (4.63 gCO₂/t·nm),2651.6,223.5,True
+9285134,PODHALE,Bulk carrier,38995.0,Handymax/Supramax (35-60k),B,Nassau,EEXI (4.96 gCO₂/t·nm),8978.7,244.0,True
+9488102,WADOWICE II,Bulk carrier,38985.0,Handymax/Supramax (35-60k),B,Nassau,EEXI (4.96 gCO₂/t·nm),5877.7,234.8,True
+9423798,KOCIEWIE,Bulk carrier,38981.0,Handymax/Supramax (35-60k),D,Nassau,EEXI (4.96 gCO₂/t·nm),2570.5,286.3,True
+9423786,KURPIE,Bulk carrier,38981.0,Handymax/Supramax (35-60k),C,Nassau,EEXI (4.96 gCO₂/t·nm),7366.0,252.4,True
+9386914,MAZOWSZE,Bulk carrier,38981.0,Handymax/Supramax (35-60k),C,Nassau,EEXI (4.96 gCO₂/t·nm),7445.5,250.0,True
+9346811,PODLASIE,Bulk carrier,38981.0,Handymax/Supramax (35-60k),B,Nassau,EEXI (4.96 gCO₂/t·nm),7074.8,249.2,True
+9285146,WARMIA,Bulk carrier,38981.0,Handymax/Supramax (35-60k),B,Nassau,EEXI (4.96 gCO₂/t·nm),2887.8,239.0,True
+9346835,ROZTOCZE,Bulk carrier,38980.0,Handymax/Supramax (35-60k),C,Nassau,EEXI (4.96 gCO₂/t·nm),6296.8,273.8,True
+9386926,ORAWA,Bulk carrier,38956.0,Handymax/Supramax (35-60k),D,Nassau,EEXI (4.97 gCO₂/t·nm),6016.8,283.3,True
+9803417,WECO KAROLINE,Bulk carrier,38905.0,Handymax/Supramax (35-60k),A,Panama,EEDI (5.09 gCO₂/t·nm),1195.0,184.8,True
+9719331,KIBO,Bulk carrier,38896.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (4.97 gCO₂/t·nm),7305.2,242.1,True
+9285029,KASHKAR,Bulk carrier,38890.0,Handymax/Supramax (35-60k),B,Panama,EEXI (4.97 gCO₂/t·nm),5383.3,242.4,True
+9543419,HALKI,Bulk carrier,38879.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (4.97 gCO₂/t·nm),3359.1,226.3,True
+9719329,STRATEGIC RESOLVE,Bulk carrier,38872.0,Handymax/Supramax (35-60k),C,Singapore,EEXI (4.98 gCO₂/t·nm),1765.5,251.2,True
+9725407,MEDITERRANEAN SPIRIT,Bulk carrier,38858.0,Handymax/Supramax (35-60k),A,Majuro,EEXI (4.72 gCO₂/t·nm),2817.8,206.2,True
+9722027,VIPHA NAREE,Bulk carrier,38851.0,Handymax/Supramax (35-60k),B,Singapore,EEDI (4.57 gCO₂/t·nm),4881.2,239.0,True
+9709221,MAI TAI,Bulk carrier,38792.0,Handymax/Supramax (35-60k),A,Monrovia,EEXI (4.5 gCO₂/t·nm),1140.6,210.7,True
+9709257,TOMINI SHAMAL,Bulk carrier,38785.0,Handymax/Supramax (35-60k),A,Majuro,Not Applicable,1644.4,206.6,True
+9714783,TOMINI LEVANT,Bulk carrier,38717.0,Handymax/Supramax (35-60k),B,Majuro,EEDI (4.45 gCO₂/t·nm),489.7,230.8,True
+9721413,FORMENTERA,Bulk carrier,38710.0,Handymax/Supramax (35-60k),A,Marstal,EEDI (4.47 gCO₂/t·nm),1995.1,185.2,True
+9721425,FRIEDERIKE SCHULTE,Bulk carrier,38709.0,Handymax/Supramax (35-60k),B,Singapore,EEXI (4.31 gCO₂/t·nm),892.0,249.1,True
+9714795,TOMINI OROSHI,Bulk carrier,38706.0,Handymax/Supramax (35-60k),A,Majuro,Not Applicable,4048.3,189.3,True
+9830123,VOGE SOPHIE,Bulk carrier,38705.0,Handymax/Supramax (35-60k),A,Monrovia,EEXI (4.31 gCO₂/t·nm),2925.7,204.8,True
+9694684,AP DUBRAVA,Bulk carrier,38703.0,Handymax/Supramax (35-60k),B,Majuro,EEDI (4.63 gCO₂/t·nm),5826.0,223.6,True
+9792917,GREAT COSMOS,Bulk carrier,38649.0,Handymax/Supramax (35-60k),B,Hong Kong,EEDI (4.6 gCO₂/t·nm),1094.1,233.1,True
+9762883,TRAMMO BAUMANN,Bulk carrier,38635.0,Handymax/Supramax (35-60k),E,Monrovia,EEXI (4.71 gCO₂/t·nm),9.5,1985.2,True
+9762912,LAOURA,Bulk carrier,38552.0,Handymax/Supramax (35-60k),A,Monrovia,EEXI (4.73 gCO₂/t·nm),1226.8,202.0,True
+9831517,GREEN GEM,Bulk carrier,38503.0,Handymax/Supramax (35-60k),A,Panama,EEDI (5.07 gCO₂/t·nm),2391.2,194.2,True
+9650810,GEORGE,Bulk carrier,38276.0,Handymax/Supramax (35-60k),A,Majuro,EIV (6.08 gCO₂/t·nm),2959.0,214.6,True
+9574028,AGIA MONI,Bulk carrier,38271.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (5.01 gCO₂/t·nm),292.3,226.4,True
+9590979,NAVI STAR,Bulk carrier,38243.0,Handymax/Supramax (35-60k),A,Panama,EIV (6.63 gCO₂/t·nm),2294.1,213.8,True
+9633202,SIDER PERA,Bulk carrier,38218.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (5.02 gCO₂/t·nm),7362.8,235.8,True
+9668300,OCEAN JOY,Bulk carrier,38114.0,Handymax/Supramax (35-60k),A,Hong Kong,EIV (7.35 gCO₂/t·nm),6191.8,216.2,True
+9659892,OCEAN INNOVATION,Bulk carrier,38072.0,Handymax/Supramax (35-60k),B,Hong Kong,EIV (7.35 gCO₂/t·nm),3004.1,220.6,True
+9488097,POLESIE,Bulk carrier,38056.0,Handymax/Supramax (35-60k),C,Nassau,EEXI (5.02 gCO₂/t·nm),5995.0,254.4,True
+9763693,GANT NEREA,Bulk carrier,37985.0,Handymax/Supramax (35-60k),B,Monrovia,EEXI (5.03 gCO₂/t·nm),3765.8,229.2,True
+9866641,NORD ABIDJAN,Bulk carrier,37979.0,Handymax/Supramax (35-60k),A,Singapore,EEDI (5.43 gCO₂/t·nm),3474.5,204.3,True
+9763708,SYNVAL,Bulk carrier,37976.0,Handymax/Supramax (35-60k),A,Monrovia,EEXI (5.03 gCO₂/t·nm),1725.0,206.5,True
+9594236,KOSZALIN,Bulk carrier,37930.0,Handymax/Supramax (35-60k),C,Nassau,EEXI (5.03 gCO₂/t·nm),9491.5,254.3,True
+9594248,GDYNIA,Bulk carrier,37930.0,Handymax/Supramax (35-60k),B,Nassau,EEXI (5.03 gCO₂/t·nm),4576.9,242.6,True
+9594224,SZCZECIN,Bulk carrier,37930.0,Handymax/Supramax (35-60k),A,Nassau,EEXI (5.03 gCO₂/t·nm),1628.5,209.4,True
+9883144,AROMO,Bulk carrier,37927.0,Handymax/Supramax (35-60k),A,Panama,EEDI (5.01 gCO₂/t·nm),4456.9,177.7,True
+9782986,ULTRA TATIO,Bulk carrier,37927.0,Handymax/Supramax (35-60k),A,Majuro,EEDI (5.46 gCO₂/t·nm),1649.6,212.5,True
+9723942,ROOSTER,Bulk carrier,37896.0,Handymax/Supramax (35-60k),A,Majuro,EEXI (4.94 gCO₂/t·nm),2220.5,203.5,True
+9866653,OCEAN CROWN,Bulk carrier,37870.0,Handymax/Supramax (35-60k),A,Panama,EEDI (5.48 gCO₂/t·nm),3119.3,190.4,True
+9621869,WHITE WANDERER,Bulk carrier,37869.0,Handymax/Supramax (35-60k),B,"Hong Kong, China",EEXI (5.04 gCO₂/t·nm),2460.1,233.9,True
+9404443,ARKONA,Bulk carrier,37852.0,Handymax/Supramax (35-60k),B,Madeira,EEXI (5.04 gCO₂/t·nm),4029.0,239.1,True
+9762493,MAVERICK,Bulk carrier,37845.0,Handymax/Supramax (35-60k),A,Madeira,EEXI (4.82 gCO₂/t·nm),6071.1,210.8,True
+9753387,STRATEGIC FORTITUDE,Bulk carrier,37829.0,Handymax/Supramax (35-60k),A,Singapore,EEXI (5.04 gCO₂/t·nm),1752.4,210.4,True
+9409534,ELAR TRADER,Bulk carrier,37782.0,Handymax/Supramax (35-60k),E,Nassau,EEXI (5.04 gCO₂/t·nm),4562.5,333.8,True
+9450662,LAPIS LAZULI,Bulk carrier,37773.0,Handymax/Supramax (35-60k),E,Majuro,EEXI (5.14 gCO₂/t·nm),5401.2,317.1,True
+9832688,MONING,Bulk carrier,37731.0,Handymax/Supramax (35-60k),A,Panama,EEDI (5.22 gCO₂/t·nm),2940.7,185.4,True
+9839088,SE NICKY,Bulk carrier,37717.0,Handymax/Supramax (35-60k),A,Panama,EEDI (5.49 gCO₂/t·nm),3223.7,190.7,True
+9791896,CS JOLA,Bulk carrier,37713.0,Handymax/Supramax (35-60k),A,Majuro,EEDI (5.65 gCO₂/t·nm),1844.0,186.4,True
+9748409,CS JENNA,Bulk carrier,37713.0,Handymax/Supramax (35-60k),B,Majuro,EIV (6.17 gCO₂/t·nm),5569.4,225.4,True
+9580091,MERCURIUS,Bulk carrier,37706.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (5.26 gCO₂/t·nm),6870.7,262.0,True
+9884370,IMOGEN,Bulk carrier,37702.0,Handymax/Supramax (35-60k),A,Singapore,EEDI (5.04 gCO₂/t·nm),2907.3,195.7,True
+9782974,BERGE BEN NEVIS,Bulk carrier,37681.0,Handymax/Supramax (35-60k),A,Douglas,EEXI (5.05 gCO₂/t·nm),5517.7,207.3,True
+9659787,LAGO DI CANCANO,Bulk carrier,37666.0,Handymax/Supramax (35-60k),A,Monrovia,EEXI (5.06 gCO₂/t·nm),4404.7,192.2,True
+9674373,WL UGLICH,Bulk carrier,37666.0,Handymax/Supramax (35-60k),C,"Hong Kong, China",EEXI (5.05 gCO₂/t·nm),2501.6,275.6,True
+9732436,BUNUN INFINITY,Bulk carrier,37654.0,Handymax/Supramax (35-60k),A,Panama,EEDI (5.52 gCO₂/t·nm),1585.9,206.6,True
+9740160,PEWEE,Bulk carrier,37653.0,Handymax/Supramax (35-60k),A,Panama,EIV (7.2 gCO₂/t·nm),7263.9,218.3,True
+9674361,LAGO DI COMO,Bulk carrier,37653.0,Handymax/Supramax (35-60k),B,Monrovia,EEXI (5.06 gCO₂/t·nm),1188.9,234.6,True
+9674397,WL PALEKH,Bulk carrier,37648.0,Handymax/Supramax (35-60k),C,"Hong Kong, China",EEXI (5.06 gCO₂/t·nm),972.9,262.1,True
+9811919,ISHIZUCHI STAR,Bulk carrier,37637.0,Handymax/Supramax (35-60k),A,Majuro,EEDI (5.48 gCO₂/t·nm),2528.4,213.0,True
+9610717,JAMAICA BAY,Bulk carrier,37633.0,Handymax/Supramax (35-60k),A,"Hong Kong, China",EEXI (4.99 gCO₂/t·nm),3095.6,204.3,True
+9687148,UNITY STAR,Bulk carrier,37614.0,Handymax/Supramax (35-60k),A,Nassau,EEXI (4.63 gCO₂/t·nm),4017.7,180.2,True
+9894715,BUNUN TREASURE,Bulk carrier,37600.0,Handymax/Supramax (35-60k),A,Monrovia,EEDI (5.41 gCO₂/t·nm),3332.2,187.8,True
+9777723,GOLDEN GRAINS,Bulk carrier,37597.0,Handymax/Supramax (35-60k),A,Monrovia,EEDI (4.98 gCO₂/t·nm),3358.3,213.5,True
+9718454,UBC THESSALONIKI,Bulk carrier,37567.0,Handymax/Supramax (35-60k),B,Limassol,EEXI (5.05 gCO₂/t·nm),7216.6,244.0,True
+9537264,AKSON SANDRA,Bulk carrier,37506.0,Handymax/Supramax (35-60k),D,Panama,EEXI (5 gCO₂/t·nm),3077.1,290.2,True
+9689574,NORDIC MERCHANTS,Bulk carrier,37500.0,Handymax/Supramax (35-60k),C,Monrovia,EEXI (5.08 gCO₂/t·nm),2175.1,259.4,True
+9820702,JULIA,Bulk carrier,37449.0,Handymax/Supramax (35-60k),A,Monrovia,EEDI (4.69 gCO₂/t·nm),4354.4,181.8,True
+9860283,KANSU,Bulk carrier,37440.0,Handymax/Supramax (35-60k),A,Singapore,EEXI (4.64 gCO₂/t·nm),4896.7,169.9,True
+9668934,UNITY ODYSSEY,Bulk carrier,37429.0,Handymax/Supramax (35-60k),B,Nassau,EEXI (4.59 gCO₂/t·nm),1127.8,239.9,True
+9609689,WESTERN FEDORA,Bulk carrier,37405.0,Handymax/Supramax (35-60k),A,Limassol,EEXI (5.05 gCO₂/t·nm),1568.8,192.3,True
+9609718,LIVERPOOL STRAIT,Bulk carrier,37405.0,Handymax/Supramax (35-60k),A,Madeira,EEXI (5.07 gCO₂/t·nm),3401.3,217.1,True
+9890240,KIAN,Bulk carrier,37391.0,Handymax/Supramax (35-60k),A,Singapore,EEXI (4.63 gCO₂/t·nm),1496.9,168.8,True
+9893802,KIATING,Bulk carrier,37391.0,Handymax/Supramax (35-60k),A,Singapore,EEXI (4.62 gCO₂/t·nm),1007.5,132.8,True
+9893814,KINLING,Bulk carrier,37391.0,Handymax/Supramax (35-60k),A,Singapore,EEXI (4.61 gCO₂/t·nm),4039.9,165.0,True
+9767326,ASTRO ORION,Bulk carrier,37388.0,Handymax/Supramax (35-60k),B,Nassau,EEXI (4.94 gCO₂/t·nm),4830.0,248.1,True
+9471678,LAGO DI FIASTRA,Bulk carrier,37387.0,Handymax/Supramax (35-60k),A,Monrovia,EEXI (5.03 gCO₂/t·nm),3464.9,216.5,True
+9943231,WHITEWING,Bulk carrier,37370.0,Handymax/Supramax (35-60k),A,Monrovia,EEDI (5.43 gCO₂/t·nm),5224.9,187.4,True
+9486568,SIGMA TRADER,Bulk carrier,37302.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (5.07 gCO₂/t·nm),3632.9,262.5,True
+9596026,NORDLOIRE,Bulk carrier,37212.0,Handymax/Supramax (35-60k),B,Madeira,EIV (6.22 gCO₂/t·nm),3118.2,229.9,True
+9808340,CIELO DI IYO,Bulk carrier,37204.0,Handymax/Supramax (35-60k),B,Panama,EEDI (5.06 gCO₂/t·nm),3499.5,226.2,True
+9626388,STRATEGIC SPIRIT,Bulk carrier,37194.0,Handymax/Supramax (35-60k),A,Singapore,EEXI (5.08 gCO₂/t·nm),1801.0,198.8,True
+9595175,CHARLES,Bulk carrier,37193.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (5.08 gCO₂/t·nm),8174.3,260.4,True
+9616747,THALIS,Bulk carrier,37189.0,Handymax/Supramax (35-60k),D,Majuro,EIV (7.47 gCO₂/t·nm),8061.9,280.5,True
+9689562,TANIA,Bulk carrier,37188.0,Handymax/Supramax (35-60k),A,Monrovia,EIV (5.77 gCO₂/t·nm),2103.3,205.1,True
+9606833,FEDERAL SKYE,Bulk carrier,37169.0,Handymax/Supramax (35-60k),A,Majuro,EEXI (5.08 gCO₂/t·nm),622.1,190.1,True
+9606821,FEDERAL SEVERN,Bulk carrier,37169.0,Handymax/Supramax (35-60k),A,Majuro,EEXI (5.08 gCO₂/t·nm),3796.4,210.4,True
+9609653,FEDERAL YELLOWSTONE,Bulk carrier,37153.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (4.95 gCO₂/t·nm),1668.4,244.6,True
+9609665,FEDERAL YAMASKA,Bulk carrier,37153.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (5 gCO₂/t·nm),4643.6,221.2,True
+9610456,FEDERAL SPEY,Bulk carrier,37141.0,Handymax/Supramax (35-60k),A,Majuro,EIV (6.07 gCO₂/t·nm),2128.7,194.6,True
+9791054,UNITY HARMONY,Bulk carrier,37140.0,Handymax/Supramax (35-60k),A,Nassau,EEXI (5.09 gCO₂/t·nm),3648.2,192.6,True
+9621003,TRITON WIND I,Bulk carrier,37113.0,Handymax/Supramax (35-60k),B,Monrovia,EEXI (5.07 gCO₂/t·nm),1959.3,239.1,True
+9606027,SOUTHERN CROSS,Bulk carrier,37085.0,Handymax/Supramax (35-60k),C,Singapore,EEXI (5.09 gCO₂/t·nm),1383.4,266.8,True
+9606039,SHINSUNG CLEVER,Bulk carrier,37084.0,Handymax/Supramax (35-60k),A,Jeju,EIV (6.3 gCO₂/t·nm),3869.7,213.6,True
+9577628,EQUITY,Bulk carrier,37071.0,Handymax/Supramax (35-60k),B,Majuro,EEDI (5.5 gCO₂/t·nm),5015.9,219.2,True
+9652325,ES HONESTY,Bulk carrier,37052.0,Handymax/Supramax (35-60k),B,Panama,EEXI (5.09 gCO₂/t·nm),3686.7,218.6,True
+9595979,PEBBLE BEACH,Bulk carrier,37003.0,Handymax/Supramax (35-60k),B,Valetta,EIV (5.75 gCO₂/t·nm),5673.8,235.0,True
+9609691,WESTERN BOHEME,Bulk carrier,37000.0,Handymax/Supramax (35-60k),C,Limassol,EEXI (5.04 gCO₂/t·nm),4025.0,277.4,True
+9621871,CHUMERNA,Bulk carrier,36940.0,Handymax/Supramax (35-60k),B,Valletta,EEXI (5.03 gCO₂/t·nm),4568.3,225.6,True
+9621883,VESLETS,Bulk carrier,36940.0,Handymax/Supramax (35-60k),A,Valletta,EEXI (5.04 gCO₂/t·nm),1854.5,201.2,True
+9832470,EARTH HARMONY,Bulk carrier,36908.0,Handymax/Supramax (35-60k),A,Panama,EEDI (4.61 gCO₂/t·nm),2122.7,193.5,True
+9530955,ANGY R,Bulk carrier,36903.0,Handymax/Supramax (35-60k),B,Nassau,EEXI (5.1 gCO₂/t·nm),1337.5,220.3,True
+9832432,UNITY MOON,Bulk carrier,36898.0,Handymax/Supramax (35-60k),A,Nassau,EEXI (4.64 gCO₂/t·nm),3056.7,195.6,True
+9832456,EUCALYPTUS,Bulk carrier,36896.0,Handymax/Supramax (35-60k),A,Majuro,EEDI (4.68 gCO₂/t·nm),4321.5,176.6,True
+9522881,BETTY,Bulk carrier,36892.0,Handymax/Supramax (35-60k),A,Majuro,EEXI (5.1 gCO₂/t·nm),4002.5,190.0,True
+9522910,DORYSIA,Bulk carrier,36863.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (5.1 gCO₂/t·nm),4563.8,223.8,True
+9522922,STRADION,Bulk carrier,36863.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (5.13 gCO₂/t·nm),2486.3,263.6,True
+9626314,RESOLUTE BAY,Bulk carrier,36798.0,Handymax/Supramax (35-60k),B,Douglas,EEXI (5.11 gCO₂/t·nm),4813.6,243.0,True
+9544736,ATLANTIS DISCOVERY,Bulk carrier,36781.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (5.11 gCO₂/t·nm),8487.1,243.2,True
+9649079,DENSA SEA LION,Bulk carrier,36765.0,Handymax/Supramax (35-60k),B,Valletta,EEXI (4.61 gCO₂/t·nm),2630.6,248.7,True
+9544748,SEASTAR ENDEAVOR,Bulk carrier,36746.0,Handymax/Supramax (35-60k),B,Valetta,EEXI (5.09 gCO₂/t·nm),2595.1,229.5,True
+9680255,CHIOS FREEDOM,Bulk carrier,36612.0,Handymax/Supramax (35-60k),A,Majuro,EEXI (5.01 gCO₂/t·nm),4981.1,213.2,True
+9680243,CHIOS VICTORY,Bulk carrier,36612.0,Handymax/Supramax (35-60k),B,Chios,EEXI (5.01 gCO₂/t·nm),4901.2,241.4,True
+9544762,SERENITY,Bulk carrier,36599.0,Handymax/Supramax (35-60k),B,Monrovia,EEXI (5.1 gCO₂/t·nm),2037.9,241.1,True
+9205897,FEDERAL YUKON,Bulk carrier,36563.0,Handymax/Supramax (35-60k),A,Majuro,EEXI (5.12 gCO₂/t·nm),2575.1,189.6,True
+9205938,FEDERAL HUNTER,Bulk carrier,36563.0,Handymax/Supramax (35-60k),A,Majuro,EEXI (5.12 gCO₂/t·nm),5558.4,215.2,True
+9278791,FEDERAL NAKAGAWA,Bulk carrier,36489.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (5.13 gCO₂/t·nm),4383.7,244.8,True
+9450674,FOUR RIGOLETTO,Bulk carrier,36472.0,Handymax/Supramax (35-60k),B,Valletta,EEXI (5.27 gCO₂/t·nm),3284.1,246.8,True
+9480710,FOUR TURANDOT,Bulk carrier,36460.0,Handymax/Supramax (35-60k),B,Valletta,EEXI (5.27 gCO₂/t·nm),6637.6,240.7,True
+9674804,CAPE GULL,Bulk carrier,36320.0,Handymax/Supramax (35-60k),B,Madeira,EIV (5.91 gCO₂/t·nm),4369.9,222.5,True
+9474204,CLIPPER NASSAU,Bulk carrier,36187.0,Handymax/Supramax (35-60k),C,Majuro,EIV (7.94 gCO₂/t·nm),3658.7,255.6,True
+9530967,SOFIA R,Bulk carrier,36093.0,Handymax/Supramax (35-60k),B,Monrovia,EEXI (5.1 gCO₂/t·nm),6529.1,241.6,True
+9646730,ASTURCON,Bulk carrier,36071.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (5.16 gCO₂/t·nm),3262.2,226.4,True
+9646716,VANTAGE ROSE,Bulk carrier,36063.0,Handymax/Supramax (35-60k),B,Madeira,EEXI (5.15 gCO₂/t·nm),5255.4,220.9,True
+9611292,JASMINA D,Bulk carrier,35974.0,Handymax/Supramax (35-60k),B,Valletta,EEXI (5.13 gCO₂/t·nm),4816.4,223.8,True
+9628817,STELLAR TRADER,Bulk carrier,35946.0,Handymax/Supramax (35-60k),B,Monrovia,EEXI (5.13 gCO₂/t·nm),4670.8,223.2,True
+9611278,AQUITANIA,Bulk carrier,35938.0,Handymax/Supramax (35-60k),B,Singapore,EEXI (5.17 gCO₂/t·nm),4847.2,227.3,True
+9697961,CARME,Bulk carrier,35906.0,Handymax/Supramax (35-60k),B,Limassol,EEXI (5.17 gCO₂/t·nm),3378.9,220.5,True
+9515101,FEDERAL SATSUKI,Bulk carrier,35885.0,Handymax/Supramax (35-60k),A,Majuro,EEXI (5.17 gCO₂/t·nm),6419.1,193.7,True
+9764013,GAT FATHER,Bulk carrier,35737.0,Handymax/Supramax (35-60k),B,Majuro,EEDI (5.6 gCO₂/t·nm),3439.3,239.8,True
+9686338,STRATEGIC SAVANNAH,Bulk carrier,35542.0,Handymax/Supramax (35-60k),B,Singapore,EEXI (5.19 gCO₂/t·nm),5059.0,222.1,True
+9697894,DAIWAN ELEGANCE,Bulk carrier,35531.0,Handymax/Supramax (35-60k),A,Panama,EEDI (5.67 gCO₂/t·nm),3262.4,189.2,True
+9708928,ES VANQUISH,Bulk carrier,35510.0,Handymax/Supramax (35-60k),A,Panama,EEDI (5.67 gCO₂/t·nm),3089.6,217.3,True
+9708930,ES CARE,Bulk carrier,35510.0,Handymax/Supramax (35-60k),B,Panama,EEDI (5.61 gCO₂/t·nm),2892.4,237.1,True
+9621041,LILA NOLA,Bulk carrier,35501.0,Handymax/Supramax (35-60k),B,Monrovia,EEDI (5.29 gCO₂/t·nm),3725.0,233.5,True
+9580120,GOLF,Bulk carrier,35445.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (5.2 gCO₂/t·nm),4313.8,265.0,True
+9744752,CAPTAIN D,Bulk carrier,35443.0,Handymax/Supramax (35-60k),A,Majuro,EEXI (5.17 gCO₂/t·nm),2882.9,169.5,True
+9744764,TIZIANA,Bulk carrier,35443.0,Handymax/Supramax (35-60k),A,Valletta,EEDI (5.58 gCO₂/t·nm),2143.4,213.7,True
+9459371,ARGO B,Bulk carrier,35314.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (5.21 gCO₂/t·nm),1956.3,236.5,True
+9639751,SPRING SEA,Bulk carrier,35200.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (5.21 gCO₂/t·nm),3730.3,275.4,True
+9639775,AUTUMN SEA,Bulk carrier,35200.0,Handymax/Supramax (35-60k),A,Majuro,EEXI (5.21 gCO₂/t·nm),141.8,203.2,True
+9628128,HANDY PERTH,Bulk carrier,35177.0,Handymax/Supramax (35-60k),C,Panama,EEXI (5.22 gCO₂/t·nm),2997.6,255.8,True
+9595395,DELTA,Bulk carrier,35147.0,Handymax/Supramax (35-60k),C,Monrovia,EEXI (5.22 gCO₂/t·nm),1381.6,267.8,True
+9595383,CHARLIE,Bulk carrier,35139.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (5.22 gCO₂/t·nm),3145.2,222.7,True
+9545065,ARIETTA,Bulk carrier,35083.0,Handymax/Supramax (35-60k),B,Valletta,EEXI (5.23 gCO₂/t·nm),1575.0,236.4,True
+9595785,ADELINA,Bulk carrier,35072.0,Handymax/Supramax (35-60k),B,Valletta,EEXI (5.23 gCO₂/t·nm),5301.5,233.0,True
+9522958,LIPSI,Bulk carrier,35066.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (5.22 gCO₂/t·nm),3685.4,222.4,True
+9588366,ALYCIA,Bulk carrier,35058.0,Handymax/Supramax (35-60k),B,Valletta,EEXI (5.23 gCO₂/t·nm),1904.0,247.6,True
+9522946,LIVADI,Bulk carrier,35058.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (5.22 gCO₂/t·nm),2284.1,236.9,True
+9588342,AMAPOLA,Bulk carrier,35037.0,Handymax/Supramax (35-60k),B,Valletta,EEXI (5.23 gCO₂/t·nm),2862.3,222.0,True
+9637430,ASIA SPIRIT,Bulk carrier,35031.0,Handymax/Supramax (35-60k),E,Hong Kong,EEXI (5.21 gCO₂/t·nm),2210.8,311.4,True
+9703825,TAZ,Bulk carrier,35016.0,Handymax/Supramax (35-60k),C,Majuro,EEDI (5.08 gCO₂/t·nm),4125.3,253.4,True
+9474216,COYOTE,Bulk carrier,35010.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (5.23 gCO₂/t·nm),3435.1,255.7,True
+9703813,BEN 1,Bulk carrier,35000.0,Handymax/Supramax (35-60k),A,Valletta,EEXI (5.11 gCO₂/t·nm),1975.9,202.6,True
+9693496,BAR,Bulk carrier,35000.0,Handymax/Supramax (35-60k),B,Bar,EEDI (5.43 gCO₂/t·nm),5892.8,220.9,True
+9474266,SOLARIS,Bulk carrier,34960.0,Handysize (10-35k),C,Madeira,EEXI (5.23 gCO₂/t·nm),2425.1,260.1,True
+9755842,PEGASUS,Bulk carrier,34958.0,Handysize (10-35k),A,George Town,EEDI (5.05 gCO₂/t·nm),2140.1,175.7,True
+9474228,AETERNO,Bulk carrier,34954.0,Handysize (10-35k),C,Majuro,EEXI (5.23 gCO₂/t·nm),3181.1,269.7,True
+9180396,IRMA,Bulk carrier,34947.0,Handysize (10-35k),B,Limassol,EEXI (5.23 gCO₂/t·nm),5028.5,239.4,True
+9649548,ARKLOW SPRAY,Bulk carrier,34919.0,Handysize (10-35k),A,Arklow,EEDI (5.22 gCO₂/t·nm),527.4,214.0,True
+9649536,ARKLOW SPIRIT,Bulk carrier,34905.0,Handysize (10-35k),B,Arklow,EEDI (5.21 gCO₂/t·nm),6453.8,229.6,True
+9629823,VALSAMITIS,Bulk carrier,34827.0,Handysize (10-35k),C,Monrovia,EIV (6.44 gCO₂/t·nm),3543.0,255.0,True
+9498432,TINA S,Bulk carrier,34690.0,Handysize (10-35k),B,Monrovia,EEXI (5.25 gCO₂/t·nm),4768.8,241.6,True
+9498298,BERNIS,Bulk carrier,34627.0,Handysize (10-35k),C,Majuro,EEXI (5.16 gCO₂/t·nm),3043.5,275.4,True
+9647291,NORDIC NANJING,Bulk carrier,34620.0,Handysize (10-35k),B,Monrovia,EEXI (5.18 gCO₂/t·nm),4089.0,228.9,True
+9671101,FEDERAL CEDAR,Bulk carrier,34564.0,Handysize (10-35k),A,Majuro,EEDI (5.2 gCO₂/t·nm),1330.8,196.7,True
+9697832,FEDERAL BERING,Bulk carrier,34564.0,Handysize (10-35k),A,Majuro,EEDI (5.23 gCO₂/t·nm),6865.6,192.0,True
+9697818,FEDERAL BEAUFORT,Bulk carrier,34564.0,Handysize (10-35k),A,Majuro,EEDI (5.24 gCO₂/t·nm),6122.2,197.2,True
+9671058,FEDERAL CHAMPLAIN,Bulk carrier,34564.0,Handysize (10-35k),A,Majuro,EEDI (5.21 gCO₂/t·nm),6902.1,185.8,True
+9697856,FEDERAL BISCAY,Bulk carrier,34564.0,Handysize (10-35k),A,Majuro,EEDI (5.24 gCO₂/t·nm),2475.5,166.6,True
+9671072,FEDERAL CLYDE,Bulk carrier,34564.0,Handysize (10-35k),A,Majuro,EEDI (5.26 gCO₂/t·nm),628.4,157.6,True
+9736963,ES INTEGRITY,Bulk carrier,34512.0,Handysize (10-35k),A,Panama,EEDI (5.11 gCO₂/t·nm),4056.5,187.6,True
+9747041,OCEAN CAPELLA,Bulk carrier,34502.0,Handysize (10-35k),A,Monrovia,EEDI (5.27 gCO₂/t·nm),2653.9,198.8,True
+9866768,FEDERAL FRONTIER,Bulk carrier,34492.0,Handysize (10-35k),A,Majuro,EEXI (5.21 gCO₂/t·nm),6760.4,195.4,True
+9805271,FEDERAL DELTA,Bulk carrier,34492.0,Handysize (10-35k),A,Majuro,EEDI (5.21 gCO₂/t·nm),819.2,177.8,True
+9866732,FEDERAL FRANKLIN,Bulk carrier,34492.0,Handysize (10-35k),A,Majuro,EEXI (5.14 gCO₂/t·nm),1555.8,190.2,True
+9866744,FEDERAL FRASER,Bulk carrier,34492.0,Handysize (10-35k),A,Majuro,EEDI (5.17 gCO₂/t·nm),1131.1,162.3,True
+9805245,FEDERAL DART,Bulk carrier,34492.0,Handysize (10-35k),A,Majuro,EEDI (5.2 gCO₂/t·nm),3808.9,173.4,True
+9663702,QING FENG LING,Bulk carrier,34472.0,Handysize (10-35k),B,Guangzhou,EEXI (5.27 gCO₂/t·nm),2038.4,221.6,True
+9580118,CAPETAN VASSILIS II,Bulk carrier,34468.0,Handysize (10-35k),B,Nassau,EIV (10.92 gCO₂/t·nm),3000.5,240.2,True
+9796535,DAIWAN LEADER,Bulk carrier,34442.0,Handysize (10-35k),A,Monrovia,EEDI (5.87 gCO₂/t·nm),1858.9,192.8,True
+9450650,FOUR NABUCCO,Bulk carrier,34403.0,Handysize (10-35k),B,Valletta,EEDI (7 gCO₂/t·nm),4289.3,225.3,True
+9450832,APHRODITE M,Bulk carrier,34399.0,Handysize (10-35k),D,Majuro,EEXI (5.15 gCO₂/t·nm),6008.9,293.1,True
+9728409,NAVI SUN,Bulk carrier,34398.0,Handysize (10-35k),A,Panama,EEDI (5.27 gCO₂/t·nm),5311.3,197.4,True
+9672208,AMIRA SOPHIE II,Bulk carrier,34358.0,Handysize (10-35k),A,Panama,EEXI (6.22 gCO₂/t·nm),2948.3,179.2,True
+9701231,ADASTAR,Bulk carrier,34334.0,Handysize (10-35k),A,Monrovia,EEDI (5.36 gCO₂/t·nm),2847.5,213.4,True
+9588873,ISOLDA D,Bulk carrier,34290.0,Handysize (10-35k),C,Valetta,EEXI (5.28 gCO₂/t·nm),2517.5,251.6,True
+9586710,YUKA D,Bulk carrier,34268.0,Handysize (10-35k),E,Valetta,EEXI (5.28 gCO₂/t·nm),1345.5,320.5,True
+9545077,MAREM,Bulk carrier,34148.0,Handysize (10-35k),B,Majuro,EEXI (5.29 gCO₂/t·nm),1266.1,220.6,True
+9519171,DONNA JUDI,Bulk carrier,34146.0,Handysize (10-35k),A,Kingstown,EEXI (5.29 gCO₂/t·nm),1193.8,194.7,True
+9595369,EIRINI S,Bulk carrier,34039.0,Handysize (10-35k),D,Monrovia,EEXI (5.3 gCO₂/t·nm),1625.4,290.4,True
+9464039,CHINTANA NAREE,Bulk carrier,33945.0,Handysize (10-35k),A,Singapore,EIV (7.89 gCO₂/t·nm),2951.4,218.0,True
+9486465,ZINA,Bulk carrier,33861.0,Handysize (10-35k),A,Valletta,EIV (6.4 gCO₂/t·nm),303.0,197.4,True
+9612375,DELOS II,Bulk carrier,33847.0,Handysize (10-35k),C,Monrovia,EEXI (5.31 gCO₂/t·nm),3032.6,264.7,True
+9464027,BENJAMAS NAREE,Bulk carrier,33780.0,Handysize (10-35k),B,Singapore,EIV (7.93 gCO₂/t·nm),2410.6,234.0,True
+9467548,REVENGER,Bulk carrier,33755.0,Handysize (10-35k),C,Limassol,EEXI (5.22 gCO₂/t·nm),2402.9,263.4,True
+9473676,PROPEL PASSION,Bulk carrier,33686.0,Handysize (10-35k),A,Singapore,EIV (6.08 gCO₂/t·nm),2264.6,187.9,True
+9497878,WL PACIFIC,Bulk carrier,33466.0,Handysize (10-35k),E,"Hong Kong, China",EEXI (5.35 gCO₂/t·nm),4368.5,379.4,True
+9489417,WL ATLANTIC,Bulk carrier,33465.0,Handysize (10-35k),C,"Hong Kong, China",EIV (8.07 gCO₂/t·nm),4762.5,274.2,True
+9810757,BALTIC ACE,Bulk carrier,33428.0,Handysize (10-35k),A,Panama,EEDI (5.04 gCO₂/t·nm),4645.4,185.9,True
+9749403,CIARA ENTERPRISE,Bulk carrier,33428.0,Handysize (10-35k),A,Panama,EEDI (5.04 gCO₂/t·nm),3929.8,184.7,True
+9700562,AGIA MARINA,Bulk carrier,33398.0,Handysize (10-35k),A,Majuro,EEXI (4.98 gCO₂/t·nm),562.3,205.8,True
+9667722,CHISE BULKER,Bulk carrier,33355.0,Handysize (10-35k),D,Panama,EIV (6 gCO₂/t·nm),883.0,285.2,True
+9493509,GREENTEC,Bulk carrier,33266.0,Handysize (10-35k),B,Hong Kong,EIV (8.09 gCO₂/t·nm),976.0,240.0,True
+9701011,MONEGASQUE EPEE,Bulk carrier,33190.0,Handysize (10-35k),B,Madeira,EEXI (5.42 gCO₂/t·nm),2700.3,234.3,True
+9701047,SE MARINA,Bulk carrier,33173.0,Handysize (10-35k),A,Panama,EEDI (5.42 gCO₂/t·nm),8134.7,200.0,True
+9594456,SEAHORSE,Bulk carrier,32962.0,Handysize (10-35k),B,Majuro,EEXI (5.34 gCO₂/t·nm),5923.3,248.6,True
+9594468,SEAPEARL,Bulk carrier,32956.0,Handysize (10-35k),A,Majuro,EEXI (5.38 gCO₂/t·nm),2422.5,208.0,True
+9310721,CALLIO,Bulk carrier,32946.0,Handysize (10-35k),A,Panama,EEXI (5.38 gCO₂/t·nm),3633.6,190.6,True
+9475715,IVORY GULL,Bulk carrier,32929.0,Handysize (10-35k),A,Monrovia,EIV (7.51 gCO₂/t·nm),4433.2,216.1,True
+9594444,ATLANTIS UNITY,Bulk carrier,32891.0,Handysize (10-35k),A,Majuro,EEXI (5.39 gCO₂/t·nm),3378.3,208.5,True
+9598282,SEALION,Bulk carrier,32860.0,Handysize (10-35k),A,Majuro,EEXI (5.39 gCO₂/t·nm),2880.1,215.8,True
+9218416,FEDERAL YOSHINO,Bulk carrier,32845.0,Handysize (10-35k),A,Majuro,EEXI (5.39 gCO₂/t·nm),7909.2,195.6,True
+9218404,FEDERAL SHIMANTO,Bulk carrier,32787.0,Handysize (10-35k),A,Majuro,EEXI (5.39 gCO₂/t·nm),7266.2,187.7,True
+9284702,FEDERAL KUSHIRO,Bulk carrier,32762.0,Handysize (10-35k),A,Majuro,EEXI (5.4 gCO₂/t·nm),5125.7,184.8,True
+9277474,PURE MERCY,Bulk carrier,32759.0,Handysize (10-35k),A,Panama,EEXI (5.4 gCO₂/t·nm),4289.4,217.6,True
+9527996,CLIPPER APOLLONIA,Bulk carrier,32755.0,Handysize (10-35k),A,Majuro,EIV (7.11 gCO₂/t·nm),3698.4,210.7,True
+9274551,DSM NORWICH,Bulk carrier,32754.0,Handysize (10-35k),A,Bridgetown,EIV (6.89 gCO₂/t·nm),5102.6,213.3,True
+9414761,ST. ANDREW,Bulk carrier,32751.0,Handysize (10-35k),A,Nassau,EEXI (5.39 gCO₂/t·nm),597.5,194.9,True
+9575436,ALEXANDROS III,Bulk carrier,32631.0,Handysize (10-35k),B,Majuro,EEXI (5.41 gCO₂/t·nm),3212.1,228.4,True
+9543249,SIGMA PIONEER,Bulk carrier,32613.0,Handysize (10-35k),A,Majuro,EEXI (5.41 gCO₂/t·nm),1635.0,209.6,True
+9293923,FEDERAL KATSURA,Bulk carrier,32594.0,Handysize (10-35k),A,Majuro,EEXI (5.41 gCO₂/t·nm),5510.7,207.7,True
+9587154,WESTERN MAPLE,Bulk carrier,32493.0,Handysize (10-35k),A,Hong Kong,EEXI (5.42 gCO₂/t·nm),5146.6,210.8,True
+9587178,YC FORTITUDE,Bulk carrier,32480.0,Handysize (10-35k),B,Panama,EEXI (5.42 gCO₂/t·nm),3124.2,229.4,True
+9571272,LILA INCHEON,Bulk carrier,32401.0,Handysize (10-35k),B,Monrovia,EEXI (5.43 gCO₂/t·nm),5151.2,248.6,True
+9300192,AMIRA RAFIF,Bulk carrier,32355.0,Handysize (10-35k),A,San Marino,EIV (6.52 gCO₂/t·nm),4667.6,205.5,True
+9608697,ZOI,Bulk carrier,32178.0,Handysize (10-35k),C,Panama,EEXI (5.44 gCO₂/t·nm),1199.3,253.0,True
+9261047,AKDENIZ-M,Bulk carrier,32178.0,Handysize (10-35k),A,Panama,EEXI (5.44 gCO₂/t·nm),1264.8,169.9,True
+9905722,PERELIK,Bulk carrier,32169.0,Handysize (10-35k),A,Valletta,EEXI (5.37 gCO₂/t·nm),4773.0,153.4,True
+9385166,ECO ANGELBAY,Bulk carrier,32165.0,Handysize (10-35k),B,Majuro,EEXI (5.45 gCO₂/t·nm),1406.1,240.3,True
+9300831,AK KHAIRA,Bulk carrier,32111.0,Handysize (10-35k),B,St. Johns,EEXI (5.56 gCO₂/t·nm),2564.6,242.0,True
+9561344,ECO BUSHFIRE,Bulk carrier,32081.0,Handysize (10-35k),B,Majuro,EEXI (6.86 gCO₂/t·nm),2868.0,221.2,True
+9494814,KALLISTI GS,Bulk carrier,32077.0,Handysize (10-35k),E,Majuro,EIV (7.07 gCO₂/t·nm),291.8,396.5,True
+9397236,AGIA TRIADA,Bulk carrier,31887.0,Handysize (10-35k),A,Majuro,EEXI (5.47 gCO₂/t·nm),849.6,199.4,True
+9497452,NJ CALLISTO,Bulk carrier,31796.0,Handysize (10-35k),B,Basseterre,EEXI (5.45 gCO₂/t·nm),3504.5,233.0,True
+9178551,SELIN-M,Bulk carrier,31770.0,Handysize (10-35k),A,Panama,EEXI (5.48 gCO₂/t·nm),1778.2,215.1,True
+9166211,LUCA,Bulk carrier,31764.0,Handysize (10-35k),A,Panama,EEXI (5.47 gCO₂/t·nm),6202.4,189.5,True
+9206140,ISKENDERUN-M,Bulk carrier,31727.0,Handysize (10-35k),A,Panama,EEXI (5.48 gCO₂/t·nm),2062.9,180.5,True
+9459981,RUDDY,Bulk carrier,30930.0,Handysize (10-35k),B,Limassol,EEXI (5.55 gCO₂/t·nm),6270.6,241.2,True
+9459979,SHOVELER,Bulk carrier,30928.0,Handysize (10-35k),D,Limassol,EEXI (5.54 gCO₂/t·nm),6093.8,288.6,True
+9647887,MADRID,Bulk carrier,30900.0,Handysize (10-35k),B,Monrovia,EEXI (5.54 gCO₂/t·nm),2321.3,230.6,True
+9459967,NOELLE G,Bulk carrier,30878.0,Handysize (10-35k),A,Valletta,EEXI (5.54 gCO₂/t·nm),6623.1,211.7,True
+9477828,MOTTLER,Bulk carrier,30806.0,Handysize (10-35k),B,Limassol,EEXI (5.56 gCO₂/t·nm),3439.9,239.2,True
+9323637,HORIZON,Bulk carrier,30803.0,Handysize (10-35k),A,Monrovia,EEXI (5.54 gCO₂/t·nm),2988.1,215.1,True
+9413925,ANDEAN,Bulk carrier,30770.0,Handysize (10-35k),C,Limassol,EEXI (5.56 gCO₂/t·nm),5217.2,263.2,True
+9564138,VITOSHA,Bulk carrier,30693.0,Handysize (10-35k),B,Valletta,EEXI (5.57 gCO₂/t·nm),2901.2,226.3,True
+9498250,OSOGOVO,Bulk carrier,30693.0,Handysize (10-35k),B,Valletta,EEXI (5.57 gCO₂/t·nm),4422.1,218.6,True
+9406104,CS CAPRICE,Bulk carrier,30487.0,Handysize (10-35k),C,Nassau,EEXI (7.63 gCO₂/t·nm),4896.2,266.2,True
+9406025,CLIPPER TRIUMPH,Bulk carrier,30472.0,Handysize (10-35k),A,Majuro,EEXI (5.59 gCO₂/t·nm),3914.7,206.5,True
+9406087,HADEEL,Bulk carrier,30420.0,Handysize (10-35k),B,Panama,EEXI (5.59 gCO₂/t·nm),2422.9,231.3,True
+9576014,GOLDEN EMAN,Bulk carrier,30347.0,Handysize (10-35k),A,Bridgetown,EEXI (5.6 gCO₂/t·nm),4855.4,213.1,True
+9414450,BAM ARION,Bulk carrier,30003.0,Handysize (10-35k),B,Majuro,EEXI (5.63 gCO₂/t·nm),2040.9,235.3,True
+9546784,PUNA,Bulk carrier,29975.0,Handysize (10-35k),B,Limassol,EEXI (5.63 gCO₂/t·nm),3845.8,244.5,True
+9257199,SAKARYA,Bulk carrier,29905.0,Handysize (10-35k),A,Istanbul,EIV (7.55 gCO₂/t·nm),528.8,168.8,True
+9413901,REDHEAD,Bulk carrier,29724.0,Handysize (10-35k),A,St. John'S,EIV (9.63 gCO₂/t·nm),2268.3,211.3,True
+9483451,OCCITAN PAUILLAC,Bulk carrier,29231.0,Handysize (10-35k),A,Valletta,EIV (7.2 gCO₂/t·nm),6204.7,217.6,True
+9498925,SEAGLASS II,Bulk carrier,29124.0,Handysize (10-35k),B,Monrovia,EEXI (5.7 gCO₂/t·nm),4516.9,228.5,True
+9561904,AGIA EKATERINI,Bulk carrier,29092.0,Handysize (10-35k),A,Majuro,EEXI (5.71 gCO₂/t·nm),2384.2,204.2,True
+9231676,HMZ ISLAND,Bulk carrier,28740.0,Handysize (10-35k),A,Bridgetown,EEXI (5.64 gCO₂/t·nm),7403.5,146.1,True
+9515632,MERITIUS,Bulk carrier,28417.0,Handysize (10-35k),A,Majuro,EEXI (5.78 gCO₂/t·nm),6898.1,193.7,True
+9384863,ATLANTIC ADAM,Bulk carrier,28416.0,Handysize (10-35k),A,San Marino,EEXI (5.78 gCO₂/t·nm),1166.0,201.8,True
+9624330,SOLANA S,Bulk carrier,28401.0,Handysize (10-35k),A,Monrovia,EEXI (5.78 gCO₂/t·nm),2580.9,203.8,True
+9615042,FRIENDLY ISLANDS,Bulk carrier,28387.0,Handysize (10-35k),A,Monrovia,EEXI (5.75 gCO₂/t·nm),1201.4,207.9,True
+9464546,YALOUSSA,Bulk carrier,28361.0,Handysize (10-35k),A,Majuro,EEXI (5.78 gCO₂/t·nm),1755.3,190.9,True
+9641792,PREDATOR,Bulk carrier,28348.0,Handysize (10-35k),A,Monrovia,EIV (6.05 gCO₂/t·nm),1949.2,189.5,True
+9554066,GANT FLAIR,Bulk carrier,28339.0,Handysize (10-35k),A,Monrovia,EEXI (5.79 gCO₂/t·nm),1442.9,214.0,True
+9573957,LADY DIMINE,Bulk carrier,28316.0,Handysize (10-35k),A,Nassau,EEXI (5.79 gCO₂/t·nm),2225.9,208.7,True
+9222558,DR SARKAS,Bulk carrier,28290.0,Handysize (10-35k),B,Bridgetown,EIV (5.83 gCO₂/t·nm),1043.5,224.4,True
+9641924,POAVOSA WISDOM VIII,Bulk carrier,28208.0,Handysize (10-35k),A,Panama,EIV (6.6 gCO₂/t·nm),3190.9,199.8,True
+9573799,CORELIT,Bulk carrier,28189.0,Handysize (10-35k),A,Bridgetown,EEXI (5.8 gCO₂/t·nm),1457.0,192.4,True
+9255189,DS MANATEE,Bulk carrier,27128.0,Handysize (10-35k),A,Majuro,EEXI (5.91 gCO₂/t·nm),1171.7,169.2,True
+9244037,VALERIO,Bulk carrier,27112.0,Handysize (10-35k),A,Bridgetown,EIV (6.52 gCO₂/t·nm),1927.5,199.0,True
+9487550,RUBATO,Bulk carrier,25159.0,Handysize (10-35k),A,Monrovia,EEXI (6.12 gCO₂/t·nm),1745.2,189.5,True
+9524815,SALVINIA,Bulk carrier,18969.0,Handysize (10-35k),A,Monrovia,EEXI (7.19 gCO₂/t·nm),4452.7,184.2,True
+9084255,MR TRADER,Bulk carrier,18703.0,Handysize (10-35k),A,Freetown,EIV (6.78 gCO₂/t·nm),290.6,189.3,True
+9742417,FRANBO LOGIC,Bulk carrier,16969.0,Handysize (10-35k),A,Panama,EEDI (10.2 gCO₂/t·nm),3334.3,179.3,True
+9856634,HAFNIA BEIJING,Chemical tanker,74999.0,Panamax (60-100k),D,Valletta,EEXI (3.99 gCO₂/t·nm),3418.6,285.3,True
+9772058,PACIFIC DEBBIE,Chemical tanker,74356.0,Panamax (60-100k),E,Majuro,EEDI (3.5 gCO₂/t·nm),14145.8,348.8,True
+9440485,ARAMON,Chemical tanker,74059.0,Panamax (60-100k),E,Majuro,EEXI (4.09 gCO₂/t·nm),461.7,374.3,True
+9441207,MINDORO STAR,Chemical tanker,73677.0,Panamax (60-100k),E,Majuro,EEXI (4.1 gCO₂/t·nm),4244.6,350.2,True
+9772046,PACIFIC JULIA,Chemical tanker,66269.0,Panamax (60-100k),E,Majuro,EEDI (3.46 gCO₂/t·nm),6968.4,371.0,True
+9845104,RAWAN,Chemical tanker,55634.0,Handymax/Supramax (35-60k),C,Dammam,EEDI (3.74 gCO₂/t·nm),1996.5,280.6,True
+9917828,MARIA,Chemical tanker,55202.0,Handymax/Supramax (35-60k),C,Dammam,EEDI (4.12 gCO₂/t·nm),3021.7,273.0,True
+9375604,ROYAL JASMINE,Chemical tanker,53148.0,Handymax/Supramax (35-60k),E,Majuro,EEXI (4.82 gCO₂/t·nm),13769.2,318.7,True
+9401128,VERIGE,Chemical tanker,52725.0,Handymax/Supramax (35-60k),E,Pula,EEXI (4.84 gCO₂/t·nm),6519.8,377.6,True
+9323390,SALACGRIVA,Chemical tanker,52620.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (4.82 gCO₂/t·nm),11871.7,304.1,True
+9323405,AINAZI,Chemical tanker,52606.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (4.82 gCO₂/t·nm),7990.8,296.8,True
+9455741,VELEBIT,Chemical tanker,52554.0,Handymax/Supramax (35-60k),E,Zadar,EIV (5.9 gCO₂/t·nm),7215.0,341.9,True
+9461697,HAFNIA CRUX,Chemical tanker,52550.0,Handymax/Supramax (35-60k),C,København,EEXI (4.96 gCO₂/t·nm),6017.2,264.2,True
+9637129,DORIC BREEZE,Chemical tanker,51565.0,Handymax/Supramax (35-60k),C,Monrovia,EIV (5.46 gCO₂/t·nm),11948.2,270.1,True
+9405540,KIMOLOS,Chemical tanker,51522.0,Handymax/Supramax (35-60k),E,Piraeus,EEXI (4.88 gCO₂/t·nm),3861.6,416.2,True
+9364588,JANE,Chemical tanker,51506.0,Handymax/Supramax (35-60k),E,Madeira,EEXI (4.89 gCO₂/t·nm),1702.7,426.5,True
+9369887,SIRTAKI,Chemical tanker,51442.0,Handymax/Supramax (35-60k),E,Majuro,EIV (6.11 gCO₂/t·nm),2768.3,333.9,True
+9644225,HAPPY LADY,Chemical tanker,51390.0,Handymax/Supramax (35-60k),B,Piraeus,EEXI (4.86 gCO₂/t·nm),4648.1,248.3,True
+9321940,STAR KESTREL,Chemical tanker,51228.0,Handymax/Supramax (35-60k),E,Majuro,EIV (5.66 gCO₂/t·nm),4760.7,342.8,True
+9384019,RIVIERA,Chemical tanker,51218.0,Handymax/Supramax (35-60k),D,Monrovia,EEXI (4.91 gCO₂/t·nm),3618.9,289.2,True
+9313474,MOSTAR,Chemical tanker,51218.0,Handymax/Supramax (35-60k),E,Panama,EIV (6.21 gCO₂/t·nm),1414.8,342.7,True
+9315068,STAR OSPREY,Chemical tanker,51213.0,Handymax/Supramax (35-60k),E,Panama,EIV (5.67 gCO₂/t·nm),362.1,417.7,True
+9417218,VIRGO,Chemical tanker,50997.0,Handymax/Supramax (35-60k),D,Monrovia,EEXI (4.96 gCO₂/t·nm),6447.7,297.6,True
+9396737,SKYLIGHT,Chemical tanker,50927.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (5.7 gCO₂/t·nm),2342.8,266.0,True
+9388209,JOHNNY RANGER,Chemical tanker,50922.0,Handymax/Supramax (35-60k),E,Monrovia,EIV (7.48 gCO₂/t·nm),7420.2,322.8,True
+9391529,OCEAN BREEZE,Chemical tanker,50748.0,Handymax/Supramax (35-60k),E,Madeira,EEXI (4.92 gCO₂/t·nm),5540.4,326.7,True
+9412775,ST GEORGE,Chemical tanker,50651.0,Handymax/Supramax (35-60k),D,Monrovia,EEXI (4.93 gCO₂/t·nm),3199.4,294.3,True
+9362372,BLOSSOM GLORY,Chemical tanker,50605.0,Handymax/Supramax (35-60k),E,Hong Kong,EEXI (4.93 gCO₂/t·nm),3447.3,346.8,True
+9827566,CHIOS STAR,Chemical tanker,50506.0,Handymax/Supramax (35-60k),B,Majuro,EEDI (4.07 gCO₂/t·nm),7577.2,260.1,True
+9917658,CLEAROCEAN MILANO,Chemical tanker,50485.0,Handymax/Supramax (35-60k),D,Manila,EEDI (4.04 gCO₂/t·nm),8229.3,293.6,True
+9877822,COSMIC GLORY,Chemical tanker,50374.0,Handymax/Supramax (35-60k),D,Majuro,EEDI (4.08 gCO₂/t·nm),4853.6,292.4,True
+9884837,CELSIUS PORTSMOUTH,Chemical tanker,50299.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (3.89 gCO₂/t·nm),2002.3,235.4,True
+9407378,HORIZON ATHENA,Chemical tanker,50242.0,Handymax/Supramax (35-60k),E,Monrovia,EIV (5.94 gCO₂/t·nm),1901.2,332.7,True
+9888340,YASA ORION,Chemical tanker,50215.0,Handymax/Supramax (35-60k),D,Majuro,EEDI (4.12 gCO₂/t·nm),5512.1,289.8,True
+9657806,PS HAMBURG,Chemical tanker,50143.0,Handymax/Supramax (35-60k),B,Madeira,EEDI (4.22 gCO₂/t·nm),1964.3,249.2,True
+9776470,LARGO ELEGANCE,Chemical tanker,50118.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (4.14 gCO₂/t·nm),3903.6,253.0,True
+9425540,SAN MARCOS,Chemical tanker,49999.0,Handymax/Supramax (35-60k),D,Valletta,EEXI (4.84 gCO₂/t·nm),5510.7,298.0,True
+9848338,MARITIME TRANQUILITY,Chemical tanker,49999.0,Handymax/Supramax (35-60k),E,Singapore,EEDI (3.88 gCO₂/t·nm),6256.1,328.5,True
+9864344,ION M,Chemical tanker,49999.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (4.26 gCO₂/t·nm),8937.6,268.9,True
+9836440,ISABELLA M II,Chemical tanker,49999.0,Handymax/Supramax (35-60k),A,Monrovia,EEDI (4.13 gCO₂/t·nm),2820.2,213.8,True
+9834337,ELANDRA REDWOOD,Chemical tanker,49999.0,Handymax/Supramax (35-60k),B,Monrovia,EEXI (4.09 gCO₂/t·nm),1598.8,244.5,True
+9380518,SEAWAYS MADELEINE,Chemical tanker,49999.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (4.97 gCO₂/t·nm),11998.8,312.9,True
+9834349,ELANDRA WILLOW,Chemical tanker,49999.0,Handymax/Supramax (35-60k),A,Monrovia,EEXI (4.11 gCO₂/t·nm),579.8,182.2,True
+9828144,PS MILANO,Chemical tanker,49999.0,Handymax/Supramax (35-60k),B,Genova,EEDI (4.23 gCO₂/t·nm),3501.6,245.3,True
+9635779,ELANDRA SEA,Chemical tanker,49999.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (4.97 gCO₂/t·nm),4799.0,301.0,True
+9381768,VELOS LEO,Chemical tanker,49999.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (4.96 gCO₂/t·nm),2619.1,274.4,True
+9895915,EUROSAILOR,Chemical tanker,49999.0,Handymax/Supramax (35-60k),B,Valletta,EEDI (4 gCO₂/t·nm),4781.2,246.6,True
+9489194,VINJERAC,Chemical tanker,49999.0,Handymax/Supramax (35-60k),E,Zadar,EIV (5.9 gCO₂/t·nm),10421.7,334.4,True
+9407380,HORIZON THETIS,Chemical tanker,49999.0,Handymax/Supramax (35-60k),E,Monrovia,EEXI (4.95 gCO₂/t·nm),3600.2,384.4,True
+9865752,MERSEY,Chemical tanker,49999.0,Handymax/Supramax (35-60k),C,Majuro,EEDI (4.21 gCO₂/t·nm),2731.2,268.3,True
+9421324,PRAGUE,Chemical tanker,49999.0,Handymax/Supramax (35-60k),D,Monrovia,EEXI (4.96 gCO₂/t·nm),1661.7,317.5,True
+9337511,SEAWAYS GRACE,Chemical tanker,49999.0,Handymax/Supramax (35-60k),C,Hong Kong,EEXI (4.97 gCO₂/t·nm),11502.2,280.1,True
+9354911,SEAWAYS ROSE,Chemical tanker,49999.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (4.96 gCO₂/t·nm),7509.8,306.4,True
+9877585,ECO JOSHUA PARK,Chemical tanker,49999.0,Handymax/Supramax (35-60k),C,Majuro,EEDI (4.03 gCO₂/t·nm),3807.4,277.6,True
+9835044,OPTIMUS,Chemical tanker,49999.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (4.17 gCO₂/t·nm),5242.9,271.8,True
+9919163,CLEAROCEAN MESQUITE,Chemical tanker,49999.0,Handymax/Supramax (35-60k),C,Panama,EEDI (4.15 gCO₂/t·nm),6559.4,266.6,True
+9702211,TORM DENISE,Chemical tanker,49999.0,Handymax/Supramax (35-60k),C,Singapore,EEXI (4.18 gCO₂/t·nm),4472.3,271.4,True
+9635767,ELANDRA STAR,Chemical tanker,49999.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (4.97 gCO₂/t·nm),1433.2,238.0,True
+9798935,ATLANTIC JOURNEY,Chemical tanker,49999.0,Handymax/Supramax (35-60k),B,Majuro,EEDI (4.07 gCO₂/t·nm),7312.6,244.7,True
+9380362,SEAWAYS CITRON,Chemical tanker,49999.0,Handymax/Supramax (35-60k),E,Hong Kong,EEXI (4.97 gCO₂/t·nm),9922.5,332.4,True
+9877573,ECO YOSEMITE PARK,Chemical tanker,49999.0,Handymax/Supramax (35-60k),C,Majuro,EEDI (4.07 gCO₂/t·nm),8991.0,274.4,True
+9848352,MARITIME VALOR,Chemical tanker,49998.0,Handymax/Supramax (35-60k),D,Singapore,EEDI (3.92 gCO₂/t·nm),3221.6,283.0,True
+9365374,APIASTOS,Chemical tanker,49997.0,Handymax/Supramax (35-60k),E,Monrovia,EEXI (4.96 gCO₂/t·nm),2180.6,359.6,True
+9768746,MARITIME POLARIS,Chemical tanker,49996.0,Handymax/Supramax (35-60k),D,Singapore,EEDI (4.17 gCO₂/t·nm),1076.3,304.1,True
+9798351,ELDIA,Chemical tanker,49996.0,Handymax/Supramax (35-60k),B,Valletta,EEDI (4.15 gCO₂/t·nm),2452.0,228.6,True
+9407366,HORIZON APHRODITE,Chemical tanker,49996.0,Handymax/Supramax (35-60k),E,Monrovia,EIV (5.08 gCO₂/t·nm),2241.2,393.5,True
+9905162,POINT LISAS,Chemical tanker,49996.0,Handymax/Supramax (35-60k),B,Singapore,EEDI (4.02 gCO₂/t·nm),5008.6,252.6,True
+9747120,NORD OCEANIA,Chemical tanker,49996.0,Handymax/Supramax (35-60k),D,Panama,EEDI (4.85 gCO₂/t·nm),4144.4,288.6,True
+9849382,CLEAROCEAN MAGIC,Chemical tanker,49995.0,Handymax/Supramax (35-60k),B,Monrovia,EEXI (4.33 gCO₂/t·nm),4618.8,258.6,True
+9849265,CLEAROCEAN MELODY,Chemical tanker,49995.0,Handymax/Supramax (35-60k),A,Monrovia,EEXI (4.23 gCO₂/t·nm),2995.4,212.7,True
+9848340,MARITIME AMITY,Chemical tanker,49995.0,Handymax/Supramax (35-60k),D,Singapore,EEDI (3.88 gCO₂/t·nm),12963.4,315.0,True
+9867798,PACIFIC BLUE,Chemical tanker,49995.0,Handymax/Supramax (35-60k),C,Monrovia,EEDI (4.25 gCO₂/t·nm),877.5,269.7,True
+9629706,AMIRANTE,Chemical tanker,49994.0,Handymax/Supramax (35-60k),B,Singapore,EEXI (4.61 gCO₂/t·nm),2669.4,259.8,True
+9528134,DALMACIJA,Chemical tanker,49991.0,Handymax/Supramax (35-60k),D,Valletta,EEDI (4.25 gCO₂/t·nm),3271.1,308.0,True
+9704441,ZOILO,Chemical tanker,49990.0,Handymax/Supramax (35-60k),C,Valletta,EEDI (4.5 gCO₂/t·nm),2722.5,265.3,True
+9706841,STI BROOKLYN,Chemical tanker,49990.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (4.26 gCO₂/t·nm),7552.0,272.7,True
+9706839,STI BRONX,Chemical tanker,49990.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (4.27 gCO₂/t·nm),2560.8,262.5,True
+9629562,SEAPRIDE,Chemical tanker,49990.0,Handymax/Supramax (35-60k),E,Valletta,EEXI (4.93 gCO₂/t·nm),13621.5,406.2,True
+9619531,YASA HAWK,Chemical tanker,49990.0,Handymax/Supramax (35-60k),C,Majuro,EEDI (4.2 gCO₂/t·nm),4125.5,279.5,True
+9705914,ELKA ELEFSIS,Chemical tanker,49990.0,Handymax/Supramax (35-60k),C,Monrovia,EEDI (5.16 gCO₂/t·nm),9331.8,280.8,True
+9929821,DEE4 NERIUM,Chemical tanker,49990.0,Handymax/Supramax (35-60k),B,Monrovia,EEXI (4.07 gCO₂/t·nm),6233.3,233.6,True
+9683984,LARGO ENERGY,Chemical tanker,49973.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (4.85 gCO₂/t·nm),5811.0,268.7,True
+9692387,SILVER ELLIE,Chemical tanker,49950.0,Handymax/Supramax (35-60k),B,Majuro,EEDI (4.34 gCO₂/t·nm),5359.2,256.8,True
+9540807,NORD HIMALAYA,Chemical tanker,49936.0,Handymax/Supramax (35-60k),D,Copenhagen,EEXI (4.97 gCO₂/t·nm),6722.7,306.0,True
+9853254,SEA ELEPHANT,Chemical tanker,49930.0,Handymax/Supramax (35-60k),D,Majuro,EEDI (4.26 gCO₂/t·nm),3002.9,290.4,True
+9730347,SANTIAGO I,Chemical tanker,49901.0,Handymax/Supramax (35-60k),D,Limassol,EEXI (3.96 gCO₂/t·nm),8315.0,286.0,True
+9833656,NAVIG8 GRACE,Chemical tanker,49804.0,Handymax/Supramax (35-60k),C,Monrovia,EEXI (4.16 gCO₂/t·nm),4888.9,282.9,True
+9845166,FPMC 34,Chemical tanker,49781.0,Handymax/Supramax (35-60k),C,Monrovia,EEDI (4.19 gCO₂/t·nm),4751.1,282.4,True
+9667461,STENA IMPRESSION,Chemical tanker,49776.0,Handymax/Supramax (35-60k),E,London,EEXI (4.42 gCO₂/t·nm),8520.4,331.5,True
+9683348,SILVER GERTRUDE,Chemical tanker,49746.0,Handymax/Supramax (35-60k),D,Panama,EEDI (4.45 gCO₂/t·nm),1318.5,313.9,True
+9697909,DEE4 LARCH,Chemical tanker,49737.0,Handymax/Supramax (35-60k),C,Skovshoved,EEXI (4.87 gCO₂/t·nm),5719.3,269.3,True
+9695834,CLEAROCEAN MORITZ,Chemical tanker,49737.0,Handymax/Supramax (35-60k),E,Monrovia,EEXI (4.77 gCO₂/t·nm),1299.1,330.8,True
+9718806,DANK SILVER,Chemical tanker,49734.0,Handymax/Supramax (35-60k),C,Majuro,EEDI (4.24 gCO₂/t·nm),8909.5,271.5,True
+9831696,FPMC 31,Chemical tanker,49731.0,Handymax/Supramax (35-60k),E,Monrovia,EEDI (4.16 gCO₂/t·nm),2944.0,337.1,True
+9797395,STENA IMPRIMIS,Chemical tanker,49718.0,Handymax/Supramax (35-60k),C,London,EEXI (4.38 gCO₂/t·nm),7833.6,282.3,True
+9693812,WECO AMELIE,Chemical tanker,49708.0,Handymax/Supramax (35-60k),E,Monrovia,EEXI (4.67 gCO₂/t·nm),6565.5,430.0,True
+9683386,TORM DEBORAH,Chemical tanker,49680.0,Handymax/Supramax (35-60k),C,Hellerup,EEXI (4.42 gCO₂/t·nm),7013.5,272.4,True
+9692337,TORM DAGNY,Chemical tanker,49635.0,Handymax/Supramax (35-60k),D,Hellerup,EEXI (4.3 gCO₂/t·nm),7317.0,283.8,True
+9692375,SILVER VENUS,Chemical tanker,49635.0,Handymax/Supramax (35-60k),D,Majuro,EEDI (4.32 gCO₂/t·nm),3676.6,294.9,True
+9669902,BOW TRIUMPH,Chemical tanker,49622.0,Handymax/Supramax (35-60k),E,Bergen,EEXI (4.32 gCO₂/t·nm),5530.6,322.9,True
+9669897,BOW TRIDENT,Chemical tanker,49622.0,Handymax/Supramax (35-60k),D,Bergen,EEXI (4.32 gCO₂/t·nm),2669.2,310.8,True
+9753698,HAFNIA TOURMALINE,Chemical tanker,49513.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (4.17 gCO₂/t·nm),5006.0,277.0,True
+9753703,HAFNIA TANZANITE,Chemical tanker,49478.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (4.12 gCO₂/t·nm),7422.9,310.8,True
+9654579,ARDMORE ENCOUNTER,Chemical tanker,49477.0,Handymax/Supramax (35-60k),E,Majuro,EEDI (4.64 gCO₂/t·nm),6392.5,322.6,True
+9654567,ARDMORE ENDURANCE,Chemical tanker,49466.0,Handymax/Supramax (35-60k),D,Majuro,EEDI (4.6 gCO₂/t·nm),9139.6,283.3,True
+9197284,BOW SUN,Chemical tanker,49466.0,Handymax/Supramax (35-60k),E,Bergen,EEXI (4.99 gCO₂/t·nm),12063.0,346.3,True
+9898503,SOLAR CHERYL,Chemical tanker,49389.0,Handymax/Supramax (35-60k),C,Monrovia,EEDI (4.13 gCO₂/t·nm),8870.3,281.2,True
+9907811,SOLAR RUO YUN,Chemical tanker,49362.0,Handymax/Supramax (35-60k),C,Monrovia,EEDI (4.15 gCO₂/t·nm),9063.1,275.7,True
+9898515,SOLAR SUSIE,Chemical tanker,49360.0,Handymax/Supramax (35-60k),B,Monrovia,EEDI (4.15 gCO₂/t·nm),5724.4,241.9,True
+9907809,SOLAR LAI FONG,Chemical tanker,49358.0,Handymax/Supramax (35-60k),C,Monrovia,EEDI (4.15 gCO₂/t·nm),9628.8,269.6,True
+9898527,SOLAR TINE,Chemical tanker,49343.0,Handymax/Supramax (35-60k),B,Monrovia,EEDI (4.14 gCO₂/t·nm),10495.4,240.4,True
+9873656,GREAT KAPPA,Chemical tanker,49282.0,Handymax/Supramax (35-60k),E,Majuro,EEXI (4.22 gCO₂/t·nm),12014.4,330.2,True
+9327449,FAIR WONDER,Chemical tanker,47872.0,Handymax/Supramax (35-60k),D,Monrovia,EEXI (5.07 gCO₂/t·nm),5076.7,300.4,True
+9829461,STI MYSTERY,Chemical tanker,47499.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (4.07 gCO₂/t·nm),1403.3,235.4,True
+9252448,BOURDA,Chemical tanker,47323.0,Handymax/Supramax (35-60k),E,Monrovia,EEXI (5.1 gCO₂/t·nm),3545.7,435.1,True
+9288825,WENCHE VICTORY,Chemical tanker,47210.0,Handymax/Supramax (35-60k),D,Bergen,EEXI (5.02 gCO₂/t·nm),8770.9,299.5,True
+9389318,CARTAGENA,Chemical tanker,46923.0,Handymax/Supramax (35-60k),E,Zuara,EIV (6.65 gCO₂/t·nm),7164.8,339.7,True
+9430167,MERAPI,Chemical tanker,46872.0,Handymax/Supramax (35-60k),C,Valletta,EEXI (5.12 gCO₂/t·nm),3579.2,278.3,True
+9379129,RUI FU SHENG,Chemical tanker,46846.0,Handymax/Supramax (35-60k),E,Monrovia,EEXI (5.12 gCO₂/t·nm),3554.3,409.4,True
+9388015,EVGENIA S,Chemical tanker,46846.0,Handymax/Supramax (35-60k),E,Majuro,EEXI (5.13 gCO₂/t·nm),803.7,323.8,True
+9307994,ELLIE M II,Chemical tanker,46784.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (5.13 gCO₂/t·nm),2244.4,317.7,True
+9379131,CORDOBA,Chemical tanker,46763.0,Handymax/Supramax (35-60k),E,Monrovia,EEXI (5.13 gCO₂/t·nm),3149.6,321.1,True
+9359375,DDELPHINUS 12,Chemical tanker,46011.0,Handymax/Supramax (35-60k),D,Panama,EIV (7.3 gCO₂/t·nm),8024.5,316.4,True
+9335056,COURAGE,Chemical tanker,45965.0,Handymax/Supramax (35-60k),E,Monrovia,EEXI (5.17 gCO₂/t·nm),8592.7,322.6,True
+9718818,MADHA SILVER,Chemical tanker,45923.0,Handymax/Supramax (35-60k),B,Majuro,EEDI (4.29 gCO₂/t·nm),2231.8,237.2,True
+9718777,MAHADAH SILVER,Chemical tanker,45923.0,Handymax/Supramax (35-60k),D,Majuro,EEDI (4.22 gCO₂/t·nm),6290.9,303.8,True
+9458822,UACC MANAMA,Chemical tanker,45612.0,Handymax/Supramax (35-60k),E,Majuro,EIV (6.84 gCO₂/t·nm),3964.4,637.9,True
+9458834,UACC RIYADH,Chemical tanker,45444.0,Handymax/Supramax (35-60k),E,Majuro,EIV (6.87 gCO₂/t·nm),10478.4,394.9,True
+9489106,NAVIG8 UNIVERSE,Chemical tanker,45313.0,Handymax/Supramax (35-60k),E,Majuro,EIV (7.24 gCO₂/t·nm),9023.7,381.5,True
+9942500,DEE4 MAHOGANY,Chemical tanker,44999.0,Handymax/Supramax (35-60k),B,Monrovia,EEXI (4.06 gCO₂/t·nm),1845.6,241.9,True
+9752034,BOW GEMINI,Chemical tanker,40895.0,Handymax/Supramax (35-60k),D,Bergen,EEXI (5.34 gCO₂/t·nm),8627.9,301.4,True
+9801093,SC VIRGO,Chemical tanker,40870.0,Handymax/Supramax (35-60k),B,Hong Kong,EEXI (5.22 gCO₂/t·nm),5191.0,263.3,True
+9752046,BOW HERCULES,Chemical tanker,40847.0,Handymax/Supramax (35-60k),D,Bergen,EEXI (5.21 gCO₂/t·nm),10133.5,310.2,True
+9727584,HAFNIA ACHROITE,Chemical tanker,38506.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (5.15 gCO₂/t·nm),1343.8,235.1,True
+9711573,HAFNIA AQUAMARINE,Chemical tanker,38506.0,Handymax/Supramax (35-60k),A,Singapore,EEXI (5.15 gCO₂/t·nm),3091.5,225.9,True
+9828211,BOW EXPLORER,Chemical tanker,38235.0,Handymax/Supramax (35-60k),D,Bergen,EEXI (4.76 gCO₂/t·nm),12970.1,312.0,True
+9411989,REGUETON,Chemical tanker,37872.0,Handymax/Supramax (35-60k),C,Monrovia,EEXI (5.69 gCO₂/t·nm),3136.1,276.0,True
+9464352,LUCKY SAILOR,Chemical tanker,37596.0,Handymax/Supramax (35-60k),C,Valletta,EEXI (5.56 gCO₂/t·nm),665.3,274.7,True
+9732826,MALBEC LEGACY,Chemical tanker,37596.0,Handymax/Supramax (35-60k),D,Majuro,EEDI (5.22 gCO₂/t·nm),8022.3,284.4,True
+9114244,BOW CARDINAL,Chemical tanker,37446.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (4.88 gCO₂/t·nm),4812.3,313.6,True
+9143219,BOW CECIL,Chemical tanker,37369.0,Handymax/Supramax (35-60k),C,Bergen,EEXI (4.95 gCO₂/t·nm),6183.1,274.1,True
+9774575,MTM NEWPORT,Chemical tanker,35976.0,Handymax/Supramax (35-60k),A,Singapore,EEDI (5.51 gCO₂/t·nm),238.1,221.4,True
+9790658,BOW PERFORMER,Chemical tanker,35118.0,Handymax/Supramax (35-60k),B,Singapore,EEDI (5.55 gCO₂/t·nm),1648.6,249.3,True
+9311024,STOLT STRENGTH,Chemical tanker,33929.0,Handysize (10-35k),B,Monrovia,EEXI (5.91 gCO₂/t·nm),3040.6,234.1,True
+9565649,BOCHEM GHENT,Chemical tanker,33628.0,Handysize (10-35k),B,Hong Kong,EIV (8.39 gCO₂/t·nm),3783.3,243.5,True
+9597147,STOLT ORCA,Chemical tanker,33559.0,Handysize (10-35k),C,Monrovia,EEXI (6.03 gCO₂/t·nm),6921.6,267.5,True
+9296731,STOLT COURAGE,Chemical tanker,32858.0,Handysize (10-35k),A,Monrovia,EEXI (6.09 gCO₂/t·nm),3796.6,222.9,True
+9764506,STOLT PALM,Chemical tanker,32761.0,Handysize (10-35k),B,Madeira,EEXI (4.84 gCO₂/t·nm),8484.0,255.9,True
+9617648,STOLT LOTUS,Chemical tanker,30345.0,Handysize (10-35k),D,Monrovia,EEXI (6.34 gCO₂/t·nm),5747.4,294.1,True
+9739290,STOLT BISMUTH,Chemical tanker,27570.0,Handysize (10-35k),B,Monrovia,EEXI (6.25 gCO₂/t·nm),5362.2,254.1,True
+9396024,BOMAR OSPREY,Chemical tanker,25432.0,Handysize (10-35k),B,Majuro,EEXI (6.9 gCO₂/t·nm),5407.6,251.5,True
+9423750,EASTERLY EAGLE,Chemical tanker,25390.0,Handysize (10-35k),B,Majuro,EIV (10.38 gCO₂/t·nm),1163.9,246.8,True
+9707869,ARDMORE CHINOOK,Chemical tanker,25233.0,Handysize (10-35k),A,Majuro,EEXI (6.63 gCO₂/t·nm),6566.5,205.9,True
+9749362,WILLARD J,Chemical tanker,25161.0,Handysize (10-35k),B,Majuro,EEDI (5.87 gCO₂/t·nm),2959.6,251.1,True
+9749350,LINUS P,Chemical tanker,25161.0,Handysize (10-35k),A,Majuro,EEDI (5.83 gCO₂/t·nm),4480.0,226.4,True
+9749348,MARIE C,Chemical tanker,25161.0,Handysize (10-35k),C,Majuro,EEDI (5.69 gCO₂/t·nm),6944.7,264.3,True
+9749336,LOUIS P,Chemical tanker,25161.0,Handysize (10-35k),A,Majuro,EEDI (5.74 gCO₂/t·nm),7659.9,220.1,True
+9877614,SOLAR SHARNA,Chemical tanker,25039.0,Handysize (10-35k),A,Majuro,EEDI (6.92 gCO₂/t·nm),2293.1,211.6,True
+9511167,STOLT BOBCAT,Chemical tanker,23432.0,Handysize (10-35k),A,Monrovia,EEXI (7.12 gCO₂/t·nm),2436.8,207.1,True
+9459539,STOLT OCELOT,Chemical tanker,23324.0,Handysize (10-35k),A,Monrovia,EEXI (7.16 gCO₂/t·nm),3496.4,217.6,True
+9726750,MTM SAVANNAH,Chemical tanker,22430.0,Handysize (10-35k),A,Singapore,EEXI (6.81 gCO₂/t·nm),2357.3,199.8,True
+9742077,CONDOR TRADER,Chemical tanker,22423.0,Handysize (10-35k),B,Manila,EEDI (6.89 gCO₂/t·nm),3931.5,257.2,True
+9712591,MTM PENANG,Chemical tanker,22413.0,Handysize (10-35k),A,Singapore,EEDI (7.27 gCO₂/t·nm),6633.7,184.0,True
+9742065,MTM TORTOLA,Chemical tanker,22396.0,Handysize (10-35k),A,Singapore,EEXI (6.91 gCO₂/t·nm),2672.5,199.2,True
+9758090,FAIRCHEM SUCCESS,Chemical tanker,22346.0,Handysize (10-35k),A,Panama,EEDI (7.32 gCO₂/t·nm),1171.6,202.5,True
+9149524,STOLT SPAN,Chemical tanker,22273.0,Handysize (10-35k),B,Monrovia,Not Applicable,2541.1,227.0,True
+9168623,STOLT SURF,Chemical tanker,22220.0,Handysize (10-35k),B,George Town,Not Applicable,9139.7,249.6,True
+9149495,STOLT SEA,Chemical tanker,22198.0,Handysize (10-35k),C,George Town,Not Applicable,3360.0,267.2,True
+9149512,STOLT SUN,Chemical tanker,22198.0,Handysize (10-35k),C,George Town,Not Applicable,7876.0,265.6,True
+9776456,MTM KOBE,Chemical tanker,21183.0,Handysize (10-35k),A,Singapore,EEDI (7.13 gCO₂/t·nm),5972.7,178.6,True
+9276248,SOLIS,Chemical tanker,21181.0,Handysize (10-35k),C,Panama,EEXI (7.35 gCO₂/t·nm),4972.3,265.1,True
+9477567,MTM ROTTERDAM,Chemical tanker,21144.0,Handysize (10-35k),B,Singapore,EEXI (7.56 gCO₂/t·nm),2981.1,238.9,True
+9408803,PVT JUPITER,Chemical tanker,20832.0,Handysize (10-35k),A,Panama,EEXI (7.61 gCO₂/t·nm),2515.3,197.0,True
+9323077,LAVRAKI,Chemical tanker,20811.0,Handysize (10-35k),B,Majuro,EIV (9.86 gCO₂/t·nm),3948.6,247.8,True
+9282924,EALDOR,Chemical tanker,20810.0,Handysize (10-35k),A,Panama,EEXI (7.62 gCO₂/t·nm),1117.6,175.4,True
+9291456,MTM ANTWERP,Chemical tanker,20704.0,Handysize (10-35k),D,Singapore,EEXI (7.63 gCO₂/t·nm),910.4,316.4,True
+9298351,MIRELLA S,Chemical tanker,20677.0,Handysize (10-35k),D,Bridgetown,EEXI (7.64 gCO₂/t·nm),2213.1,297.5,True
+9379844,MTM HAMBURG,Chemical tanker,20564.0,Handysize (10-35k),A,Singapore,EEXI (7.66 gCO₂/t·nm),1270.0,178.0,True
+9838668,TEAL RAY,Chemical tanker,19999.0,Handysize (10-35k),A,Monrovia,EEDI (7.13 gCO₂/t·nm),6698.7,199.1,True
+9296872,MAC LONDON,Chemical tanker,19999.0,Handysize (10-35k),B,Hong Kong,EEXI (7.85 gCO₂/t·nm),3384.3,233.9,True
+9423645,SONGA BREEZE,Chemical tanker,19999.0,Handysize (10-35k),A,Majuro,EIV (11.29 gCO₂/t·nm),5451.6,221.4,True
+9340441,EASTERLY BEECH GALAXY,Chemical tanker,19998.0,Handysize (10-35k),B,Majuro,EIV (11.29 gCO₂/t·nm),5677.5,226.6,True
+9790464,SWAN ATLANTIC,Chemical tanker,19998.0,Handysize (10-35k),A,George Town,EEXI (6.99 gCO₂/t·nm),11639.7,210.7,True
+9733351,LINKEN,Chemical tanker,19997.0,Handysize (10-35k),C,Bergen,EEXI (7.02 gCO₂/t·nm),4662.3,267.0,True
+9733349,CELSIUS MIDDELFART,Chemical tanker,19997.0,Handysize (10-35k),B,Majuro,EEDI (7.23 gCO₂/t·nm),3212.5,226.9,True
+9264465,ZHENG HE 3,Chemical tanker,19997.0,Handysize (10-35k),B,Monrovia,EIV (14.28 gCO₂/t·nm),9366.6,227.1,True
+9360960,CITY ISLAND,Chemical tanker,19996.0,Handysize (10-35k),A,Majuro,EEXI (7.76 gCO₂/t·nm),8019.4,215.6,True
+9477529,MTM SINGAPORE,Chemical tanker,19996.0,Handysize (10-35k),A,Singapore,EEXI (7.71 gCO₂/t·nm),5717.7,210.1,True
+9657478,FAIRCHEM SABRE,Chemical tanker,19994.0,Handysize (10-35k),A,Majuro,EEXI (7.77 gCO₂/t·nm),3070.6,196.0,True
+9737577,MELDERSKIN,Chemical tanker,19994.0,Handysize (10-35k),A,Bergen,EEXI (7.37 gCO₂/t·nm),1825.3,216.0,True
+9740794,LAVENDER RAY,Chemical tanker,19994.0,Handysize (10-35k),A,Monrovia,EEXI (7.04 gCO₂/t·nm),9680.6,198.0,True
+9499486,OPEC VICTORY,Chemical tanker,19992.0,Handysize (10-35k),A,Panama,EEXI (7.73 gCO₂/t·nm),5044.5,208.4,True
+9304320,MIAMI,Chemical tanker,19991.0,Handysize (10-35k),A,Funafuti,EEXI (7.76 gCO₂/t·nm),4361.1,221.8,True
+9799642,FAIRCHEM FALCON,Chemical tanker,19952.0,Handysize (10-35k),A,Hong Kong,EEDI (7.39 gCO₂/t·nm),3924.7,213.4,True
+9400370,ORION,Chemical tanker,19935.0,Handysize (10-35k),A,Hai Phong,EEXI (7.78 gCO₂/t·nm),4818.7,197.0,True
+9800013,EVA BERGEN,Chemical tanker,19888.0,Handysize (10-35k),C,Manila,EEDI (8.2 gCO₂/t·nm),3170.1,272.1,True
+9360946,MTM NORTH SOUND,Chemical tanker,19874.0,Handysize (10-35k),A,Singapore,EEXI (7.77 gCO₂/t·nm),4240.6,211.6,True
+9724063,ALBATROSS TRADER,Chemical tanker,19862.0,Handysize (10-35k),D,Manila,EEDI (8.18 gCO₂/t·nm),244.9,308.4,True
+9412725,JBU SAPPHIRE,Chemical tanker,19860.0,Handysize (10-35k),B,Jeju,EEXI (7.81 gCO₂/t·nm),8571.2,248.6,True
+9865520,EVA TOKYO,Chemical tanker,19841.0,Handysize (10-35k),A,Panama,EEDI (8.36 gCO₂/t·nm),576.2,193.8,True
+9416082,SHAMROCK JUPITER,Chemical tanker,19837.0,Handysize (10-35k),E,Panama,EEXI (7.82 gCO₂/t·nm),3411.1,368.5,True
+9416020,BARBOUNI,Chemical tanker,19822.0,Handysize (10-35k),A,Majuro,EEDI (7.82 gCO₂/t·nm),6041.8,226.0,True
+9724099,BIRDIE TRADER,Chemical tanker,19822.0,Handysize (10-35k),A,Manila,EEDI (8.25 gCO₂/t·nm),5656.6,222.9,True
+9800025,VARI TRADER,Chemical tanker,19808.0,Handysize (10-35k),A,Panama,EEDI (8.25 gCO₂/t·nm),8228.3,200.6,True
+9323766,T VEGA,Chemical tanker,19807.0,Handysize (10-35k),E,Monrovia,EEXI (7.79 gCO₂/t·nm),1043.6,318.4,True
+9323778,JAL SIDDHI,Chemical tanker,19805.0,Handysize (10-35k),A,Singapore,EIV (10.01 gCO₂/t·nm),3047.0,222.0,True
+9640097,TG LEO,Chemical tanker,19801.0,Handysize (10-35k),A,Monrovia,EEXI (7.83 gCO₂/t·nm),1875.0,218.1,True
+9505924,MTM HOUSTON,Chemical tanker,19741.0,Handysize (10-35k),A,Singapore,EEXI (7.83 gCO₂/t·nm),4369.8,192.5,True
+9439840,ELISABETH SCHULTE,Chemical tanker,16371.0,Handysize (10-35k),A,Douglas,EEXI (8.78 gCO₂/t·nm),7716.7,204.4,True
+9428023,SEA LIGHT,Chemical tanker,12948.0,Handysize (10-35k),B,Valletta,EEXI (10.7 gCO₂/t·nm),5285.8,230.3,True
+9736638,JUTLANDIA SWAN,Chemical tanker,12479.0,Handysize (10-35k),A,Valletta,EEDI (10.9 gCO₂/t·nm),4619.4,176.2,True
+9885910,BALZANI,Combination carrier,82393.0,Panamax (60-100k),D,Majuro,EEXI (3.45 gCO₂/t·nm),2320.7,291.4,True
+9861990,BANGUS,Combination carrier,82388.0,Panamax (60-100k),E,Majuro,EEXI (3.46 gCO₂/t·nm),2882.2,356.4,True
+9855367,BALEEN,Combination carrier,82374.0,Panamax (60-100k),D,Majuro,EEXI (3.46 gCO₂/t·nm),5141.6,306.3,True
+9709219,CMA CGM SAINT LAURENT,Container ship,27322.0,Handysize (10-35k),E,Marseille,EEXI (17.9 gCO₂/t·nm),29019.3,400.5,True
+9368194,KAMILLA KOSAN,Gas carrier,11738.0,Handysize (10-35k),C,Singapore,EEXI (12.5 gCO₂/t·nm),477.5,178.1,True
+9521588,EPIC BORACAY,Gas carrier,6519.0,Small (<10k),B,Singapore,EEXI (18.1 gCO₂/t·nm),6633.6,148.4,True
+9580182,EPIC BEATA,Gas carrier,6513.0,Small (<10k),C,Valletta,EEXI (18.1 gCO₂/t·nm),1193.9,167.4,True
+9774898,GAS FORTUNE,Gas carrier,6420.0,Small (<10k),A,Panama,EEXI (18.3 gCO₂/t·nm),590.7,147.0,True
+9746774,ECO NICAL,Gas carrier,6407.0,Small (<10k),B,Majuro,EEXI (18.31 gCO₂/t·nm),5071.3,161.7,True
+9567740,TANCHOU ARROW,General cargo ship,73296.0,Panamax (60-100k),D,Nassau,EEXI (4.05 gCO₂/t·nm),2532.1,268.5,True
+9385489,TENCA ARROW,General cargo ship,72863.0,Panamax (60-100k),E,Nassau,EEXI (4.96 gCO₂/t·nm),5078.2,340.8,True
+9385477,CORELLA ARROW,General cargo ship,72863.0,Panamax (60-100k),E,Nassau,EEXI (4.96 gCO₂/t·nm),524.8,525.7,True
+9976068,GREEN HELSINKI,General cargo ship,64986.0,Panamax (60-100k),E,Panama,EEDI (3.79 gCO₂/t·nm),15671.6,305.7,True
+9552898,PIPIT ARROW,General cargo ship,62980.0,Panamax (60-100k),E,Panama,EEXI (4.52 gCO₂/t·nm),5752.2,274.1,True
+9529592,EAGLE ARROW,General cargo ship,62967.0,Panamax (60-100k),D,Panama,EEXI (4.51 gCO₂/t·nm),4031.3,268.9,True
+9529580,NANDU ARROW,General cargo ship,62960.0,Panamax (60-100k),E,Panama,EEXI (4.51 gCO₂/t·nm),2737.6,301.7,True
+9495923,PELICAN ARROW,General cargo ship,62942.0,Panamax (60-100k),E,Panama,EEXI (4.5 gCO₂/t·nm),6517.5,278.1,True
+9687162,LAWIN ARROW,General cargo ship,62841.0,Panamax (60-100k),D,Nassau,EEXI (4.14 gCO₂/t·nm),3003.8,252.5,True
+9687174,OSPREY ARROW,General cargo ship,62841.0,Panamax (60-100k),C,Bergen,EEXI (4.13 gCO₂/t·nm),2333.9,245.5,True
+9448255,AVOCET ARROW,General cargo ship,62823.0,Panamax (60-100k),C,Nassau,EEXI (4.13 gCO₂/t·nm),5799.5,240.7,True
+9448243,MISAGO ARROW,General cargo ship,62823.0,Panamax (60-100k),D,Nassau,EEXI (3.88 gCO₂/t·nm),1953.8,267.3,True
+9824992,ROBUSTA,General cargo ship,62372.0,Panamax (60-100k),D,Majuro,EEXI (3.88 gCO₂/t·nm),8092.5,257.6,True
+9825001,SALIGNA,General cargo ship,62357.0,Panamax (60-100k),D,Majuro,EEXI (3.96 gCO₂/t·nm),5706.6,271.0,True
+9824978,DUNNII,General cargo ship,62356.0,Panamax (60-100k),D,Majuro,EEXI (3.91 gCO₂/t·nm),3585.5,253.8,True
+9872169,COSCO SHIPPING JIN XIU,General cargo ship,62003.0,Panamax (60-100k),C,Yangpu China,EEDI (8.91 gCO₂/t·nm),1860.8,247.0,True
+9380788,PROVIDANA,General cargo ship,58022.0,Handymax/Supramax (35-60k),E,Bergen,EEXI (6.14 gCO₂/t·nm),3717.4,295.1,True
+9253870,OSAKANA,General cargo ship,57624.0,Handymax/Supramax (35-60k),D,Douglas,EEXI (6.13 gCO₂/t·nm),7175.7,266.6,True
+9613288,ARBORELLA,General cargo ship,57540.0,Handymax/Supramax (35-60k),E,Majuro,EEXI (5.73 gCO₂/t·nm),2840.4,312.8,True
+9613290,BRASSIANA,General cargo ship,57536.0,Handymax/Supramax (35-60k),E,Majuro,EEXI (5.72 gCO₂/t·nm),7094.6,295.2,True
+9613317,DELICATA,General cargo ship,57441.0,Handymax/Supramax (35-60k),E,Majuro,EEXI (5.71 gCO₂/t·nm),4754.0,315.6,True
+9613329,HALOPHYLA,General cargo ship,57440.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (5.58 gCO₂/t·nm),3673.4,266.0,True
+9613305,CITRIODORA,General cargo ship,57440.0,Handymax/Supramax (35-60k),E,Majuro,EEXI (5.7 gCO₂/t·nm),7725.5,279.3,True
+9609457,SAGA FUJI,General cargo ship,55973.0,Handymax/Supramax (35-60k),C,Hong Kong,EEXI (5.04 gCO₂/t·nm),3341.6,245.7,True
+9658953,SAGA FANTASY,General cargo ship,55973.0,Handymax/Supramax (35-60k),C,Hong Kong,EEXI (4.96 gCO₂/t·nm),1685.0,242.6,True
+9502336,SAGA FREYA,General cargo ship,55807.0,Handymax/Supramax (35-60k),E,Nassau,EEXI (5.1 gCO₂/t·nm),5220.4,275.4,True
+9478779,BRIGHT HERO,General cargo ship,55625.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (5.13 gCO₂/t·nm),347.8,268.0,True
+9613862,SAGA FJORD,General cargo ship,55596.0,Handymax/Supramax (35-60k),E,Hong Kong,EEXI (5.01 gCO₂/t·nm),7496.3,278.2,True
+9419254,ELM ARROW,General cargo ship,53035.0,Handymax/Supramax (35-60k),E,Nassau,EEXI (6.2 gCO₂/t·nm),762.8,300.0,True
+9423566,ASPEN ARROW,General cargo ship,53022.0,Handymax/Supramax (35-60k),E,Nassau,EEXI (6.2 gCO₂/t·nm),4730.2,322.0,True
+9419242,BIRCH ARROW,General cargo ship,52998.0,Handymax/Supramax (35-60k),E,Nassau,EEXI (6.2 gCO₂/t·nm),1436.9,321.4,True
+9363663,RIVER PEARL,General cargo ship,52223.0,Handymax/Supramax (35-60k),D,Nassau,EEXI (4.9 gCO₂/t·nm),4789.0,260.8,True
+9460796,FJORD PEARL,General cargo ship,51703.0,Handymax/Supramax (35-60k),D,Nassau,EEXI (5.49 gCO₂/t·nm),1504.8,259.2,True
+9401984,LAKE PEARL,General cargo ship,51687.0,Handymax/Supramax (35-60k),D,Nassau,EEXI (5.52 gCO₂/t·nm),4859.9,255.6,True
+9452139,STAR TOSCANA,General cargo ship,51674.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (5.79 gCO₂/t·nm),8813.7,252.0,True
+9548823,STAR NAVARRA,General cargo ship,51624.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (5.75 gCO₂/t·nm),7334.6,260.6,True
+9548835,STAR DALMATIA,General cargo ship,51588.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (5.78 gCO₂/t·nm),5243.1,271.8,True
+9593854,STAR LAGUNA,General cargo ship,50827.0,Handymax/Supramax (35-60k),D,Bergen,EEXI (6.04 gCO₂/t·nm),2848.9,263.5,True
+9593880,STAR LOUISIANA,General cargo ship,50720.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (6.05 gCO₂/t·nm),8705.3,267.3,True
+9593907,STAR LIVORNO,General cargo ship,50700.0,Handymax/Supramax (35-60k),D,Bergen,EEXI (6.04 gCO₂/t·nm),6346.8,269.8,True
+9079119,HARDANGER,General cargo ship,50198.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (6.62 gCO₂/t·nm),6441.0,273.5,True
+9081801,HOSANGER,General cargo ship,50198.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (6.68 gCO₂/t·nm),5580.9,252.3,True
+9100073,HOYANGER,General cargo ship,50198.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (6.58 gCO₂/t·nm),5652.4,266.0,True
+9396141,STAR KINN,General cargo ship,49924.0,Handymax/Supramax (35-60k),E,Bergen,EEXI (6.82 gCO₂/t·nm),5912.9,281.4,True
+9396153,STAR KVARVEN,General cargo ship,49924.0,Handymax/Supramax (35-60k),E,Bergen,EEXI (6.82 gCO₂/t·nm),3872.5,334.8,True
+9107318,CANELO ARROW,General cargo ship,48077.0,Handymax/Supramax (35-60k),D,Nassau,EEXI (5.79 gCO₂/t·nm),5136.0,258.0,True
+9235141,POPLAR ARROW,General cargo ship,47852.0,Handymax/Supramax (35-60k),E,Nassau,EEXI (5.96 gCO₂/t·nm),3427.9,278.1,True
+9200421,SAGA JANDAIA,General cargo ship,47027.0,Handymax/Supramax (35-60k),C,Hong Kong,EEXI (6.44 gCO₂/t·nm),4656.8,249.8,True
+9007532,JACAMAR ARROW,General cargo ship,46998.0,Handymax/Supramax (35-60k),E,Nassau,EEXI (5.78 gCO₂/t·nm),5847.4,281.2,True
+9160798,SAGA BEIJA-FLOR,General cargo ship,46990.0,Handymax/Supramax (35-60k),C,Nassau,EEXI (5.79 gCO₂/t·nm),2674.7,239.9,True
+9008706,ARACARI ARROW,General cargo ship,46956.0,Handymax/Supramax (35-60k),D,Nassau,EEXI (5.7 gCO₂/t·nm),7877.4,271.0,True
+9263069,MORNING,General cargo ship,46858.0,Handymax/Supramax (35-60k),E,Monrovia,EEXI (5.52 gCO₂/t·nm),2058.3,369.6,True
+9363637,SAGA JOURNEY,General cargo ship,46652.0,Handymax/Supramax (35-60k),E,Nassau,EEXI (6.19 gCO₂/t·nm),8154.0,278.4,True
+9071557,STAR HERDLA,General cargo ship,46580.0,Handymax/Supramax (35-60k),E,Bergen,EEXI (6.44 gCO₂/t·nm),4169.5,278.7,True
+9343481,SAGA ENTERPRISE,General cargo ship,46550.0,Handymax/Supramax (35-60k),C,Nassau,EEXI (6.04 gCO₂/t·nm),3386.5,244.0,True
+9071569,STAR HIDRA,General cargo ship,46547.0,Handymax/Supramax (35-60k),E,Bergen,EEXI (6.49 gCO₂/t·nm),3666.1,274.6,True
+9343493,SAGA EXPLORER,General cargo ship,46500.0,Handymax/Supramax (35-60k),D,Nassau,EEXI (6.31 gCO₂/t·nm),3254.9,258.4,True
+9343510,SAGA FRONTIER,General cargo ship,46500.0,Handymax/Supramax (35-60k),C,Hong Kong,EEXI (6.23 gCO₂/t·nm),5303.9,238.5,True
+9659749,CANADA PEARL,General cargo ship,45566.0,Handymax/Supramax (35-60k),D,Nassau,EEXI (4.98 gCO₂/t·nm),2160.4,267.1,True
+9659737,TRINIDAD PEARL,General cargo ship,45556.0,Handymax/Supramax (35-60k),D,Nassau,EEXI (4.55 gCO₂/t·nm),5905.8,263.0,True
+9186211,INDIANA,General cargo ship,44982.0,Handymax/Supramax (35-60k),D,Bergen,EEXI (7.03 gCO₂/t·nm),4871.0,262.0,True
+9186223,INVENTANA,General cargo ship,44982.0,Handymax/Supramax (35-60k),E,Bergen,EEXI (6.93 gCO₂/t·nm),7606.1,301.5,True
+9310513,STAR JAVA,General cargo ship,44692.0,Handymax/Supramax (35-60k),C,Bergen,EEXI (6.66 gCO₂/t·nm),5511.9,244.3,True
+9756250,DEVBULK SERVET,General cargo ship,41500.0,Handymax/Supramax (35-60k),B,Majuro,EEDI (5.56 gCO₂/t·nm),3483.5,191.6,True
+9758301,DEVBULK DENIZ,General cargo ship,39830.0,Handymax/Supramax (35-60k),B,Majuro,EEDI (5.32 gCO₂/t·nm),5469.4,189.5,True
+9851359,BC PISTI,General cargo ship,39287.0,Handymax/Supramax (35-60k),A,Panama,EEXI (4.93 gCO₂/t·nm),5611.1,164.8,True
+9753284,BERGE GALDHOPIGGEN,General cargo ship,38907.0,Handymax/Supramax (35-60k),B,Douglas,EEXI (4.83 gCO₂/t·nm),5801.1,214.8,True
+9877327,WECO LAURA,General cargo ship,38575.0,Handymax/Supramax (35-60k),A,Singapore,EEDI (5.22 gCO₂/t·nm),4891.0,178.6,True
+9633197,RADIANT REB,General cargo ship,38233.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (6.37 gCO₂/t·nm),6489.2,213.9,True
+9635743,DRINA S,General cargo ship,38037.0,Handymax/Supramax (35-60k),B,Panama,EEXI (5.96 gCO₂/t·nm),4897.5,190.6,True
+9416458,DEVBULK SINEM,General cargo ship,38009.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (6.71 gCO₂/t·nm),2089.2,208.5,True
+9883065,SSI PROVIDENCE,General cargo ship,37899.0,Handymax/Supramax (35-60k),A,Majuro,EEDI (5.1 gCO₂/t·nm),5439.2,177.2,True
+9773844,MOUNTPARK,General cargo ship,37839.0,Handymax/Supramax (35-60k),B,London,EEDI (5.52 gCO₂/t·nm),2229.1,202.9,True
+9801160,AMBER STAR.GR,General cargo ship,37692.0,Handymax/Supramax (35-60k),B,Majuro,EEDI (5.51 gCO₂/t·nm),660.3,219.5,True
+9846304,BERGE JUNGFRAU,General cargo ship,37683.0,Handymax/Supramax (35-60k),B,Majuro,EEDI (5.5 gCO₂/t·nm),2598.6,198.2,True
+9791884,ISABELA ISLAND,General cargo ship,37528.0,Handymax/Supramax (35-60k),B,"Hong Kong, China",EEDI (5.53 gCO₂/t·nm),4407.3,219.3,True
+9722443,INDIGO LAKE,General cargo ship,37507.0,Handymax/Supramax (35-60k),E,"Hong Kong, China",EEDI (5.53 gCO₂/t·nm),614.0,319.5,True
+9791963,INCHEON BAY,General cargo ship,37501.0,Handymax/Supramax (35-60k),D,"Hong Kong, China",EEDI (5.56 gCO₂/t·nm),2553.3,262.3,True
+9711705,DEVBULK SADIYE,General cargo ship,37322.0,Handymax/Supramax (35-60k),A,Majuro,EEXI (5.94 gCO₂/t·nm),4957.8,178.3,True
+9380829,NAGUAL,General cargo ship,37277.0,Handymax/Supramax (35-60k),E,Majuro,EIV (6.39 gCO₂/t·nm),525.0,335.3,True
+9585651,BLUE ONE,General cargo ship,37064.0,Handymax/Supramax (35-60k),C,Monrovia,EEXI (6.51 gCO₂/t·nm),6892.8,245.6,True
+9606003,CETUS TIGER,General cargo ship,37059.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (6.54 gCO₂/t·nm),2515.7,200.2,True
+9526710,RADIUS,General cargo ship,36976.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (6.62 gCO₂/t·nm),7437.9,222.7,True
+9703459,DEVBULK CANSEN,General cargo ship,36706.0,Handymax/Supramax (35-60k),A,Majuro,EEXI (6.23 gCO₂/t·nm),2502.7,179.4,True
+9767728,NARIE,General cargo ship,36648.0,Handymax/Supramax (35-60k),B,Nassau,EEXI (4.73 gCO₂/t·nm),6194.4,196.5,True
+9767704,GARDNO,General cargo ship,36643.0,Handymax/Supramax (35-60k),B,Nassau,EEXI (4.79 gCO₂/t·nm),7375.2,202.3,True
+9766164,FEDERAL ALSTER,General cargo ship,36583.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (4.73 gCO₂/t·nm),4188.3,220.4,True
+9766188,FEDERAL MOSEL,General cargo ship,36575.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (4.59 gCO₂/t·nm),1695.2,216.5,True
+9766176,FEDERAL RUHR,General cargo ship,36575.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (4.68 gCO₂/t·nm),4701.3,206.0,True
+9186780,TEAL ARROW,General cargo ship,36466.0,Handymax/Supramax (35-60k),B,Nassau,EEXI (6.2 gCO₂/t·nm),7500.0,204.3,True
+9610212,SUPERNOVA B,General cargo ship,36367.0,Handymax/Supramax (35-60k),C,Panama,EIV (8.01 gCO₂/t·nm),2313.1,226.5,True
+9576739,ECO TIDE,General cargo ship,35916.0,Handymax/Supramax (35-60k),C,Madeira,EIV (7.87 gCO₂/t·nm),5056.3,241.4,True
+9576727,TEAM VIEW,General cargo ship,35914.0,Handymax/Supramax (35-60k),E,Majuro,EIV (7.39 gCO₂/t·nm),54.1,307.0,True
+9602679,NORDIC MALMOE,General cargo ship,35843.0,Handymax/Supramax (35-60k),E,Monrovia,EEXI (6.44 gCO₂/t·nm),589.8,343.4,True
+9713193,BERGE ANNUPURI,General cargo ship,34536.0,Handysize (10-35k),B,Douglas,EEXI (5.07 gCO₂/t·nm),5419.8,208.7,True
+9491575,ATLAS S,General cargo ship,34478.0,Handysize (10-35k),A,Panama,EEXI (6.64 gCO₂/t·nm),1745.4,167.4,True
+9728461,FIORA TOPIC,General cargo ship,34356.0,Handysize (10-35k),B,Majuro,EEDI (5.36 gCO₂/t·nm),3611.6,206.9,True
+9728473,ALBERTO TOPIC,General cargo ship,34356.0,Handysize (10-35k),B,Majuro,EEDI (5.26 gCO₂/t·nm),5178.1,218.1,True
+9473705,NEPTULUS,General cargo ship,33706.0,Handysize (10-35k),B,Majuro,EEXI (6.17 gCO₂/t·nm),2203.3,211.5,True
+9711913,PRINCESSE OUI,General cargo ship,33375.0,Handysize (10-35k),B,Monrovia,EEXI (5.06 gCO₂/t·nm),5007.2,215.2,True
+9635248,RIJN CONFIDENCE,General cargo ship,33328.0,Handysize (10-35k),A,Madeira,EIV (5.73 gCO₂/t·nm),1952.0,181.3,True
+9426879,UBC STOCKHOLM,General cargo ship,33301.0,Handysize (10-35k),C,Limassol,EEXI (7.06 gCO₂/t·nm),7515.7,228.9,True
+9652492,ECO WILDFIRE,General cargo ship,33296.0,Handysize (10-35k),D,Monrovia,EEXI (6.3 gCO₂/t·nm),1049.2,254.1,True
+9370408,K BEREKET,General cargo ship,33225.0,Handysize (10-35k),C,Monrovia,EEXI (6.24 gCO₂/t·nm),2957.2,222.5,True
+9496173,GEM STAR,General cargo ship,33171.0,Handysize (10-35k),E,Panama,EEXI (6.52 gCO₂/t·nm),5589.3,275.9,True
+9478470,DOUBLE DIAMOND,General cargo ship,33145.0,Handysize (10-35k),C,Majuro,EEXI (6.51 gCO₂/t·nm),4673.8,226.0,True
+9459149,IVS KINGLET,General cargo ship,33132.0,Handysize (10-35k),C,Majuro,EEXI (6.58 gCO₂/t·nm),6312.8,230.4,True
+9343637,TEAL BAY,General cargo ship,32327.0,Handysize (10-35k),B,Douglas,EEXI (6.64 gCO₂/t·nm),5871.2,200.4,True
+9400942,KAMENARI,General cargo ship,32326.0,Handysize (10-35k),C,Kingstown,EEXI (6.47 gCO₂/t·nm),9077.5,236.0,True
+9400954,CAPTAIN DIMITRIS S,General cargo ship,32309.0,Handysize (10-35k),C,Monrovia,EIV (8.31 gCO₂/t·nm),1697.2,226.7,True
+9385063,IRMA S,General cargo ship,32295.0,Handysize (10-35k),E,Monrovia,EIV (8.31 gCO₂/t·nm),2391.6,282.2,True
+9400904,MOON GATE,General cargo ship,32292.0,Handysize (10-35k),C,San Marino,EEXI (6.72 gCO₂/t·nm),3784.3,224.0,True
+9363314,POCHARD S,General cargo ship,32285.0,Handysize (10-35k),A,Monrovia,EIV (6.84 gCO₂/t·nm),9018.7,183.8,True
+9400887,PNOI,General cargo ship,32282.0,Handysize (10-35k),D,Panama,EEXI (6.32 gCO₂/t·nm),691.5,252.1,True
+9478482,CORINTHIAN SPIRE,General cargo ship,32154.0,Handysize (10-35k),C,Nassau,EEXI (6.57 gCO₂/t·nm),4186.5,221.0,True
+9311311,LADY MERAL,General cargo ship,32131.0,Handysize (10-35k),E,Panama,EEXI (6.92 gCO₂/t·nm),3074.0,296.0,True
+9432531,PLUTO,General cargo ship,32092.0,Handysize (10-35k),C,Monrovia,EEXI (7.22 gCO₂/t·nm),2300.5,221.6,True
+9542685,NEGMAR CICEK,General cargo ship,31997.0,Handysize (10-35k),B,Majuro,EEXI (6.93 gCO₂/t·nm),3220.8,215.2,True
+9424089,REGAL RACHEL,General cargo ship,31881.0,Handysize (10-35k),A,Majuro,EEXI (6.91 gCO₂/t·nm),3425.3,177.1,True
+9302918,LIBRA DREAM,General cargo ship,31700.0,Handysize (10-35k),C,Panama,EIV (7.35 gCO₂/t·nm),1219.9,223.0,True
+9449871,DEVBULK SALIHA,General cargo ship,31018.0,Handysize (10-35k),A,Majuro,EEXI (6.38 gCO₂/t·nm),3095.8,180.2,True
+9449895,DEVBULK ALARA,General cargo ship,31018.0,Handysize (10-35k),A,Majuro,EEXI (6.37 gCO₂/t·nm),5356.9,169.3,True
+9625607,DEVBULK BEGUM,General cargo ship,31018.0,Handysize (10-35k),A,Majuro,EEXI (6.93 gCO₂/t·nm),4107.2,167.3,True
+9432127,CHIPOLBROK STAR,General cargo ship,30346.0,Handysize (10-35k),E,Hong Kong,EEXI (8.1 gCO₂/t·nm),422.6,326.4,True
+9550412,DEVBULK IMABARI,General cargo ship,29451.0,Handysize (10-35k),A,Majuro,EEXI (7.44 gCO₂/t·nm),1850.1,156.2,True
+9449780,KEFALONIA,General cargo ship,28742.0,Handysize (10-35k),C,Majuro,EEXI (7.93 gCO₂/t·nm),3599.6,224.6,True
+9458391,SEREN,General cargo ship,28085.0,Handysize (10-35k),C,Hong Kong,EEXI (8 gCO₂/t·nm),4615.9,234.6,True
+9427380,BOLTEN SYMI,General cargo ship,25953.0,Handysize (10-35k),B,Madeira,EEXI (7.91 gCO₂/t·nm),7719.1,216.9,True
+9393539,AAL GEELONG,General cargo ship,25820.0,Handysize (10-35k),B,Limassol,EIV (8.66 gCO₂/t·nm),6970.0,208.0,True
+9521851,PATAGONMAN,General cargo ship,18858.0,Handysize (10-35k),A,Singapore,EEXI (8.95 gCO₂/t·nm),9562.5,180.4,True
+9420825,DOLFIJNGRACHT,General cargo ship,17967.0,Handysize (10-35k),C,Amsterdam,EEXI (5.97 gCO₂/t·nm),8393.9,240.9,True
+9333539,ARNEBORG,General cargo ship,17356.0,Handysize (10-35k),C,Delfzijl,EEXI (8.24 gCO₂/t·nm),8367.4,244.8,True
+9435868,BBC HUDSON,General cargo ship,17326.0,Handysize (10-35k),B,St. John'S,Not Applicable,1262.4,218.5,True
+9673197,HOSEI SAKURA,General cargo ship,16949.0,Handysize (10-35k),A,Panama,EIV (12.16 gCO₂/t·nm),2779.8,173.1,True
+9528706,SIDER LONDON,General cargo ship,14121.0,Handysize (10-35k),B,Madeira,EIV (13.04 gCO₂/t·nm),4361.5,189.8,True
+9355109,ROYAL II,General cargo ship,13721.0,Handysize (10-35k),A,Panama,EEXI (10.05 gCO₂/t·nm),927.6,133.7,True
+9337224,BBC ROSARIO,General cargo ship,12873.0,Handysize (10-35k),B,Monrovia,EIV (13.35 gCO₂/t·nm),3713.3,201.5,True
+9433274,HUMBERGRACHT,General cargo ship,12771.0,Handysize (10-35k),A,Amsterdam,EIV (13.36 gCO₂/t·nm),448.8,165.0,True
+9468085,ALANIS,General cargo ship,12744.0,Handysize (10-35k),B,Saint-John'S,EEXI (8.95 gCO₂/t·nm),9638.6,192.0,True
+9435117,INDUSTRIAL URSULA,General cargo ship,12742.0,Handysize (10-35k),A,St.John'S,EIV (13.5 gCO₂/t·nm),7567.6,173.7,True
+9488061,DEBBIE,General cargo ship,12731.0,Handysize (10-35k),A,Monrovia,EEXI (9.16 gCO₂/t·nm),6724.5,182.0,True
+9468097,ANNIE,General cargo ship,12654.0,Handysize (10-35k),B,Saint-John'S,EEXI (9.13 gCO₂/t·nm),4329.3,198.6,True
+9467017,SOPHIA,General cargo ship,12590.0,Handysize (10-35k),A,St. John´S,EIV (14.17 gCO₂/t·nm),8798.6,176.6,True
+9741126,ZEA SERVANT,General cargo ship,12302.0,Handysize (10-35k),A,Hong Kong,EEXI (10.27 gCO₂/t·nm),4017.1,160.5,True
+9320506,MORNING TIDE,General cargo ship,12008.0,Handysize (10-35k),B,Bridgetown,EIV (10.58 gCO₂/t·nm),2431.3,191.6,True
+9294965,AL UDEID,General cargo ship,10508.0,Handysize (10-35k),A,Panama,EEXI (9.88 gCO₂/t·nm),2613.3,145.5,True
+9407586,BBC KIMBERLEY,General cargo ship,10340.0,Handysize (10-35k),B,Saint-John'S,EIV (17.9 gCO₂/t·nm),3900.9,216.2,True
+9534432,INDUSTRIAL MOMENTUM,General cargo ship,10049.0,Handysize (10-35k),A,Groningen,EEXI (12.06 gCO₂/t·nm),3230.7,135.1,True
+9534470,INDUSTRIAL MERCHANT,General cargo ship,10021.0,Handysize (10-35k),A,Groningen,EEXI (12.11 gCO₂/t·nm),1537.3,128.2,True
+9415052,HC MELINA,General cargo ship,9198.0,Small (<10k),A,Saint John'S,EIV (14.12 gCO₂/t·nm),1827.4,127.6,True
+9810355,INDUSTRIAL COLOR,General cargo ship,8428.0,Small (<10k),A,Madeira,EEDI (13.18 gCO₂/t·nm),143.3,160.9,True
+9213935,INDUSTRIAL CHALLENGER,General cargo ship,8057.0,Small (<10k),A,St. John'S,Not Applicable,1330.7,184.5,True
+9347853,BBC DIRECTION,General cargo ship,7973.0,Small (<10k),A,Saint-John'S,EIV (20.05 gCO₂/t·nm),1445.0,175.2,True
+9453884,MILTON SANTOS,Oil tanker,156629.0,Large (100-200k),E,Rio De Janeiro,EEDI (3.16 gCO₂/t·nm),4972.3,596.8,True
+9453858,MARCILIO DIAS,Oil tanker,156548.0,Large (100-200k),E,Rio De Janeiro,EEDI (3.08 gCO₂/t·nm),12934.7,590.5,True
+9453846,ANDRE REBOUCAS,Oil tanker,156520.0,Large (100-200k),E,Rio De Janeiro,EEXI (2.85 gCO₂/t·nm),15632.9,643.7,True
+9461843,TORM GLORIA,Oil tanker,119456.0,Large (100-200k),E,Singapore,EEXI (3.24 gCO₂/t·nm),7525.5,444.4,True
+9531648,TORM GRACE,Oil tanker,119456.0,Large (100-200k),E,Singapore,EEXI (3.24 gCO₂/t·nm),8512.7,393.8,True
+9531636,TORM GEMMA,Oil tanker,119456.0,Large (100-200k),E,Singapore,EEXI (3.25 gCO₂/t·nm),976.7,812.6,True
+9426312,TORM GITTE,Oil tanker,119456.0,Large (100-200k),E,Singapore,EEXI (3.24 gCO₂/t·nm),12669.9,414.0,True
+9821706,ELANDRA SOUND,Oil tanker,115666.0,Large (100-200k),D,Monrovia,EEXI (3.27 gCO₂/t·nm),9836.3,372.8,True
+9904871,TORM HELENE,Oil tanker,115575.0,Large (100-200k),C,Copenhagen,EEXI (2.87 gCO₂/t·nm),256.4,328.2,True
+9402469,ANAVATOS II,Oil tanker,115459.0,Large (100-200k),E,Majuro,EEDI (3.73 gCO₂/t·nm),1187.8,1280.0,True
+9823560,MARLIN LA PLATA,Oil tanker,114752.0,Large (100-200k),E,Majuro,EEXI (2.89 gCO₂/t·nm),14517.6,389.8,True
+9547673,CASTRO ALVES,Oil tanker,114562.0,Large (100-200k),E,Rio De Janeiro,EEDI (3.56 gCO₂/t·nm),4274.4,396.3,True
+9888730,FEZZAN,Oil tanker,114243.0,Large (100-200k),E,Valletta,EEDI (2.88 gCO₂/t·nm),4781.7,411.0,True
+9740421,SEAENVOY,Oil tanker,113300.0,Large (100-200k),D,Hong Kong,EEXI (3.1 gCO₂/t·nm),8479.9,343.1,True
+9740419,SEAODYSSEY,Oil tanker,113176.0,Large (100-200k),E,Hong Kong,EEDI (3.12 gCO₂/t·nm),3337.9,396.9,True
+9874507,EBN HAWKEL,Oil tanker,112003.0,Large (100-200k),E,Valletta,EEDI (3.03 gCO₂/t·nm),14824.6,390.1,True
+9732395,POLAR BRIGHT,Oil tanker,109999.0,Large (100-200k),D,Majuro,EEXI (3.38 gCO₂/t·nm),13046.6,381.6,True
+9772022,PACIFIC RAWAN,Oil tanker,109999.0,Large (100-200k),E,Majuro,EEDI (2.93 gCO₂/t·nm),12882.5,434.5,True
+9772010,PACIFIC ANNA,Oil tanker,109999.0,Large (100-200k),E,Majuro,EEDI (3.04 gCO₂/t·nm),11101.4,398.0,True
+9389277,ZENOVIA LADY,Oil tanker,109999.0,Large (100-200k),E,Monrovia,EEXI (3.36 gCO₂/t·nm),5034.4,515.2,True
+9721504,POLAR ACE,Oil tanker,109999.0,Large (100-200k),E,Majuro,EEXI (3.33 gCO₂/t·nm),2998.6,411.0,True
+9722182,STI GRATITUDE,Oil tanker,109999.0,Large (100-200k),E,Majuro,EEXI (3.11 gCO₂/t·nm),2515.5,469.6,True
+9712864,TORM HANNAH,Oil tanker,109999.0,Large (100-200k),D,Vejle,EEXI (3.15 gCO₂/t·nm),8510.3,369.7,True
+9838228,STI LOBELIA,Oil tanker,109994.0,Large (100-200k),E,Majuro,EEXI (3.03 gCO₂/t·nm),15519.0,397.4,True
+9686637,FRONT CHEETAH,Oil tanker,109900.0,Large (100-200k),D,Majuro,EEXI (3.02 gCO₂/t·nm),10973.5,377.3,True
+9686649,FRONT COUGAR,Oil tanker,109896.0,Large (100-200k),D,Majuro,EEXI (3.03 gCO₂/t·nm),6849.0,371.9,True
+9887815,FRONT FUTURE,Oil tanker,109896.0,Large (100-200k),D,Majuro,EEXI (3.25 gCO₂/t·nm),14431.0,367.0,True
+9790995,FRONT CAPELLA,Oil tanker,109895.0,Large (100-200k),D,Majuro,EEXI (3.09 gCO₂/t·nm),5761.1,344.1,True
+9745902,FRONT ALTAIR,Oil tanker,109894.0,Large (100-200k),D,Majuro,EEXI (3.07 gCO₂/t·nm),2318.7,385.7,True
+9783423,RONG LIN WAN,Oil tanker,109783.0,Large (100-200k),D,Singapore,EEXI (3.05 gCO₂/t·nm),15892.4,386.7,True
+9388728,OCEAN PHOENIX,Oil tanker,108940.0,Large (100-200k),E,Monrovia,EEXI (3.4 gCO₂/t·nm),3522.7,484.6,True
+9410179,MINERVA PISCES,Oil tanker,105475.0,Large (100-200k),E,Valletta,EEXI (3.45 gCO₂/t·nm),11465.1,489.7,True
+9469687,YASA AQUALINA,Oil tanker,105304.0,Large (100-200k),E,Majuro,EIV (4.57 gCO₂/t·nm),11112.4,463.4,True
+9692478,T.KURUCESME,Oil tanker,105171.0,Large (100-200k),E,Istanbul,EEXI (3.44 gCO₂/t·nm),5877.7,456.4,True
+9774343,GEM NO. 3,Oil tanker,79920.0,Panamax (60-100k),D,Panama,EEDI (4.19 gCO₂/t·nm),11490.6,348.1,True
+9788394,ARISTARCHOS,Oil tanker,79905.0,Panamax (60-100k),C,Nassau,EEDI (4.21 gCO₂/t·nm),8149.3,308.6,True
+9794848,ADVANTAGE PADOVA,Oil tanker,75111.0,Panamax (60-100k),C,Majuro,EEDI (4.05 gCO₂/t·nm),2362.0,312.8,True
+9592680,TORM EMMA,Oil tanker,75022.0,Panamax (60-100k),D,Sæby,EEXI (3.96 gCO₂/t·nm),4766.9,346.7,True
+9389564,ATHINA,Oil tanker,74999.0,Panamax (60-100k),E,Monrovia,EEXI (4.07 gCO₂/t·nm),2464.2,415.1,True
+9791872,BRIGHT FUTURE,Oil tanker,74999.0,Panamax (60-100k),D,Luxembourg,EEDI (3.84 gCO₂/t·nm),139.8,347.0,True
+9863235,HAFNIA NANJING,Oil tanker,74999.0,Panamax (60-100k),D,Singapore,EEXI (4.01 gCO₂/t·nm),1663.2,350.3,True
+9830290,HAFNIA SHANGHAI,Oil tanker,74999.0,Panamax (60-100k),B,Valletta,EEXI (3.99 gCO₂/t·nm),7194.1,272.6,True
+9778296,CIELO BIANCO,Oil tanker,74999.0,Panamax (60-100k),C,Monrovia,EEDI (3.78 gCO₂/t·nm),690.4,310.7,True
+9326873,ALBARO,Oil tanker,74998.0,Panamax (60-100k),E,Majuro,EEXI (4.07 gCO₂/t·nm),229.9,773.4,True
+9387970,AVRA PATROS,Oil tanker,74998.0,Panamax (60-100k),D,Monrovia,EEXI (4.07 gCO₂/t·nm),5962.0,379.0,True
+9409479,SANMAR SONATINA,Oil tanker,74997.0,Panamax (60-100k),B,Singapore,EIV (7.13 gCO₂/t·nm),3250.6,289.3,True
+9387281,ENERGY CENTAUR,Oil tanker,74995.0,Panamax (60-100k),E,Douglas,EEXI (4.06 gCO₂/t·nm),5485.7,428.1,True
+9332640,CHRYSTAL ARCTIC,Oil tanker,74910.0,Panamax (60-100k),D,Majuro,EIV (4.08 gCO₂/t·nm),3441.2,386.0,True
+9735610,HAFNIA EXPERIENCE,Oil tanker,74669.0,Panamax (60-100k),D,Singapore,EEXI (3.79 gCO₂/t·nm),592.7,340.5,True
+9467811,HAFNIA AFRICA,Oil tanker,74540.0,Panamax (60-100k),D,Singapore,EEXI (4.08 gCO₂/t·nm),5400.9,380.1,True
+9766217,HAFNIA NILE,Oil tanker,74189.0,Panamax (60-100k),C,Singapore,EEXI (4.09 gCO₂/t·nm),3893.6,314.8,True
+9766190,HAFNIA KALLANG,Oil tanker,74189.0,Panamax (60-100k),B,Singapore,EEXI (4.09 gCO₂/t·nm),5998.0,287.9,True
+9471329,FLAGSHIP SAGE,Oil tanker,74158.0,Panamax (60-100k),D,"Majuro, Marshall Islands",EEXI (4.09 gCO₂/t·nm),3263.7,357.8,True
+9766205,HAFNIA TAGUS,Oil tanker,74151.0,Panamax (60-100k),B,Singapore,EEXI (4.09 gCO₂/t·nm),2868.2,282.8,True
+9761956,SUNRISE,Oil tanker,74042.0,Panamax (60-100k),C,Monrovia,EEDI (3.88 gCO₂/t·nm),5126.4,319.3,True
+9761944,SUNRAY,Oil tanker,74040.0,Panamax (60-100k),C,Monrovia,EEDI (3.9 gCO₂/t·nm),1887.6,323.7,True
+9737527,STARLING,Oil tanker,74033.0,Panamax (60-100k),B,Singapore,EEXI (3.85 gCO₂/t·nm),1517.8,283.1,True
+9327009,FAIR WINDS,Oil tanker,73976.0,Panamax (60-100k),E,Majuro,EIV (6 gCO₂/t·nm),9295.2,716.8,True
+9334569,CHRYSTAL SKY,Oil tanker,73956.0,Panamax (60-100k),D,"Majuro, Marshall Islands",EIV (4.03 gCO₂/t·nm),3289.7,389.7,True
+9327011,CAPOEIRA,Oil tanker,73948.0,Panamax (60-100k),D,Majuro,EEXI (4.1 gCO₂/t·nm),3114.6,386.3,True
+9602710,TORM INTEGRITY,Oil tanker,73811.0,Panamax (60-100k),D,Vejle,EEXI (4.08 gCO₂/t·nm),2659.5,340.8,True
+9358929,EVRIDIKI,Oil tanker,73740.0,Panamax (60-100k),D,Nassau,EEXI (4.11 gCO₂/t·nm),7515.7,366.0,True
+9314181,DUBAI DIAMOND,Oil tanker,73672.0,Panamax (60-100k),D,"Majuro, Marshall Islands",EEXI (4.09 gCO₂/t·nm),3368.8,384.4,True
+9351440,BELLINI,Oil tanker,73582.0,Panamax (60-100k),E,"Majuro, Marshall Islands",EIV (4.86 gCO₂/t·nm),1473.1,423.2,True
+9314193,DUBAI GOLD,Oil tanker,73580.0,Panamax (60-100k),E,"Majuro, Marshall Islands",EEXI (4.07 gCO₂/t·nm),2059.2,407.2,True
+9485629,UOG IOANNIS V,Oil tanker,73338.0,Panamax (60-100k),E,Majuro,EIV (4.98 gCO₂/t·nm),12243.5,434.5,True
+9222132,LOVE,Oil tanker,72910.0,Panamax (60-100k),E,St.John'S,EIV (4.64 gCO₂/t·nm),254.7,885.8,True
+9392482,TORM LOUISE,Oil tanker,53049.0,Handymax/Supramax (35-60k),C,Copenhagen,EEXI (4.81 gCO₂/t·nm),5324.7,322.4,True
+9392468,TORM LOTTE,Oil tanker,52996.0,Handymax/Supramax (35-60k),B,Copenhagen,EEXI (4.82 gCO₂/t·nm),2386.9,282.9,True
+9405899,MERSINI,Oil tanker,51753.0,Handymax/Supramax (35-60k),D,Panama,EEXI (4.84 gCO₂/t·nm),4809.4,344.4,True
+9812743,HIGH TRANSPORTER,Oil tanker,51504.0,Handymax/Supramax (35-60k),B,Monrovia,EEDI (4.42 gCO₂/t·nm),3939.8,289.5,True
+9590723,JAG PRACHI,Oil tanker,51486.0,Handymax/Supramax (35-60k),A,Mumbai,EEXI (4.86 gCO₂/t·nm),8929.7,263.0,True
+9590711,SV WAKILI,Oil tanker,51441.0,Handymax/Supramax (35-60k),C,Monrovia,EEXI (4.8 gCO₂/t·nm),7727.5,295.8,True
+9326512,AKTEA,Oil tanker,51371.0,Handymax/Supramax (35-60k),A,Valletta,EEXI (4.9 gCO₂/t·nm),3848.8,253.8,True
+9315056,MTM MISSISSIPPI,Oil tanker,51182.0,Handymax/Supramax (35-60k),C,Singapore,EEXI (4.91 gCO₂/t·nm),5979.7,324.2,True
+9351634,NAVE EQUINOX,Oil tanker,50922.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (6.03 gCO₂/t·nm),5015.3,334.8,True
+9669914,GREEN PLANET,Oil tanker,50844.0,Handymax/Supramax (35-60k),C,Monrovia,EEDI (4.35 gCO₂/t·nm),3141.9,307.5,True
+9396775,ELEGANT GRACE,Oil tanker,50698.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (4.93 gCO₂/t·nm),5677.5,277.2,True
+9391505,VALROSSA,Oil tanker,50344.0,Handymax/Supramax (35-60k),C,Valletta,EIV (5.96 gCO₂/t·nm),5576.3,311.1,True
+9439802,DAS,Oil tanker,50261.0,Handymax/Supramax (35-60k),C,Majuro,EIV (6.68 gCO₂/t·nm),1962.1,318.9,True
+9892078,PACIFIC MOONSTONE,Oil tanker,50192.0,Handymax/Supramax (35-60k),A,Monrovia,EEDI (3.87 gCO₂/t·nm),2642.8,249.7,True
+9423906,FLORA MARIS,Oil tanker,50179.0,Handymax/Supramax (35-60k),B,Panama,EEXI (4.96 gCO₂/t·nm),1959.5,274.8,True
+9478688,PINE MEADOW,Oil tanker,50171.0,Handymax/Supramax (35-60k),E,Madeira,EIV (6.05 gCO₂/t·nm),2263.0,405.6,True
+9788485,ST.NIKOLAI,Oil tanker,50129.0,Handymax/Supramax (35-60k),A,Singapore,EEDI (4.73 gCO₂/t·nm),2178.6,238.8,True
+9953432,ATROTOS,Oil tanker,50113.0,Handymax/Supramax (35-60k),A,Majuro,EEDI (4.96 gCO₂/t·nm),3759.8,240.0,True
+9788497,ST.PETRI,Oil tanker,50105.0,Handymax/Supramax (35-60k),B,Singapore,EIV (5.72 gCO₂/t·nm),7885.4,286.1,True
+9468815,BOLERO,Oil tanker,50094.0,Handymax/Supramax (35-60k),E,Majuro,EEXI (4.96 gCO₂/t·nm),2133.3,767.1,True
+9512185,PACCHA,Oil tanker,50091.0,Handymax/Supramax (35-60k),E,Majuro,EIV (6.66 gCO₂/t·nm),1338.9,393.9,True
+9916616,CLEAROCEAN HICKORY,Oil tanker,49999.0,Handymax/Supramax (35-60k),C,Singapore,EEXI (4.1 gCO₂/t·nm),2011.0,299.4,True
+9862932,PACIFIC SENTINEL,Oil tanker,49999.0,Handymax/Supramax (35-60k),B,Monrovia,EEDI (3.98 gCO₂/t·nm),9354.7,272.2,True
+9465978,TORM ASLAUG,Oil tanker,49999.0,Handymax/Supramax (35-60k),B,Hobro,EEXI (4.95 gCO₂/t·nm),666.0,280.7,True
+9466013,TORM AGNETE,Oil tanker,49999.0,Handymax/Supramax (35-60k),D,Venø,EEXI (4.95 gCO₂/t·nm),3074.1,345.1,True
+9443152,TORM NEW ZEALAND,Oil tanker,49999.0,Handymax/Supramax (35-60k),B,Svendborg,EEXI (4.96 gCO₂/t·nm),2004.9,264.0,True
+9657038,NAVE JUPITER,Oil tanker,49999.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (4.26 gCO₂/t·nm),8306.3,320.5,True
+9459084,NAVE BELLATRIX,Oil tanker,49999.0,Handymax/Supramax (35-60k),C,Panama,EEXI (4.96 gCO₂/t·nm),3298.0,336.0,True
+9797723,TORM SOVEREIGN,Oil tanker,49999.0,Handymax/Supramax (35-60k),A,Singapore,EEXI (4.09 gCO₂/t·nm),1521.6,201.0,True
+9332315,MISHELL,Oil tanker,49999.0,Handymax/Supramax (35-60k),D,Panama,EEXI (4.96 gCO₂/t·nm),1253.4,366.0,True
+9930519,PS STARS,Oil tanker,49999.0,Handymax/Supramax (35-60k),A,Majuro,EEDI (4.03 gCO₂/t·nm),4196.8,237.5,True
+9433509,TORM ATLANTIC,Oil tanker,49999.0,Handymax/Supramax (35-60k),B,Årø,EEXI (4.95 gCO₂/t·nm),1884.3,276.8,True
+9839105,STAVANGER POSEIDON,Oil tanker,49999.0,Handymax/Supramax (35-60k),A,Stavanger,EEDI (4.17 gCO₂/t·nm),846.0,232.1,True
+9455703,HIGH SEAS,Oil tanker,49999.0,Handymax/Supramax (35-60k),C,Monrovia,EIV (5.4 gCO₂/t·nm),7820.9,314.5,True
+9675509,HAFNIA LIONESS,Oil tanker,49999.0,Handymax/Supramax (35-60k),A,Singapore,EEXI (4.12 gCO₂/t·nm),3888.1,246.9,True
+9798973,STRIMON,Oil tanker,49999.0,Handymax/Supramax (35-60k),C,Monrovia,EEXI (4.15 gCO₂/t·nm),2533.6,296.4,True
+9890587,IOANNIS ZAFIRAKIS,Oil tanker,49999.0,Handymax/Supramax (35-60k),C,Nassau,EEXI (4.08 gCO₂/t·nm),8047.0,310.3,True
+9447744,NH ERLE,Oil tanker,49999.0,Handymax/Supramax (35-60k),C,Bergen,EEXI (4.89 gCO₂/t·nm),8526.2,325.6,True
+9709776,HAFNIA ANE,Oil tanker,49999.0,Handymax/Supramax (35-60k),B,Valletta,EEXI (4.39 gCO₂/t·nm),5654.2,284.4,True
+9465966,TORM ALICE,Oil tanker,49999.0,Handymax/Supramax (35-60k),C,Singapore,EEXI (4.94 gCO₂/t·nm),9157.9,331.4,True
+9836050,TORM SOLUTION,Oil tanker,49999.0,Handymax/Supramax (35-60k),B,Copenhagen,EEXI (4.37 gCO₂/t·nm),7774.5,273.3,True
+9900825,CLEAROCEAN MAVERICK,Oil tanker,49999.0,Handymax/Supramax (35-60k),A,Monrovia,EEDI (4.44 gCO₂/t·nm),4426.5,249.6,True
+9790361,ST. CLEMENS,Oil tanker,49998.0,Handymax/Supramax (35-60k),A,Panama,EEXI (4.14 gCO₂/t·nm),5159.0,213.5,True
+9667928,GRACE FERRUM,Oil tanker,49997.0,Handymax/Supramax (35-60k),A,Monrovia,EEXI (4.53 gCO₂/t·nm),4253.7,263.2,True
+9793387,ORIENT INNOVATION,Oil tanker,49997.0,Handymax/Supramax (35-60k),A,Singapore,EEXI (4.2 gCO₂/t·nm),6939.6,227.7,True
+9722625,HELLAS FIGHTER,Oil tanker,49997.0,Handymax/Supramax (35-60k),C,Valletta,EEDI (4.12 gCO₂/t·nm),6797.9,294.7,True
+9479838,TURMOIL,Oil tanker,49997.0,Handymax/Supramax (35-60k),C,Panama,EEXI (4.94 gCO₂/t·nm),1695.0,312.5,True
+9487469,NAVE TITAN,Oil tanker,49996.0,Handymax/Supramax (35-60k),D,Panama,EEXI (4.96 gCO₂/t·nm),1865.6,379.6,True
+9660657,OCEAN VENTURE,Oil tanker,49995.0,Handymax/Supramax (35-60k),D,Monrovia,EEXI (4.27 gCO₂/t·nm),2949.6,367.6,True
+9365386,OSCAR,Oil tanker,49995.0,Handymax/Supramax (35-60k),E,Monrovia,EEXI (4.93 gCO₂/t·nm),1131.6,397.5,True
+9882396,SOLAR KATHERINE,Oil tanker,49990.0,Handymax/Supramax (35-60k),B,Panama,EEXI (4.54 gCO₂/t·nm),4163.7,272.3,True
+9686728,STI REGINA,Oil tanker,49990.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (4.3 gCO₂/t·nm),1792.0,283.3,True
+9882413,SOLAR MADELEIN,Oil tanker,49990.0,Handymax/Supramax (35-60k),A,Singapore,EEXI (4.51 gCO₂/t·nm),5790.7,232.0,True
+9717761,TURQUOISE,Oil tanker,49990.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (4.19 gCO₂/t·nm),2958.7,264.9,True
+9794422,STI DONALD C TRAUSCHT,Oil tanker,49990.0,Handymax/Supramax (35-60k),A,Majuro,EEXI (4.49 gCO₂/t·nm),5096.3,245.4,True
+9704453,STI BLACK HAWK,Oil tanker,49990.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (4.52 gCO₂/t·nm),6380.4,288.3,True
+9307827,MINERVA VIRGO,Oil tanker,49990.0,Handymax/Supramax (35-60k),C,Monrovia,EEXI (4.96 gCO₂/t·nm),10776.6,309.7,True
+9704465,STI PONTIAC,Oil tanker,49990.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (4.46 gCO₂/t·nm),5738.6,277.7,True
+9794446,STI JARDINS,Oil tanker,49990.0,Handymax/Supramax (35-60k),A,Majuro,EEXI (4.64 gCO₂/t·nm),4409.7,259.8,True
+9669938,STI DUCHESSA,Oil tanker,49990.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (4.57 gCO₂/t·nm),11109.7,292.4,True
+9854789,TORM SUBLIME,Oil tanker,49974.0,Handymax/Supramax (35-60k),B,Copenhagen,EEXI (4.37 gCO₂/t·nm),5648.5,267.3,True
+9789257,ATLANTIC FALCON,Oil tanker,49951.0,Handymax/Supramax (35-60k),A,Majuro,EEDI (4.33 gCO₂/t·nm),4290.8,256.0,True
+9854791,TORM SPLENDID,Oil tanker,49932.0,Handymax/Supramax (35-60k),A,Copenhagen,EEXI (4.39 gCO₂/t·nm),1816.8,255.0,True
+9786190,MAERSK CRETE,Oil tanker,49919.0,Handymax/Supramax (35-60k),A,Roskilde,EEDI (3.89 gCO₂/t·nm),8557.1,246.3,True
+9786176,MAERSK CEBU,Oil tanker,49919.0,Handymax/Supramax (35-60k),D,Skovshoved,EEDI (3.93 gCO₂/t·nm),2569.2,343.7,True
+9786217,MAERSK CYPRUS,Oil tanker,49919.0,Handymax/Supramax (35-60k),A,Roskilde,EEDI (3.94 gCO₂/t·nm),3116.8,255.4,True
+9786188,MAERSK CORSICA,Oil tanker,49919.0,Handymax/Supramax (35-60k),A,Skovshoved,EEDI (3.91 gCO₂/t·nm),7698.4,225.2,True
+9718870,SILVER HEBA,Oil tanker,49897.0,Handymax/Supramax (35-60k),E,Hong Kong,EEDI (4.35 gCO₂/t·nm),733.1,420.4,True
+9794721,HELLAS MARGARITA,Oil tanker,49879.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (4.94 gCO₂/t·nm),1901.9,264.5,True
+9798076,HELLAS MARIANNA,Oil tanker,49850.0,Handymax/Supramax (35-60k),A,Valletta,EEXI (4.94 gCO₂/t·nm),3273.1,227.4,True
+9934163,ALDER EXPRESS,Oil tanker,49832.0,Handymax/Supramax (35-60k),A,Majuro,EEXI (4.18 gCO₂/t·nm),2829.4,262.0,True
+9798088,HELLAS CALAFIA,Oil tanker,49810.0,Handymax/Supramax (35-60k),A,Valletta,EEXI (4.92 gCO₂/t·nm),8292.5,263.2,True
+9683403,SILVER HOUSTON,Oil tanker,49746.0,Handymax/Supramax (35-60k),B,Panama,EEXI (4.36 gCO₂/t·nm),5607.8,271.9,True
+9718416,SILVER EBURNA,Oil tanker,49737.0,Handymax/Supramax (35-60k),C,"Majuro, Marshall Islands",EEDI (4.38 gCO₂/t·nm),6031.3,304.6,True
+9682320,SILVER VALERIE,Oil tanker,49715.0,Handymax/Supramax (35-60k),A,Majuro,EEDI (4.41 gCO₂/t·nm),6358.3,252.9,True
+9718076,MAERSK TOKYO,Oil tanker,49687.0,Handymax/Supramax (35-60k),A,Singapore,EEDI (4.14 gCO₂/t·nm),2732.7,225.0,True
+9726475,TORM TROILUS,Oil tanker,49667.0,Handymax/Supramax (35-60k),A,Singapore,EEXI (4.07 gCO₂/t·nm),5307.4,258.1,True
+9692363,SILVER MILLIE,Oil tanker,49642.0,Handymax/Supramax (35-60k),A,Majuro,EEDI (4.37 gCO₂/t·nm),5379.9,251.6,True
+9706437,STI WESTMINSTER,Oil tanker,49558.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (4.56 gCO₂/t·nm),2938.2,305.3,True
+9310692,JAG POOJA,Oil tanker,48539.0,Handymax/Supramax (35-60k),B,Mumbai,EEXI (4.99 gCO₂/t·nm),5286.6,282.7,True
+9544607,JANINE K,Oil tanker,48045.0,Handymax/Supramax (35-60k),A,Valletta,EEXI (5.06 gCO₂/t·nm),3222.2,262.0,True
+9581447,MAERSK MARU,Oil tanker,48020.0,Handymax/Supramax (35-60k),B,Singapore,EEXI (5.06 gCO₂/t·nm),3101.7,284.5,True
+9555319,MAERSK MISSISSIPPI,Oil tanker,47990.0,Handymax/Supramax (35-60k),C,Singapore,EEXI (5.07 gCO₂/t·nm),5031.9,292.1,True
+9315733,JAG PUSHPA,Oil tanker,47848.0,Handymax/Supramax (35-60k),B,Mumbai,EEXI (5.05 gCO₂/t·nm),1805.7,270.0,True
+9367671,MINERVA MEDITERRANEA,Oil tanker,47522.0,Handymax/Supramax (35-60k),C,Valletta,EEXI (5.09 gCO₂/t·nm),5553.0,299.2,True
+9829473,STI MARVEL,Oil tanker,47499.0,Handymax/Supramax (35-60k),A,Majuro,EEXI (4.13 gCO₂/t·nm),7310.6,263.4,True
+9367695,HANSA SEALANCER,Oil tanker,47451.0,Handymax/Supramax (35-60k),A,Majuro,EEXI (5.09 gCO₂/t·nm),4783.1,263.4,True
+9402782,OCEAN ELECTRA,Oil tanker,47377.0,Handymax/Supramax (35-60k),C,Monrovia,EEXI (5.1 gCO₂/t·nm),2246.0,326.4,True
+9338814,JOYCE,Oil tanker,47344.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (5.1 gCO₂/t·nm),6908.2,288.7,True
+9324459,COSMOGRAPH,Oil tanker,47326.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (5.1 gCO₂/t·nm),1285.7,346.8,True
+9282510,DYLAN,Oil tanker,46874.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (5.12 gCO₂/t·nm),3045.9,290.5,True
+9242326,MANILA I,Oil tanker,46839.0,Handymax/Supramax (35-60k),D,Panama,EEXI (5.13 gCO₂/t·nm),9028.5,368.9,True
+9440033,TORM INDIA,Oil tanker,46838.0,Handymax/Supramax (35-60k),B,Copenhagen,EEXI (5.12 gCO₂/t·nm),8224.8,281.5,True
+9288813,CHAMPION ENDURANCE,Oil tanker,46803.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (5.13 gCO₂/t·nm),6212.0,274.3,True
+9484912,TORM ALLEGRO,Oil tanker,46184.0,Handymax/Supramax (35-60k),B,Dragør,EEXI (5.16 gCO₂/t·nm),2160.7,283.3,True
+9411305,TORM CORRIDO,Oil tanker,46156.0,Handymax/Supramax (35-60k),C,Sæby,EEXI (5.15 gCO₂/t·nm),5819.6,297.2,True
+9430272,YI BAO,Oil tanker,46105.0,Handymax/Supramax (35-60k),C,Monrovia,EEXI (5.1 gCO₂/t·nm),3708.4,324.2,True
+9343194,TORM LEADER,Oil tanker,46070.0,Handymax/Supramax (35-60k),B,Marstal,EEXI (4.94 gCO₂/t·nm),3620.6,266.6,True
+9724594,SEA NAVIGATOR,Oil tanker,45999.0,Handymax/Supramax (35-60k),B,Majuro,EEDI (4.97 gCO₂/t·nm),1601.6,266.4,True
+9473717,CLEAN JUSTICE,Oil tanker,45998.0,Handymax/Supramax (35-60k),C,Monrovia,EEXI (5.17 gCO₂/t·nm),4103.2,312.4,True
+9382073,ANTARES I,Oil tanker,45997.0,Handymax/Supramax (35-60k),A,Monrovia,EIV (6.51 gCO₂/t·nm),3361.8,250.7,True
+9403322,ATLANTIC T,Oil tanker,45989.0,Handymax/Supramax (35-60k),E,Majuro,EEXI (5.17 gCO₂/t·nm),1294.4,413.3,True
+9344007,HARDRADA,Oil tanker,45983.0,Handymax/Supramax (35-60k),A,Monrovia,EIV (7.67 gCO₂/t·nm),1153.2,256.1,True
+9363467,MAMBO,Oil tanker,45967.0,Handymax/Supramax (35-60k),D,Majuro,EIV (6.82 gCO₂/t·nm),2925.8,336.6,True
+9385831,ALCYONE T,Oil tanker,45951.0,Handymax/Supramax (35-60k),B,Majuro,EEXI (5.17 gCO₂/t·nm),2885.9,279.7,True
+9273351,ETERNAL SUNSHINE,Oil tanker,45915.0,Handymax/Supramax (35-60k),C,Majuro,EEXI (5.18 gCO₂/t·nm),1991.5,308.8,True
+9363780,TWINKLE STAR,Oil tanker,45750.0,Handymax/Supramax (35-60k),D,Majuro,EEXI (5.18 gCO₂/t·nm),1543.9,341.0,True
+9636632,MAERSK ADRIATIC,Oil tanker,37538.0,Handymax/Supramax (35-60k),B,Singapore,EEXI (5.68 gCO₂/t·nm),9338.1,278.0,True
+9380594,STEEL,Oil tanker,37538.0,Handymax/Supramax (35-60k),D,"Majuro, Marshall Islands",EEXI (5.49 gCO₂/t·nm),2217.5,377.3,True
+9363493,BOW HECTOR,Oil tanker,33694.0,Handysize (10-35k),B,Bergen,EEXI (6.02 gCO₂/t·nm),8717.3,266.6,True
+9393010,BOW AGATHE,Oil tanker,33609.0,Handysize (10-35k),D,Bergen,EEXI (6.03 gCO₂/t·nm),8621.0,340.8,True
+9341445,OM BORNEO,Oil tanker,29013.0,Handysize (10-35k),A,Monrovia,EEXI (6.44 gCO₂/t·nm),7444.7,236.0,True
+9792010,SOUTHERN QUOKKA,Oil tanker,26077.0,Handysize (10-35k),A,Monrovia,EEXI (6.43 gCO₂/t·nm),1485.5,247.8,True
+9542166,NV MINERVA,Oil tanker,19992.0,Handysize (10-35k),A,Panama,EEXI (7.77 gCO₂/t·nm),6478.9,233.7,True
+9577630,BBC JUPITER,Other ship types,37135.0,Handymax/Supramax (35-60k),E,Saint John'S,Not Applicable,1052.6,267.4,True
+9614701,BBC RHONETAL,Other ship types,17577.0,Handysize (10-35k),E,Saint John'S,EIV (15.91 gCO₂/t·nm),7947.4,247.8,True
+9303314,SJARD,Other ship types,17305.0,Handysize (10-35k),B,St. John'S,Not Applicable (13.46 gCO₂/t·nm),4465.4,206.7,True
+9571387,MARCELLIN A. DESGAGNES,Other ship types,16953.0,Handysize (10-35k),B,Bridgetown,Not Applicable,8473.2,202.6,True
+9418999,SAPODILLA,Other ship types,16522.0,Handysize (10-35k),E,Monrovia,Not Applicable,2719.3,317.0,True
+9504736,BBC AQUAMARINE,Other ship types,14465.0,Handysize (10-35k),D,Saint John'S,EIV (15.24 gCO₂/t·nm),5166.6,230.6,True
+9504724,BBC AMETHYST,Other ship types,14452.0,Handysize (10-35k),D,St. John'S,EIV (15.24 gCO₂/t·nm),9021.6,233.9,True
+9563706,BBC AMBER,Other ship types,14403.0,Handysize (10-35k),C,St John'S,Not Applicable (15 gCO₂/t·nm),6297.5,222.2,True
+9504748,BBC CITRINE,Other ship types,14387.0,Handysize (10-35k),D,Saint John'S,EIV (15.24 gCO₂/t·nm),6443.8,225.1,True
+9463578,SLOMAN DISCHARGER,Other ship types,12961.0,Handysize (10-35k),B,Saint John'S,EEXI (10 gCO₂/t·nm),6374.7,188.0,True
+9435105,EVA,Other ship types,12763.0,Handysize (10-35k),A,St.John'S,EIV (13.5 gCO₂/t·nm),7019.7,165.8,True
+9283966,BBC WISCONSIN,Other ship types,12672.0,Handysize (10-35k),B,Saint John'S,Not Applicable,4526.5,178.2,True
+9501887,ANNA,Other ship types,10041.0,Handysize (10-35k),E,St. John'S,EIV (23.77 gCO₂/t·nm),7263.6,253.4,True
+9356402,UNISPIRIT,Other ship types,9775.0,Small (<10k),A,St. John'S,Not Applicable (0 gCO₂/t·nm),1706.6,134.5,True
+9559884,BBC NORFOLK,Other ship types,9677.0,Small (<10k),A,St. John'S,Not Applicable,3171.5,151.5,True
+9508419,BBC FUJI,Other ship types,9266.0,Small (<10k),C,St. John'S,Not Applicable (20.28 gCO₂/t·nm),760.9,217.0,True
+9810329,INDUSTRIAL COURAGE,Other ship types,8442.0,Small (<10k),A,Madeira,Not Applicable,413.2,135.6,True
